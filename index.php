@@ -511,7 +511,7 @@
                     <p>We offer Free Study Abroad Counselling, Course Advice, Visa Application Assistance, Personalized Guidance For Preparation. And Other services - Free visa filling, International accommodation, Flight Bookings and Forex Cards and International sim cards.</p>
                     <div class="mb30 mt60">
                          <i class="fa fa-phone fa-3x"></i>
-                    <h2 class="text-white">+91 95138 38585</h2>
+                    <h2 class="text-white">+91 75239 99199</h2>
                     <p>Mon - Thurs 8:00am - 6:00pm
                         <br> Friday 8:00am - 5:30pm</p>
                     </div>
@@ -603,7 +603,7 @@
                         <h3 class="widget-title">Contact Us</h3>
                         <ul class="listnone">
                             <li><a href="#"><i class="fa fa-envelope pr-2"></i> info@jdrmigration.com</a></li>
-                            <li><a href="#"><i class="fa fa-envelope pr-2"></i> jdrconsultancy@gmail.com</a></li>
+                            <li><a href="#"><i class="fa fa-envelope pr-2"></i> jdrmigration@gmail.com</a></li>
                             <li><a href="#"><i class="fa fa-phone pr-2"></i> +91 7523999199</a></li>
                             <li><a href="#"><i class="fa fa-map-marker pr-2"></i>3RD FLOOR, 707, NTI LAYOUT, 10 CROSS, 10TH MAIN, II PHASE, Sahakara Nagar Bengaluru Urban, Karnataka, 560092</a></li>
                         </ul>

@@ -103,9 +103,9 @@
     <div class="content">
         <div class="container">
             <div class="row">
-                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
+                <!-- <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
                     <div class="coaching-card">
-                        <!-- coaching card -->
+                        coaching card
                         <div class="coaching-card-img zoomimg">
                             <a href="#"><img src="assets/images/pdf9.jpg" alt=""
                                     class="img-fluid"></a>
@@ -114,11 +114,11 @@
                             <a href="#" class="btn-link-primary btn">View Certificate</a>
                         </div>
                     </div>
-                    <!-- /.coaching card -->
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
+                    /.coaching card
+                </div> -->
+                <!-- <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
                     <div class="coaching-card">
-                        <!-- coaching card -->
+                        coaching card
                         <div class="coaching-card-img zoomimg">
                             <a href="#"><img src="assets/images/pdf3.jpg" alt=""
                                     class="img-fluid"></a>
@@ -127,11 +127,11 @@
                             <a href="#" class="btn-link-primary btn">View Certificate</a>
                         </div>
                     </div>
-                    <!-- /.coaching card -->
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
+                    /.coaching card
+                </div> -->
+                <!-- <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
                     <div class="coaching-card">
-                        <!-- coaching card -->
+                        coaching card
                         <div class="coaching-card-img zoomimg">
                             <a href="#"><img src="assets/images/pdf5.jpg" alt=""
                                     class="img-fluid"></a>
@@ -140,11 +140,11 @@
                             <a href="#" class="btn-link-primary btn">View Certificate</a>
                         </div>
                     </div>
-                    <!-- /.coaching card -->
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
+                    /.coaching card
+                </div> -->
+                <!-- <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
                     <div class="coaching-card">
-                        <!-- coaching card -->
+                        coaching card
                         <div class="coaching-card-img zoomimg">
                             <a href="#"><img src="assets/images/pdf1.jpg" alt=""
                                     class="img-fluid"></a>
@@ -153,11 +153,11 @@
                             <a href="#" class="btn-link-primary btn">View Certificate</a>
                         </div>
                     </div>
-                    <!-- /.coaching card -->
+                    /.coaching card
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
                     <div class="coaching-card">
-                        <!-- coaching card -->
+                        coaching card
                         <div class="coaching-card-img zoomimg">
                             <a href="#"><img src="assets/images/pdf2.jpg" alt=""
                                     class="img-fluid"></a>
@@ -166,11 +166,11 @@
                             <a href="#" class="btn-link-primary btn">View Certificate</a>
                         </div>
                     </div>
-                    <!-- /.coaching card -->
+                    /.coaching card
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
                     <div class="coaching-card">
-                        <!-- coaching card -->
+                        coaching card
                         <div class="coaching-card-img zoomimg">
                             <a href="#"><img src="assets/images/pdf4.jpg" alt=""
                                     class="img-fluid"></a>
@@ -179,11 +179,11 @@
                             <a href="#" class="btn-link-primary btn">View Certificate</a>
                         </div>
                     </div>
-                    <!-- /.coaching card -->
+                    /.coaching card
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
                     <div class="coaching-card">
-                        <!-- coaching card -->
+                        coaching card
                         <div class="coaching-card-img zoomimg">
                             <a href="#"><img src="assets/images/pdf6.jpg" alt=""
                                     class="img-fluid"></a>
@@ -192,11 +192,11 @@
                             <a href="#" class="btn-link-primary btn">View Certificate</a>
                         </div>
                     </div>
-                    <!-- /.coaching card -->
+                    /.coaching card
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
                     <div class="coaching-card">
-                        <!-- coaching card -->
+                        coaching card
                         <div class="coaching-card-img zoomimg">
                             <a href="#"><img src="assets/images/pdf7.jpg" alt=""
                                     class="img-fluid"></a>
@@ -205,11 +205,11 @@
                             <a href="#" class="btn-link-primary btn">View Certificate</a>
                         </div>
                     </div>
-                    <!-- /.coaching card -->
+                    /.coaching card
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
                     <div class="coaching-card">
-                        <!-- coaching card -->
+                        coaching card
                         <div class="coaching-card-img zoomimg">
                             <a href="#"><img src="assets/images/pdf6.jpg" alt=""
                                     class="img-fluid"></a>
@@ -218,8 +218,8 @@
                             <a href="#" class="btn-link-primary btn">View Certificate</a>
                         </div>
                     </div>
-                    <!-- /.coaching card -->
-                </div>
+                    /.coaching card
+                </div> -->
             </div>
         </div>
     </div>
@@ -227,7 +227,7 @@
 
 
 
-
+<!--  -->
     <!-- {{-- footer --}} -->
     <div class="footer">
         <!-- Footer -->
@@ -264,7 +264,7 @@
                         <h3 class="widget-title">Contact Us</h3>
                         <ul class="listnone">
                             <li><a href="#"><i class="fa fa-envelope pr-2"></i> info@jdrmigration.com</a></li>
-                            <li><a href="#"><i class="fa fa-envelope pr-2"></i> jdrconsultancy@gmail.com</a></li>
+                            <li><a href="#"><i class="fa fa-envelope pr-2"></i> jdrmigration@gmail.com</a></li>
                             <li><a href="#"><i class="fa fa-phone pr-2"></i> +91 7523999199</a></li>
                             <li><a href="#"><i class="fa fa-map-marker pr-2"></i>3RD FLOOR, 707, NTI LAYOUT, 10 CROSS, 10TH MAIN, II PHASE, Sahakara Nagar Bengaluru Urban, Karnataka, 560092</a></li>
                         </ul>
