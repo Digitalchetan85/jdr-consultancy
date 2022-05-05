@@ -519,7 +519,7 @@
                 <div class="offset-xl-1 col-xl-5 offset-lg-1 col-lg-5 col-md-7 col-sm-7 col-12">
                     <div class="enquiry-short-form">
                         <h2>Enter Your Information</h2>
-                        <form class="" method="post" action="http://www.jdrconsultancy.in/enquiry.php">
+                        <form class="" method="post" action="http://www.jdrmigration.in/enquiry.php">
                             <!-- Text input-->
                             <div class="form-group">
                                 <label class="control-label sr-only" for="yourname">Your Name</label>
@@ -603,7 +603,7 @@
                         <h3 class="widget-title">Contact Us</h3>
                         <ul class="listnone">
                             <li><a href="#"><i class="fa fa-envelope pr-2"></i> info@jdrmigration.com</a></li>
-                            <li><a href="#"><i class="fa fa-envelope pr-2"></i> jdrconsultancy@gmail.com</a></li>
+                            <li><a href="#"><i class="fa fa-envelope pr-2"></i> jdrmigration@gmail.com</a></li>
                             <li><a href="#"><i class="fa fa-phone pr-2"></i> +91 7523999199</a></li>
                             <li><a href="#"><i class="fa fa-map-marker pr-2"></i>3RD FLOOR, 707, NTI LAYOUT, 10 CROSS, 10TH MAIN, II PHASE, Sahakara Nagar Bengaluru Urban, Karnataka, 560092</a></li>
                         </ul>
