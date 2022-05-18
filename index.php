@@ -50,7 +50,7 @@
                             </div>
                              <!-- <div class="col-xl-10 col-lg-10 col-10 text-center">
                                  <h2 class="mb-0" style="color: #ff0042;"><b>JDR Migration</b></h2>
-                                <small class="text-muted">Abroad Education Consultancy</small>
+                                <small class="text-muted">Abroad Education Migration</small>
                              </div>  -->
                         </div>
                     </a>
@@ -351,7 +351,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-6 col-lg-6 col-md-7 col-sm-6 col-12">
-                    <h2>About Our Consultancy</h2>
+                    <h2>About Our Migration</h2>
                     <p>Being one of the top study migration consultants, we understand the challenges arising during migration. Our primary goal is to assist you in scaling through these processes, such as assessment, documentation, and filing.</p>
                     <p>Our international education professionals have extensive expertise and knowledge of the whole study abroad process. We can help you choose the destination, school, and course, as well as aid you with your application, SOP, visa application, and other paperwork.</p>
                     <p>Get in touch with us today, so we can help you to realise your dream.</p>
@@ -365,7 +365,7 @@
             </div>
         </div>
     </div>
-    <div class="space-medium pdb0">
+    <!-- <div class="space-medium pdb0">
         <!-- Testimonial section -->
         <div class="container">
             <div class="row">
@@ -436,7 +436,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- /.Testimonial section -->
     <div class="space-medium pdb0">
         <!-- Partner section -->
@@ -511,7 +511,7 @@
                     <p>We offer Free Study Abroad Counselling, Course Advice, Visa Application Assistance, Personalized Guidance For Preparation. And Other services - Free visa filling, International accommodation, Flight Bookings and Forex Cards and International sim cards.</p>
                     <div class="mb30 mt60">
                          <i class="fa fa-phone fa-3x"></i>
-                    <h2 class="text-white">+91 95138 38585</h2>
+                    <h2 class="text-white">+91 75239 99199</h2>
                     <p>Mon - Thurs 8:00am - 6:00pm
                         <br> Friday 8:00am - 5:30pm</p>
                     </div>

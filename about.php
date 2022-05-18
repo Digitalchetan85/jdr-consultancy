@@ -110,7 +110,7 @@
                     <p>We have expert professionals, who will guide from the beginning to the end process(from getting an offer letter to getting a visa and accommodation).</p>
                     <p>We have a global presence with a strategic network of own and associate offices in 25 locations across the world. We are planning to extend our services to over 20 offices by the year-end.</p>
                     <p>Get in touch with us today, so we can help you to realise your dream.</p>
-                    <p class="text-default">Call:  +91 8919218102</p>
+                    <p class="text-default">Call:  +91 7523999199</p>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
                     <div class="image-block"><img src="assets/images/about-us-fancy-img-2.png" alt="" class="img-fluid"></div>

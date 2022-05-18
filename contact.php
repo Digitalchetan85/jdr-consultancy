@@ -106,7 +106,7 @@
                     <div class="col-xl-5 col-lg-5 col-md-7 col-sm-12 col-12">
                         <div class="contact-form-head">
                             <h2 class="mb0">Leave a Message Here</h2>
-                            <p>One of our Dhanalaxmi Overseas Consultants will connect with you ASAP.</p>
+                            <p>One of our Jdr Migration Consultants will connect with you ASAP.</p>
                         </div>
                         <div class="contact-form mt30">
                             <form method="post" action="#">
@@ -151,10 +151,10 @@
                             <div class="col">
                                 <h4 class="mb0">Social Connect</h4>
                                 <div class="">
-                                    <i class="fab fa-facebook-f text-primary p-3 border border-primary mx-1"></i>
-                                    <i class="fab fa-instagram text-primary p-3 border border-primary mx-1"></i>
-                                    <i class="fab fa-twitter text-primary p-3 border border-primary mx-1"></i>
-                                    <i class="fab fa-youtube text-primary p-3 border border-primary mx-1"></i>
+                                    <a href="https://www.facebook.com/jdrmigrationpro/"><i class="fab fa-facebook-f text-primary p-3 border border-primary mx-1"></i></a>
+                                    <a href="https://www.instagram.com/jdrmigrationpro/"><i class="fab fa-instagram text-primary p-3 border border-primary mx-1"></i></a>
+                                    <a href="https://mobile.twitter.com/jdrmigrationpro"><i class="fab fa-twitter text-primary p-3 border border-primary mx-1"></i></a>
+                                    <a href="https://www.linkedin.com/company/jdrmigrationpro/"><i class="fab fa-linkedin text-primary p-3 border border-primary mx-1"></i><a></a>
                                 </div>
                             </div>
                         </div>
@@ -232,7 +232,7 @@
                         <h3 class="widget-title">Contact Us</h3>
                         <ul class="listnone">
                             <li><a href="#"><i class="fa fa-envelope pr-2"></i> info@jdrmigration.com</a></li>
-                            <li><a href="#"><i class="fa fa-envelope pr-2"></i> jdrmigration@gmail.com</a></li>
+                            <li><a href="#"><i class="fa fa-envelope pr-2"></i> jdrmirations@gmail.com</a></li>
                             <li><a href="#"><i class="fa fa-phone pr-2"></i> +91 7523999199</a></li>
                             <li><a href="#"><i class="fa fa-map-marker pr-2"></i>3RD FLOOR, 707, NTI LAYOUT, 10 CROSS, 10TH MAIN, II PHASE, Sahakara Nagar Bengaluru Urban, Karnataka, 560092</a></li>
                         </ul>
