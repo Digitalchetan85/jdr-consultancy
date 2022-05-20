@@ -31,7 +31,7 @@
                     <div class="header-block">
                         <span class="header-link d-none d-xl-block"><a href="#" class="anchor-link">Talk to Our Expert</a></span>
                         <span class="header-link">info@jdrmigration.com</span>
-                        <span class="header-link"><a data-toggle="modal" data-target="#searchModal" class="btn btn-primary btn-sm text-white">Enquiry Now</a></span>
+                        <span class="header-link"><a data-toggle="modal" data-target="#searchModal" class="btn btn-default btn-sm text-white btn-block" >Enquiry Now</a></span>
                     </div>
                 </div>
             </div>
@@ -128,7 +128,7 @@
                             <div class="slider-captions">
                                 <h1 class="slider-title dotted-line">Want to study abroad ?</h1>
                                 <p class="slider-text hidden-xs">Are you curious to think more about and explore the reasons why to study abroad? Would it help to learn about why other students want to study abroad? Book a free consultation with us!</p>
-                                <a href="#" class="btn btn-primary btn-lg">BOOK A CONSULTATION</a>
+                                <a data-toggle="modal" data-target="#searchModal" class="btn btn-primary btn-lg text-white">BOOK A CONSULTATION</a>
                             </div>
                         </div>
                     </div>
@@ -142,7 +142,7 @@
                             <div class="slider-captions">
                                 <h1 class="slider-title dotted-line">IELTS / PTE / TOFEL / English</h1>
                                 <p class="slider-text hidden-xs"> Does your English sound awkward to everyone? No problem, we provide exclusive guidance and help in the preparation!</p>
-                                <a href="#" class="btn btn-primary btn-lg">BOOK A CONSULTATION</a>
+                                <a data-toggle="modal" data-target="#searchModal" class="btn btn-primary btn-lg text-white">BOOK A CONSULTATION</a>
                             </div>
                         </div>
                     </div>
@@ -156,7 +156,7 @@
                             <div class="slider-captions">
                                 <h1 class="slider-title dotted-line">Study Migration Consultants</h1>
                                 <p class="slider-text hidden-xs">We help people to migrate for study from one country to another country through legal and documentation processes to increase the chances of for study, Make the most of us!</p>
-                                <a href="#" class="btn btn-primary btn-lg">BOOK A CONSULTATION</a>
+                                <a data-toggle="modal" data-target="#searchModal" class="btn btn-primary btn-lg text-white">BOOK A CONSULTATION</a>
                             </div>
                         </div>
                     </div>
@@ -183,152 +183,152 @@
                 <div class="row">
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="study_in_canada.html"><img src="assets/images/country/Country 1.jpg" alt="canada visa" class="img-responsive"></a>
+                            <div class="country-img"><a href=""><img src="assets/images/country/Country 1.jpg" alt="canada visa" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/canada.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
-                                <h3><a href="study_in_canada.html" class="title">Canada</a></h3>
+                                <h3><a href="#" class="title">Canada</a></h3>
                                 <p>Canada ranks as one of the best countries in the world with a top-notch education system.</p>
-                                <a href="study_in_canada.html" class="btn-link-primary">Read More</a>
+                                <a href="#" class="btn-link-primary">Read More</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="study_in_australia.html"><img src="assets/images/country/Country 2.jpg" alt="canada visa" class="img-responsive"></a>
+                            <div class="country-img"><a href="#"><img src="assets/images/country/Country 2.jpg" alt="canada visa" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/australia.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
-                                <h3><a href="study_in_australia.html" class="title">Australia</a></h3>
+                                <h3><a href="#" class="title">Australia</a></h3>
                                 <p>Australia ranks highly for quality of education, student satisfaction, and global reputation.</p>
-                                <a href="study_in_australia.html" class="btn-link-primary">Read More</a>
+                                <a href="#" class="btn-link-primary">Read More</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="study_in_uk.html"><img src="assets/images/country/Country 3.jpg" alt="United Kingdom visa immigration" class="img-responsive"></a>
+                            <div class="country-img"><a href="#l"><img src="assets/images/country/Country 3.jpg" alt="United Kingdom visa immigration" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/united-kingdom.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
-                                <h3><a href="study_in_uk.html" class="title">United Kingdom</a></h3>
+                                <h3><a href="#l" class="title">United Kingdom</a></h3>
                                 <p>The United Kingdom is home to some of the world’s oldest schools has a strong legacy.</p>
-                                <a href="study_in_uk.html" class="btn-link-primary">Read More</a>
+                                <a href="#l" class="btn-link-primary">Read More</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="study_in_usa.html"><img src="assets/images/country/Country 4.jpg" alt="United Kingdom visa immigration" class="img-responsive"></a>
+                            <div class="country-img"><a href="study-in-usa.php"><img src="assets/images/country/Country 4.jpg" alt="United Kingdom visa immigration" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/united-states-of-america.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
-                                <h3><a href="study_in_usa.html" class="title">United States</a></h3>
+                                <h3><a href="study-in-usa.php" class="title">United States</a></h3>
                                 <p>The United States as #2 in the Education, offers a flexible academic environment. </p>
-                                <a href="study_in_usa.html" class="btn-link-primary">Read More</a>
+                                <a href="study-in-usa.php" class="btn-link-primary">Read More</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="study_in_germany.html"><img src="assets/images/country/Country 5.jpg" alt="canada visa" class="img-responsive"></a>
+                            <div class="country-img"><a href="#"><img src="assets/images/country/Country 5.jpg" alt="canada visa" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/germany.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
-                                <h3><a href="study_in_germany.html" class="title">Germany</a></h3>
+                                <h3><a href="#" class="title">Germany</a></h3>
                                 <p>German universities offers excellent education, has best ranking schools in the world.</p>
-                                <a href="study_in_germany.html" class="btn-link-primary">Read More</a>
+                                <a href="#" class="btn-link-primary">Read More</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="study_in_new_zealand.html"><img src="assets/images/country/Country 6.jpg" alt="canada visa" class="img-responsive"></a>
+                            <div class="country-img"><a href="#"><img src="assets/images/country/Country 6.jpg" alt="canada visa" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/australia.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
-                                <h3><a href="study_in_new_zealand.html" class="title">New zealand </a></h3>
+                                <h3><a href="#" class="title">New zealand </a></h3>
                                 <p>New Zealand ranks #3. Studying in New Zealand will fetch 10 to 20 points for immigration.</p>
-                                <a href="study_in_new_zealand.html" class="btn-link-primary">Read More</a>
+                                <a href="#" class="btn-link-primary">Read More</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="study_in_france.html"><img src="assets/images/country/Country 7.jpg" alt="United Kingdom visa immigration" class="img-responsive"></a>
+                            <div class="country-img"><a href="#"><img src="assets/images/country/Country 7.jpg" alt="United Kingdom visa immigration" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/France.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
-                                <h3><a href="study_in_france.html" class="title">France</a></h3>
+                                <h3><a href="#" class="title">France</a></h3>
                                 <p>France offers multicultural study experience, bringing together cultures from all over the world.</p>
-                                <a href="study_in_france.html" class="btn-link-primary">Read More</a>
+                                <a href="#" class="btn-link-primary">Read More</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="study_in_malta.html"><img src="assets/images/country/Country 8.jpg" alt="United Kingdom visa immigration" class="img-responsive"></a>
+                            <div class="country-img"><a href="#"><img src="assets/images/country/Country 8.jpg" alt="United Kingdom visa immigration" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/Malta.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
-                                <h3><a href="study_in_malta.html" class="title">Malta</a></h3>
+                                <h3><a href="#" class="title">Malta</a></h3>
                                 <p>Malta offers exciting career opportunities, making an appealing study destination.</p>
-                                <a href="study_in_malta.html" class="btn-link-primary">Read More</a>
+                                <a href="#" class="btn-link-primary">Read More</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="study_in_ukraine.html"><img src="assets/images/country/Country 9.jpg" alt="canada visa" class="img-responsive"></a>
+                            <div class="country-img"><a href="#"><img src="assets/images/country/Country 9.jpg" alt="canada visa" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/singapore.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
-                                <h3><a href="study_in_ukraine.html" class="title">Ukraine</a></h3>
+                                <h3><a href="#" class="title">Ukraine</a></h3>
                                 <p>Consider studying in Ukraine if you are looking for low or cheapest tuition universities.</p>
-                                <a href="study_in_ukraine.html" class="btn-link-primary">Read More</a>
+                                <a href="#" class="btn-link-primary">Read More</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="study_in_singapore.html"><img src="assets/images/country/Country 10.jpg" alt="canada visa" class="img-responsive"></a>
+                            <div class="country-img"><a href="#"><img src="assets/images/country/Country 10.jpg" alt="canada visa" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/singapore.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
-                                <h3><a href="study_in_singapore.html" class="title">Singapore</a></h3>
+                                <h3><a href="#" class="title">Singapore</a></h3>
                                 <p>Singapore envisages becoming a “Global Schoolhouse”, is also the premier education hub in Asia.</p>
-                                <a href="study_in_singapore.html" class="btn-link-primary">Read More</a>
+                                <a href="#" class="btn-link-primary">Read More</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="study_in_malaysia.html"><img src="assets/images/country/Country 11.jpg" alt="United Kingdom visa immigration" class="img-responsive"></a>
+                            <div class="country-img"><a href="#"><img src="assets/images/country/Country 11.jpg" alt="United Kingdom visa immigration" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/Malaysia.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
-                                <h3><a href="study_in_malaysia.html" class="title">Malaysia</a></h3>
+                                <h3><a href="#" class="title">Malaysia</a></h3>
                                 <p>With top-notch education, Malaysia is fast becoming a hot favourite for study.</p>
-                                <a href="study_in_malaysia.html" class="btn-link-primary">Read More</a>
+                                <a href="#" class="btn-link-primary">Read More</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="study_in_dubai.html"><img src="assets/images/country/Country 12.jpg" alt="United Kingdom visa immigration" class="img-responsive"></a>
+                            <div class="country-img"><a href="#"><img src="assets/images/country/Country 12.jpg" alt="United Kingdom visa immigration" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/dubai.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
-                                <h3><a href="study_in_dubai.html" class="title">Dubai</a></h3>
+                                <h3><a href="#" class="title">Dubai</a></h3>
                                 <p>Dubai, one of the growing educational hubs provides a multicultural environment.</p>
-                                <a href="study_in_dubai.html" class="btn-link-primary">Read More</a>
+                                <a href="#" class="btn-link-primary">Read More</a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="text-center">
+                <!-- <div class="text-center">
                      <a href="study_abroad.html" class="btn btn-default">View All</a>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
@@ -341,7 +341,7 @@
                     <p>Unsure of the choice, take a free online assessment :)</p>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-5 col-sm-6 col-12 text-center">
-                    <a href="#" class="btn btn-default btn-lg mt10">Get Free Assessment</a>
+                    <a data-toggle="modal" data-target="#searchModal" class="btn btn-default btn-lg mt10 text-white">Get Free Assessment</a>
                 </div>
             </div>
         </div>
@@ -355,7 +355,7 @@
                     <p>Being one of the top study migration consultants, we understand the challenges arising during migration. Our primary goal is to assist you in scaling through these processes, such as assessment, documentation, and filing.</p>
                     <p>Our international education professionals have extensive expertise and knowledge of the whole study abroad process. We can help you choose the destination, school, and course, as well as aid you with your application, SOP, visa application, and other paperwork.</p>
                     <p>Get in touch with us today, so we can help you to realise your dream.</p>
-                    <a href="about_us.html" class="btn btn-default">About JDR Migration</a> <a href="Contact_us.html" class="btn btn-primary">Contact us</a>
+                    <a href="about.php" class="btn btn-default">About JDR Migration</a> <a href="contact.php" class="btn btn-primary">Contact us</a>
                 </div>
                 <div class="offset-xl-1 col-xl-5 offset-lg-1 col-lg-5 col-md-5 col-sm-6 col-12">
                     <div class="img-block">
@@ -365,23 +365,23 @@
             </div>
         </div>
     </div>
-    <!-- <div class="space-medium pdb0">
-        <!-- Testimonial section -->
+    <div class="space-medium pdb0">
+        <!-- Testimonial section
         <div class="container">
             <div class="row">
                 <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12">
                     <div class="section-title text-center">
-                        <!-- section title start-->
+                        section title start
                         <h2>Join students over 1000+ like you</h2>
                     </div>
-                    <!-- /.section title start-->
+                    /.section title start
                 </div>
             </div>
             <div class="space-small">
                 <div class="row">
                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                         <div class="testimonial-boxed">
-                            <!-- testimonial boxed -->
+                            testimonial boxed
                             <div class="row">
                                 <div class="col-xl-3 col-lg-3 col-md-12 col-sm-4 col-12">
                                     <div class="testimonial-boxed-img">
@@ -390,7 +390,7 @@
                                 </div>
                                 <div class="col-xl-9 col-lg-9 col-md-12 col-sm-8 col-12">
                                     <div class="testimonial-boxed-block">
-                                        <!-- testimonial block -->
+                                        testimonial block
                                         <div class="testimonial-boxed-content">
                                             <p class="testimonial-boxed-text">“I am Ayush Sharma,now a permanent resident in Canada and the entire process was taken care of by JDR Migration. I'm especially writing this review to thank the whole team who have assisted me from choosing school, getting admission, till my departure. I appreciate all the hard work done by them, all the efforts taken by them, so my message to them is just to keep up the good work, I appreciate all the work done by you. Today I have got my PR after study, All credits your team. Thank You!”</p>
                                         </div>
@@ -400,15 +400,15 @@
                                                 <span class="testimonial-country"><img src="assets/images/country/canada.svg" alt=""></span>( Express Entry Canada )</span>
                                         </div>
                                     </div>
-                                    <!--/. testimonial block -->
+                                    /. testimonial block
                                 </div>
                             </div>
                         </div>
-                        <!-- /.testimonial boxed -->
+                        /.testimonial boxed
                     </div>
                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                         <div class="testimonial-boxed">
-                            <!-- testimonial boxed -->
+                            testimonial boxed
                             <div class="row">
                                 <div class="col-xl-3 col-lg-3 col-md-12 col-sm-4 col-12">
                                     <div class="testimonial-boxed-img">
@@ -417,7 +417,7 @@
                                 </div>
                                 <div class="col-xl-9 col-lg-9 col-md-12 col-sm-8 col-12">
                                     <div class="testimonial-boxed-block">
-                                        <!-- testimonial block -->
+                                        testimonial block
                                         <div class="testimonial-boxed-content">
                                             <p class="testimonial-boxed-text">“First of all, I would like to thank JDR Migration for helping me from getting my offer from Georgia Tech, fee payments, loan arrangements, finding me good accommodation and Visa process. I would recommend JDR Migration to all of my friend's and anyone willing to go abroad for higher education. They provided excellent training with mock interviews and everything that I wasn't sure about, best thing is that they offer us free, personalized guidance. Go for it guys!”</p>
                                         </div>
@@ -426,11 +426,11 @@
                                             <span class="testimonial-meta"> <span class="testimonial-country"><img src="assets/images/country/united-states-of-america.svg" alt=""></span> ( Students Visa USA )</span>
                                         </div>
                                     </div>
-                                    <!--/. testimonial block -->
+                                    /. testimonial block
                                 </div>
                             </div>
                         </div>
-                        <!-- /.testimonial boxed -->
+                        /.testimonial boxed
                     </div>
                     <div class="col-lg-12 mt40 text-center"><a href="#" class="btn-link"> View More Testimonial</a></div>
                 </div>
@@ -519,47 +519,50 @@
                 <div class="offset-xl-1 col-xl-5 offset-lg-1 col-lg-5 col-md-7 col-sm-7 col-12">
                     <div class="enquiry-short-form">
                         <h2>Enter Your Information</h2>
-                        <form class="" method="post" action="http://www.jdrmigration.in/enquiry.php">
+                        <div>
                             <!-- Text input-->
                             <div class="form-group">
                                 <label class="control-label sr-only" for="yourname">Your Name</label>
                                 <div class="">
-                                    <input id="yourname" name="yourname" type="text" placeholder="Your Name" class="form-control input-md" required="">
+                                    <input id="pop-name" name="pop-name" type="text" placeholder="Your Name" class="form-control input-md" required="">
+                                    <span id="pop-name-info" class="text-danger"></span>
                                 </div>
                             </div>
                             <!-- Text input-->
                             <div class="form-group">
                                 <label class="control-label sr-only" for="email">Email</label>
                                 <div class="">
-                                    <input id="email" name="email" type="email" placeholder="Email" class="form-control input-md" required="">
+                                    <input id="pop-email" name="pop-email" type="email" placeholder="Email" class="form-control input-md" required="">
+                                    <span id="pop-email-info" class="text-danger"></span>
                                 </div>
                             </div>
                             <!-- Text input-->
                             <div class="form-group">
                                 <label class="control-label sr-only" for="mobile">Mobile No</label>
                                 <div class="">
-                                    <input id="mobile" name="mobile" type="number" placeholder="Mobile No" class="form-control input-md" required="">
+                                    <input id="pop-phone" name="pop-phone" type="tel" placeholder="Mobile No" class="form-control input-md" required="">
+                                    <span id="pop-phone-info" class="text-danger"></span>
                                 </div>
                             </div>
                             <div class="form-group">
                                     <label for="selectvisa" class="sr-only">Select Visa</label>
-                                    <select class="form-control" id="selectvisa">
+                                    <select class="form-control" id="pop-selectvisa" name="pop-selectvisa">
                                         <option>Select Visa</option>
-                                        <option>Visa</option>
-                                        <option>Visa</option>
-                                        <option>Visa</option>
-                                        <option>Visa</option>
+                                        <option value="Visa">Visa</option>
                                     </select>
+                                    <span id="pop-selectvisa-info" class="text-danger"></span>
                                 </div>
                             <!-- Textarea -->
                             <div class="form-group">
                                 <label class="control-label sr-only" for="message">Message</label>
                                 <div class="">
-                                    <textarea class="form-control" id="message" name="message" rows="4" placeholder="Message"></textarea>
+                                    <textarea class="form-control" id="pop-message" name="pop-message" rows="4" placeholder="Message"></textarea>
+                                    <span id="pop-message-info" class="text-danger"></span>
                                 </div>
                             </div>
-                            <button type="submit" class="btn btn-default btn-lg btn-block">Book My Free Assessment</button>
-                        </form>
+                            <div id="pop-mail-status"></div>
+                            <button onClick="sendPopContact();" class="btn btn-default btn-lg btn-block">Book My Free Assessment</button>
+</div>
                         <span class="help-block">We will not spam your email.</span>
                     </div>
                 </div>
@@ -582,9 +585,9 @@
                     <div class="widget-footer">
                         <h3 class="widget-title">Study Abroad</h3>
                         <ul class="listnone arrow-footer">
-                            <li><a href="study_in_usa.html">STUDY IN USA</a></li>
-                            <li><a href="study_in_uk.html">STUDY IN UK</a></li>
-                            <li><a href="study_in_new_zealand.html">STUDY IN NEW ZEALAND</a></li>
+                            <li><a href="study-in-usa.php">STUDY IN USA</a></li>
+                            <li><a href="#">STUDY IN UK</a></li>
+                            <li><a href="#">STUDY IN NEW ZEALAND</a></li>
                         </ul>
                     </div>
                 </div>
@@ -592,9 +595,9 @@
                     <div class="widget-footer">
                         <h3 class="widget-title">Services</h3>
                         <ul class="listnone arrow-footer">
-                            <li><a href="free_counselling.html">Free Counselling </a></li>
-                            <li><a href="Free_visa_filling.html">Free Visa Filling </a></li>
-                            <li><a href="flight_bookings.html">Flight Bookings </a></li>
+                            <li><a href="free-counselling.php">Free Counselling </a></li>
+                            <li><a href="#">Free Visa Filling </a></li>
+                            <li><a href="#">Flight Bookings </a></li>
                         </ul>
                     </div>
                 </div>
@@ -641,12 +644,13 @@
                     <div class="modal-body">
                         <div class="enquiry-short-form">
                         <h2>Enter Your Information</h2>
-                        <form class="" method="post" action="">
+                        <div>
                             <!-- Text input-->
                             <div class="form-group">
                                 <label class="control-label sr-only" for="yourname">Your Name</label>
                                 <div class="">
                                     <input id="name" name="name" type="text" placeholder="Your Name" class="form-control input-md" required="">
+                                    <span id="name-info" class="text-danger"></span>
                                 </div>
                             </div>
                             <!-- Text input-->
@@ -654,13 +658,15 @@
                                 <label class="control-label sr-only" for="email">Email</label>
                                 <div class="">
                                     <input id="email" name="email" type="email" placeholder="Email" class="form-control input-md" required="">
+                                    <span id="email-info" class="text-danger"></span>
                                 </div>
                             </div>
                             <!-- Text input-->
                             <div class="form-group">
                                 <label class="control-label sr-only" for="mobile">Mobile No</label>
                                 <div class="">
-                                    <input id="mobile" name="mobile" type="number" placeholder="Mobile No" class="form-control input-md" required="">
+                                    <input id="phone" name="phone" type="tel" placeholder="Mobile No" class="form-control input-md" required="">
+                                    <span id="phone-info" class="text-danger"></span>
                                 </div>
                             </div>
                             <div class="form-group">
@@ -676,16 +682,19 @@
                                         <option value="Migrate Visa">Migrate Visa </option>
                                         <option value="PR Visa">PR Visa</option>
                                     </select>
+                                    <span id="selectvisa-info" class="text-danger"></span>
                                 </div>
                             <!-- Textarea -->
                             <div class="form-group">
                                 <label class="control-label sr-only" for="message">Message</label>
                                 <div class="">
                                     <textarea class="form-control" id="message" name="message" rows="4" placeholder="Message"></textarea>
+                                    <span id="message-info" class="text-center">    </span>
                                 </div>
                             </div>
-                            <button type="submit" class="btn btn-default btn-lg btn-block">Book My Free Assessment</button>
-                        </form>
+                            <div id="mail-status"></div>
+                            <button class="btn btn-default btn-lg btn-block" onClick="sendContact();" >Book My Free Assessment</button>
+</div>
                         <span class="help-block">We will not spam your email.</span>
                     </div>
                     </div>
@@ -695,11 +704,13 @@
     </div> <!-- /.Search Modal -->
     <!-- {{-- footer --}} -->
     <!-- <script src="assets/js/jquery.min.js"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="assets/js/bootstrap.bundle.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/owl.carousel.min.js"></script>
-    <script src="assets/js/menumaker.js"></script>
+    <script src="assets/js/menumaker.js"></script>    
+    <script src="assets/js/form.js"></script>
     <script src="assets/js/custom-carousel.js"></script>
     <script src="assets/js/navigation.js"></script>
 </body>

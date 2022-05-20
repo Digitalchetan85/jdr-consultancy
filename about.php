@@ -91,7 +91,7 @@
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="#">Home</a></li>
+                            <li class="breadcrumb-item"><a href="/">Home</a></li>
                             <li class="breadcrumb-item active" aria-current="page">About us</li>
                         </ol>
                     </nav>
@@ -229,7 +229,7 @@
                             <div class="feature-content">
                                 <h3 class="feature-title">Our Services</h3>
                                 <p> We offer Free Study Abroad Counselling, Course Advice, and Other services - Free visa filling, International accommodation, Flight Bookings and Forex Cards and International sim cards.</p>
-                                <a href="services.html" class="btn btn-default">Services</a>
+                                <a href="#" class="btn btn-default">Services</a>
                             </div>
                         </div>
                     </div>
@@ -280,9 +280,9 @@
                     <div class="widget-footer">
                         <h3 class="widget-title">Study Abroad</h3>
                         <ul class="listnone arrow-footer">
-                            <li><a href="study_in_usa.html">STUDY IN USA</a></li>
-                            <li><a href="study_in_uk.html">STUDY IN UK</a></li>
-                            <li><a href="study_in_new_zealand.html">STUDY IN NEW ZEALAND</a></li>
+                            <li><a href="study-in-usa.php">STUDY IN USA</a></li>
+                            <li><a href="#">STUDY IN UK</a></li>
+                            <li><a href="#">STUDY IN NEW ZEALAND</a></li>
                         </ul>
                     </div>
                 </div>
@@ -290,9 +290,9 @@
                     <div class="widget-footer">
                         <h3 class="widget-title">Services</h3>
                         <ul class="listnone arrow-footer">
-                            <li><a href="free_counselling.html">Free Counselling </a></li>
-                            <li><a href="Free_visa_filling.html">Free Visa Filling </a></li>
-                            <li><a href="flight_bookings.html">Flight Bookings </a></li>
+                            <li><a href="free-counselling.php">Free Counselling </a></li>
+                            <li><a href="#">Free Visa Filling </a></li>
+                            <li><a href="#">Flight Bookings </a></li>
                         </ul>
                     </div>
                 </div>
@@ -339,12 +339,13 @@
                     <div class="modal-body">
                         <div class="enquiry-short-form">
                         <h2>Enter Your Information</h2>
-                        <form class="" method="post" action="">
+                        <div>
                             <!-- Text input-->
                             <div class="form-group">
                                 <label class="control-label sr-only" for="yourname">Your Name</label>
                                 <div class="">
                                     <input id="name" name="name" type="text" placeholder="Your Name" class="form-control input-md" required="">
+                                    <span id="name-info" class="text-danger"></span>
                                 </div>
                             </div>
                             <!-- Text input-->
@@ -352,13 +353,15 @@
                                 <label class="control-label sr-only" for="email">Email</label>
                                 <div class="">
                                     <input id="email" name="email" type="email" placeholder="Email" class="form-control input-md" required="">
+                                    <span id="email-info" class="text-danger"></span>
                                 </div>
                             </div>
                             <!-- Text input-->
                             <div class="form-group">
                                 <label class="control-label sr-only" for="mobile">Mobile No</label>
                                 <div class="">
-                                    <input id="mobile" name="mobile" type="number" placeholder="Mobile No" class="form-control input-md" required="">
+                                    <input id="phone" name="phone" type="tel" placeholder="Mobile No" class="form-control input-md" required="">
+                                    <span id="phone-info" class="text-danger"></span>
                                 </div>
                             </div>
                             <div class="form-group">
@@ -374,16 +377,19 @@
                                         <option value="Migrate Visa">Migrate Visa </option>
                                         <option value="PR Visa">PR Visa</option>
                                     </select>
+                                    <span id="selectvisa-info" class="text-danger"></span>
                                 </div>
                             <!-- Textarea -->
                             <div class="form-group">
                                 <label class="control-label sr-only" for="message">Message</label>
                                 <div class="">
                                     <textarea class="form-control" id="message" name="message" rows="4" placeholder="Message"></textarea>
+                                    <span id="message-info" class="text-center">    </span>
                                 </div>
                             </div>
-                            <button type="submit" class="btn btn-default btn-lg btn-block">Book My Free Assessment</button>
-                        </form>
+                            <div id="mail-status"></div>
+                            <button class="btn btn-default btn-lg btn-block" onClick="sendContact();" >Book My Free Assessment</button>
+</div>
                         <span class="help-block">We will not spam your email.</span>
                     </div>
                     </div>
@@ -393,11 +399,13 @@
     </div> <!-- /.Search Modal -->
     <!-- {{-- footer --}} -->
     <!-- <script src="assets/js/jquery.min.js"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="assets/js/bootstrap.bundle.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/owl.carousel.min.js"></script>
+    <script src="assets/js/menumaker.js"></script>    
+    <script src="assets/js/form.js"></script>
     <script src="assets/js/custom-carousel.js"></script>
-    <script src="assets/js/menumaker.js"></script>
     <script src="assets/js/navigation.js"></script>
 </body>
