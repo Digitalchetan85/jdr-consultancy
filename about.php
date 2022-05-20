@@ -245,7 +245,7 @@
                 </div>
             </div>
         </div>
-        <div class="bg-section bg-background" style="background-image:url('assets/images/background-img.jpg');">
+        <div class="bg-section bg-background" style="background-image:url('assets/images/country/Bottom Image.jpg');">
             <div class="space-large">
                 <div class="container">
                     <div class="row">

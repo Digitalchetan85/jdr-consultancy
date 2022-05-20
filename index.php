@@ -183,7 +183,7 @@
                 <div class="row">
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="study_in_canada.html"><img src="assets/images/country-1.jpg" alt="canada visa" class="img-responsive"></a>
+                            <div class="country-img"><a href="study_in_canada.html"><img src="assets/images/country/Country 1.jpg" alt="canada visa" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/canada.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
@@ -195,7 +195,7 @@
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="study_in_australia.html"><img src="assets/images/country-2.jpg" alt="canada visa" class="img-responsive"></a>
+                            <div class="country-img"><a href="study_in_australia.html"><img src="assets/images/country/Country 2.jpg" alt="canada visa" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/australia.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
@@ -207,7 +207,7 @@
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="study_in_uk.html"><img src="assets/images/country-3.jpg" alt="United Kingdom visa immigration" class="img-responsive"></a>
+                            <div class="country-img"><a href="study_in_uk.html"><img src="assets/images/country/Country 3.jpg" alt="United Kingdom visa immigration" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/united-kingdom.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
@@ -219,7 +219,7 @@
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="study_in_usa.html"><img src="assets/images/country-4.jpg" alt="United Kingdom visa immigration" class="img-responsive"></a>
+                            <div class="country-img"><a href="study_in_usa.html"><img src="assets/images/country/Country 4.jpg" alt="United Kingdom visa immigration" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/united-states-of-america.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
@@ -231,7 +231,7 @@
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="study_in_germany.html"><img src="assets/images/country-1.jpg" alt="canada visa" class="img-responsive"></a>
+                            <div class="country-img"><a href="study_in_germany.html"><img src="assets/images/country/Country 5.jpg" alt="canada visa" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/germany.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
@@ -243,7 +243,7 @@
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="study_in_new_zealand.html"><img src="assets/images/country-2.jpg" alt="canada visa" class="img-responsive"></a>
+                            <div class="country-img"><a href="study_in_new_zealand.html"><img src="assets/images/country/Country 6.jpg" alt="canada visa" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/australia.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
@@ -255,7 +255,7 @@
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="study_in_france.html"><img src="assets/images/country-3.jpg" alt="United Kingdom visa immigration" class="img-responsive"></a>
+                            <div class="country-img"><a href="study_in_france.html"><img src="assets/images/country/Country 7.jpg" alt="United Kingdom visa immigration" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/France.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
@@ -267,7 +267,7 @@
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="study_in_malta.html"><img src="assets/images/country-4.jpg" alt="United Kingdom visa immigration" class="img-responsive"></a>
+                            <div class="country-img"><a href="study_in_malta.html"><img src="assets/images/country/Country 8.jpg" alt="United Kingdom visa immigration" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/Malta.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
@@ -279,7 +279,7 @@
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="study_in_ukraine.html"><img src="assets/images/country-1.jpg" alt="canada visa" class="img-responsive"></a>
+                            <div class="country-img"><a href="study_in_ukraine.html"><img src="assets/images/country/Country 9.jpg" alt="canada visa" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/singapore.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
@@ -291,7 +291,7 @@
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="study_in_singapore.html"><img src="assets/images/country-2.jpg" alt="canada visa" class="img-responsive"></a>
+                            <div class="country-img"><a href="study_in_singapore.html"><img src="assets/images/country/Country 10.jpg" alt="canada visa" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/singapore.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
@@ -303,7 +303,7 @@
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="study_in_malaysia.html"><img src="assets/images/country-3.jpg" alt="United Kingdom visa immigration" class="img-responsive"></a>
+                            <div class="country-img"><a href="study_in_malaysia.html"><img src="assets/images/country/Country 11.jpg" alt="United Kingdom visa immigration" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/Malaysia.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
@@ -315,7 +315,7 @@
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="study_in_dubai.html"><img src="assets/images/country-4.jpg" alt="United Kingdom visa immigration" class="img-responsive"></a>
+                            <div class="country-img"><a href="study_in_dubai.html"><img src="assets/images/country/Country 12.jpg" alt="United Kingdom visa immigration" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/dubai.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
