@@ -93,7 +93,7 @@
                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb">
-                                <li class="breadcrumb-item"><a href="#">Home</a></li>
+                                <li class="breadcrumb-item"><a href="/jdr-consultancy">Home</a></li>
                                 <li class="breadcrumb-item active" aria-current="page">Contact us</li>
                             </ol>
                         </nav>
@@ -198,8 +198,10 @@
             </div>
         </div>
         <div>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.050822316971!2d77.63219841409055!3d13.032435617068359!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae176a04ba7645%3A0x2e6f9357af5e5de0!2sLogo%20Design%20Company%20Bangalore!5e0!3m2!1sen!2sin!4v1650910333017!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.4983961565113!2d77.58043127668125!3d13.067568784831922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae194edd460f63%3A0xfeaa6fea6ef67737!2sJDR%20Migration%20Pro!5e0!3m2!1sen!2sin!4v1655705588087!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
+
+        
     </div>
 
 
