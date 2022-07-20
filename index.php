@@ -43,7 +43,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                    <a href="index-2.html" class="">
+                    <a href="/" class="">
                         <div class="row">
                             <div class="col-xl-12 col-lg-12 col-12">
                                 <img src="assets/images/logo.jpg" class="img-fluid">
@@ -89,7 +89,7 @@
                     <div id="navigation-regular" class="">
                         <!-- navigation -->
                       <ul class="">
-                            <li><a href="/jdr-consultancy">Home</a></li>
+                            <li><a href="#">Home</a></li>
                             <li><a href="about.php">About Us</a></li>
                             <li><a href="#">Services</a>
                                 <ul>
