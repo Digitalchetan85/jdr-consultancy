@@ -45,7 +45,7 @@
                     <div id="navigation-regular" class="">
                         <!-- navigation -->
                       <ul class="">
-                            <li><a href="#">Home</a></li>
+                            <li><a href="/">Home</a></li>
                             <li><a href="about.php">About Us</a></li>
                             <li><a href="#">Services</a>
                                 <ul>
