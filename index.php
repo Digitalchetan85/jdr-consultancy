@@ -15,76 +15,37 @@
     <link rel="stylesheet" type="text/css" href="assets/css/fontello.css">
     <link rel="stylesheet" type="text/css" href="assets/css/owl.carousel.min.css">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/main.css">
+
 
 
 </head>
 
 <body>
-    <div class="topbar">
-        <!-- topbar -->
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12 col-12 d-none d-sm-none d-lg-block d-xl-block">
-                    <p class="welcome-text">Welcome to JDR Migration</p>
-                </div>
-                <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12 col-12">
-                    <div class="header-block">
-                        <span class="header-link d-none d-xl-block"><a href="#" class="anchor-link">Talk to Our Expert</a></span>
-                        <span class="header-link">info@jdrmigration.com</span>
-                        <span class="header-link"><a data-toggle="modal" data-target="#searchModal" class="btn btn-default btn-sm text-white btn-block">Enquiry Now</a></span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- /.topbar -->
-    <!-- <div class="header-regular">
-        header classic
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                    <a href="/" class="">
-                        <div class="row">
-                            <div class="col-xl-12 col-lg-12 col-12">
-                                <img src="assets/images/logo.jpg" class="img-fluid">
-                            </div>
-                             <div class="col-xl-10 col-lg-10 col-10 text-center">
-                                 <h2 class="mb-0" style="color: #ff0042;"><b>JDR Migration</b></h2>
-                                <small class="text-muted">Abroad Education Migration</small>
-                             </div> 
-                        </div>
-                    </a>
-                </div>
-                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6"></div>
-                <div class="col-xl-5 col-lg-5 col-md-6 col-sm-6 d-none d-sm-none d-lg-block d-xl-block col-12 header-right align-self-center">
-                    <div class="row">
-                        <div class="call-block col-xl-6 col-lg-6">
-                            <div class="header-icon"> <i class="fa fa-phone"></i></div>
-                            <div class="header-block-info">
-                                <div class="text-content">
-                                    <div class="text-head">+91 7523999199</div>
-                                    <div class="text-small">Call for a Consulting</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="address-block col-xl-6 col-lg-6 d-none d-sm-none d-lg-block d-xl-block">
-                            <div class="header-icon"> <i class="fa fa-map-marker"></i></div>
-                            <div class="header-block-info">
-                                <div class="text-head">Our Bangalore</div>
-                                <div class="text-address">
-                                    Bangalore
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- /.header classic -->
-    <div class="navigation-regular sticky-top">
 
-        <!-- <div class="row justify-content-center">
+    <div id="navbar" class="sticky-top">
+        <div class="topbar bg-primary">
+            <!-- topbar -->
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12 col-12 d-none d-sm-none d-lg-block d-xl-block">
+                        <p class="welcome-text">Welcome to JDR Migration</p>
+                    </div>
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12 col-12">
+                        <div class="header-block">
+                            <span class="header-link d-none d-xl-block"><a href="#" class="anchor-link">Talk to Our Expert</a></span>
+                            <span class="header-link">info@jdrmigration.com</span>
+                            <span class="header-link"><a data-toggle="modal" data-target="#searchModal" class="btn btn-default btn-sm text-white btn-block">Enquiry Now</a></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="">
+
+            <!-- <div class="row justify-content-center">
                 <div class="col-xl-9 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div id="navigation-regular" class="">
                         navigation
@@ -113,64 +74,64 @@
                     </div>
                 </div>
             </div> -->
-        <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-            <div class="container-fluid">
-                <button class="navbar-toggler pb-2 ms-auto me-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-                    <a class="navbar-brand" href="/">
-                        <img src="assets/images/logo.jpg" alt="">
-                    </a>
-                    <ul class="navbar-nav ms-auto me-auto mb-2 mb-lg-0">
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="/">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link active" href="about.php">About Us</a>
-                        </li>
-                        <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
-                            <ul class="navbar-nav">
-                                <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle active" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                        Services
-                                    </a>
-                                    <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
-                                        <li><a class="dropdown-item" href="#">Free Counselling</a></li>
-                                        <li><a class="dropdown-item" href="#">Free Visa Filling</a></li>
-                                        <li><a class="dropdown-item" href="#">Flight Bookings</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </div>
-                        <!-- <li><a href="#">Services</a>
+            <nav class="navbar-expand-lg navbar-light bg-white">
+                <div class="container-fluid">
+                    <button class="navbar-toggler pb-2 ms-auto me-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+                        <a class="navbar-brand ps-5" href="/jdr-consultancy">
+                            <img src="assets/images/logo.jpg" alt="">
+                        </a>
+                        <ul class="navbar-nav ms-auto me-auto mb-2 mb-lg-0">
+                            <li class="nav-item">
+                                <a class="nav-link " aria-current="page" href="/">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link " href="about.php">About Us</a>
+                            </li>
+                            <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
+                                <ul class="navbar-nav">
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link dropdown-toggle " href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                            Services
+                                        </a>
+                                        <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
+                                            <li><a class="dropdown-item" href="free-counselling.php">Free Counselling</a></li>
+                                            <li><a class="dropdown-item" href="#">Free Visa Filling</a></li>
+                                            <li><a class="dropdown-item" href="#">Flight Bookings</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                            <!-- <li><a href="#">Services</a>
                                 <ul>
                                     <li><a href="free-counselling.php">Free Counselling </a></li>
                                     <li><a href="#">Free Visa Filling </a></li>
                                     <li><a href="#">Flight Bookings </a></li>
                                 </ul>
                             </li> -->
-                        <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
-                            <ul class="navbar-nav">
-                                <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle active" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                        Study In Abroad
-                                    </a>
-                                    <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
-                                        <li><a class="dropdown-item" href="#">STUDY IN AUSTRALIA</a></li>
-                                        <li><a class="dropdown-item" href="#">STUDY IN CANADA</a></li>
-                                        <li><a class="dropdown-item" href="#">STUDY IN DUBAI</a></li>
-                                        <li><a class="dropdown-item" href="#">STUDY IN MALTA</a></li>
-                                        <li><a class="dropdown-item" href="#">STUDY IN NEWZEALAND</a></li>
-                                        <li><a class="dropdown-item" href="study-in-singapore.php">STUDY IN SINGAPORE</a></li>
-                                        <li><a class="dropdown-item" href="#">STUDY IN UK</a></li>
-                                        <li><a class="dropdown-item" href="#">STUDY IN USA</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </div>
+                            <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
+                                <ul class="navbar-nav">
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                            Study In Abroad
+                                        </a>
+                                        <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
+                                            <li><a class="dropdown-item" href="study-in-australia.php">Study In Australia</a></li>
+                                            <li><a class="dropdown-item" href="study-in-canada.php">Study In Canada</a></li>
+                                            <li><a class="dropdown-item" href="study-in-dubai.php">Study In Dubai</a></li>
+                                            <li><a class="dropdown-item" href="study-in-malta.php">Study In Malta</a></li>
+                                            <li><a class="dropdown-item" href="study-in-singapore.php">Study In New Zealand</a></li>
+                                            <li><a class="dropdown-item" href="study-in-singapore.php">Study IN Singapore</a></li>
+                                            <li><a class="dropdown-item" href="study-in-singapore.php">Study IN UK</a></li>
+                                            <li><a class="dropdown-item" href="study-in-singapore.php">Study IN USA</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
 
-                        <!-- <li><a href="study_abroad.html">Study Abroad</a>
+                            <!-- <li><a href="study_abroad.html">Study Abroad</a>
                             <ul>
                                 <li><a href="study-in-usa.php">STUDY IN USA</a></li>
                                 <li><a href="#">STUDY IN UK</a></li>
@@ -178,22 +139,25 @@
                                 <li><a href="#">STUDY IN AUSTRALIA </a></li>
                             </ul>
                         </li> -->
-                        <li class="nav-item">
-                            <a class="nav-link active">Coaching</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link active">Certifications</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link active">Contact US</a>
-                        </li>
-                    </ul>
+                            <li class="nav-item">
+                                <a class="nav-link" href="coaching.php">Coaching</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="certifications.php">Certifications</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="contact.php">Contact US</a>
+                            </li>
+                        </ul>
 
+                    </div>
                 </div>
-            </div>
-        </nav>
+            </nav>
+
+        </div>
 
     </div>
+
     <!-- /.header classic -->
 
     <div class="slider">
@@ -250,27 +214,27 @@
             </div>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="assets/images/slider12.jpg" class="d-block w-100" alt="Immigration Consulting Bootstrap Responsive Website Template">
-                    <div class="carousel-caption d-none d-md-block">
-                        <h1 class="slider-title dotted-line">Want to study abroad ?</h1>
-                        <p>Are you curious to think more about and explore the reasons why to study abroad? Would it help to learn about why other students want to study abroad? Book a free consultation with us!</p>
+                    <img src="assets/images/slider1.png" class="d-block w-100" alt="Immigration Consulting Bootstrap Responsive Website Template">
+                    <div class="carousel-caption d-none d-md-block text-end">
+                        <!-- <h1 class="slider-title dotted-line">Want to study abroad ?</h1>
+                        <p>Are you curious to think more about and explore the reasons why to study abroad? Would it help to learn about why other students want to study abroad? Book a free consultation with us!</p> -->
                         <a data-toggle="modal" data-target="#searchModal" class="btn btn-primary btn-lg text-white">BOOK A CONSULTATION</a>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="assets/images/slider1.jpg" class="d-block w-100" alt="">
+                    <img src="assets/images/slider2.png" class="d-block w-100" alt="">
                     <div class="carousel-caption d-none d-md-block">
-                        <h1 class="slider-title dotted-line">Guidance in English Proficiency Exams</h1>
-                        <p>Does your English sound awkward to everyone? No problem, we provide exclusive guidance and help in the preparation of IELTS / PTE / TOFEL!</p>
+                        <!-- <h1 class="slider-title dotted-line">Guidance in English Proficiency Exams</h1>
+                        <p>Does your English sound awkward to everyone? No problem, we provide exclusive guidance and help in the preparation of IELTS / PTE / TOFEL!</p> -->
                         <a data-toggle="modal" data-target="#searchModal" class="btn btn-primary btn-lg text-white">BOOK A CONSULTATION</a>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="assets/images/slider11.jpg" class="d-block w-100" alt="Immigration visa consultant HTML5 Template">
+                    <img src="assets/images/slider3.png" class="d-block w-100" alt="Immigration visa consultant HTML5 Template">
                     <div class="carousel-caption d-none d-md-block">
-                        <h1 class="slider-title dotted-line text-start">Study Migration Consultants</h1>
-                        <p>We help people to migrate for study from one country to another country through legal and documentation processes to increase the chances of for study, Make the most of us!</p>
-                        <a data-toggle="modal" data-target="#searchModal" class="btn btn-primary btn-lg text-white">BOOK A CONSULTATION</a>
+                        <!-- <h1 class="slider-title dotted-line text-start">Study Abroad & Migration</h1>
+                        <p>We help people to migrate for study from one country to another country through legal and documentation processes to increase the chances of for study, Make the most of us!</p> -->
+                        <a data-toggle="modal" data-target="#searchModal" class="btn btn-primary btn-lg text-white btn-end">BOOK A CONSULTATION</a>
                     </div>
                 </div>
             </div>
@@ -302,13 +266,13 @@
             <div class="space-small pdb0">
                 <div class="row">
 
-                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
                             <div class="country-img"><a href="study-in-australia.php"><img src="assets/images/country1/aus.jpg" alt="Australia visa immigration" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/united-states-of-america.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
-                                <h3><a href="study-in-usa.php" class="title text-decoration-none">Australia</a></h3>
+                                <h3><a href="study-in-australia.php" class="title text-decoration-none">Australia</a></h3>
                                 <p>Australia ranks highly for quality of education, student satisfaction, and global reputation. </p>
                                 <a href="study-in-australia.php" class="btn-link-primary text-decoration-none">Read More</a>
                             </div>
@@ -317,39 +281,39 @@
 
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href=""><img src="assets/images/country/Country 1.jpg" alt="canada visa" class="img-responsive"></a>
+                            <div class="country-img"><a href="study-in-canada.php"><img src="assets/images/country1/canada.jpg" alt="canada visa" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/canada.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
-                                <h3><a href="#" class="title text-decoration-none">Canada</a></h3>
+                                <h3><a href="study-in-canada.php" class="title text-decoration-none">Canada</a></h3>
                                 <p>Canada ranks as one of the best countries in the world with a top-notch education system.</p>
-                                <a href="#" class="btn-link-primary text-decoration-none">Read More</a>
+                                <a href="study-in-canada.php" class="btn-link-primary text-decoration-none">Read More</a>
                             </div>
                         </div>
                     </div>
 
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="#"><img src="assets/images/country/Country 12.jpg" alt="Dubai visa immigration" class="img-responsive"></a>
+                            <div class="country-img"><a href="study-in-dubai.php"><img src="assets/images/country/Country 12.jpg" alt="Dubai visa immigration" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/dubai.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
-                                <h3><a href="#" class="title text-decoration-none">Dubai</a></h3>
+                                <h3><a href="study-in-dubai.php" class="title text-decoration-none">Dubai</a></h3>
                                 <p>Dubai, one of the growing educational hubs provides a multicultural environment.</p>
-                                <a href="#" class="btn-link-primary text-decoration-none">Read More</a>
+                                <a href="study-in-dubai.php" class="btn-link-primary text-decoration-none">Read More</a>
                             </div>
                         </div>
                     </div>
 
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="#"><img src="assets/images/country1/malta.jpg" alt="Malta visa immigration" class="img-responsive"></a>
+                            <div class="country-img"><a href="study-in-malta.php"><img src="assets/images/country1/malta.jpg" alt="Malta visa immigration" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/Malta.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
-                                <h3><a href="#" class="title text-decoration-none">Malta</a></h3>
+                                <h3><a href="study-in-malta.php" class="title text-decoration-none">Malta</a></h3>
                                 <p>Malta offers exciting career opportunities, making an appealing study destination.</p>
-                                <a href="#" class="btn-link-primary text-decoration-none">Read More</a>
+                                <a href="study-in-malta.php" class="btn-link-primary text-decoration-none">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -369,39 +333,39 @@
 
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="#"><img src="assets/images/country/Country 6.jpg" alt="canada visa" class="img-responsive"></a>
+                            <div class="country-img"><a href="study-in-newzealand.php"><img src="assets/images/country1/nz.jpg" alt="canada visa" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/australia.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
-                                <h3><a href="#" class="title text-decoration-none">New zealand </a></h3>
+                                <h3><a href="study-in-newzealand.php" class="title text-decoration-none">New Zealand </a></h3>
                                 <p>New Zealand ranks #3. Studying in New Zealand will fetch 10 to 20 points for immigration.</p>
-                                <a href="#" class="btn-link-primary text-decoration-none">Read More</a>
+                                <a href="study-in-newzealand.php" class="btn-link-primary text-decoration-none">Read More</a>
                             </div>
                         </div>
                     </div>
 
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="#"><img src="assets/images/country1/singapore.jpg" alt="canada visa" class="img-responsive"></a>
+                            <div class="country-img"><a href="study-in-singapore.php"><img src="assets/images/country1/singapore.jpg" alt="canada visa" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/singapore.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
-                                <h3><a href="#" class="title text-decoration-none">Singapore</a></h3>
+                                <h3><a href="study-in-singapore.php" class="title text-decoration-none">Singapore</a></h3>
                                 <p>Singapore envisages becoming a “Global Schoolhouse”, is also the premier education hub in Asia.</p>
-                                <a href="#" class="btn-link-primary text-decoration-none">Read More</a>
+                                <a href="study-in-singapore.php" class="btn-link-primary text-decoration-none">Read More</a>
                             </div>
                         </div>
                     </div>
 
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
-                            <div class="country-img"><a href="#l"><img src="assets/images/country/Country 3.jpg" alt="United Kingdom visa immigration" class="img-responsive"></a>
+                            <div class="country-img"><a href="study-in-uk.php"><img src="assets/images/country1/uk.jpg" alt="United Kingdom visa immigration" class="img-responsive"></a>
                                 <!-- {{-- <span class="country-flag-icon"><img src="assets/images/country/united-kingdom.svg" alt=""></span> --}} -->
                             </div>
                             <div class="country-content">
-                                <h3><a href="#l" class="title text-decoration-none">United Kingdom</a></h3>
+                                <h3><a href="study-in-uk.php" class="title text-decoration-none">United Kingdom</a></h3>
                                 <p>The United Kingdom is home to some of the world’s oldest schools has a strong legacy.</p>
-                                <a href="#l" class="btn-link-primary text-decoration-none">Read More</a>
+                                <a href="study-in-uk.php" class="btn-link-primary text-decoration-none">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -434,12 +398,6 @@
                         </div>
                     </div> -->
 
-                    
-
-                   
-
-                    
-
                     <!-- <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
                             <div class="country-img"><a href="#"><img src="assets/images/country/Country 9.jpg" alt="canada visa" class="img-responsive"></a>
@@ -452,9 +410,6 @@
                             </div>
                         </div>
                     </div> -->
-
-                    
-
                     <!-- <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                         <div class="country-img-thumbnail">
                             <div class="country-img"><a href="#"><img src="assets/images/country/Country 11.jpg" alt="United Kingdom visa immigration" class="img-responsive"></a>
@@ -467,10 +422,6 @@
                             </div>
                         </div>
                     </div> -->
-
-
-
-
                 </div>
                 <!-- <div class="text-center">
                      <a href="study_abroad.html" class="btn btn-default">View All</a>
@@ -498,7 +449,7 @@
             <div class="row">
                 <div class="col-xl-6 col-lg-6 col-md-7 col-sm-6 col-12">
                     <h2>About Our JDR Migration</h2>
-                    <p>Being one of the top study migration consultants, we understand the challenges arising during migration. Our primary goal is to assist you in scaling through these processes, such as assessment, documentation, and filing.</p>
+                    <p>Being one of the top Study Abroad & migration, we understand the challenges arising during migration. Our primary goal is to assist you in scaling through these processes, such as assessment, documentation, and filing.</p>
                     <p>Our international education professionals have extensive expertise and knowledge of the whole study abroad process. We can help you choose the destination, school, and course, as well as aid you with your application, SOP, visa application, and other paperwork.</p>
                     <p>Get in touch with us today, so we can help you to realise your dream.</p>
                     <a href="about.php" class="btn btn-default">About JDR Migration</a> <a href="contact.php" class="btn btn-primary">Contact us</a>
@@ -717,23 +668,28 @@
         </div>
 
         <!-- {{-- footer --}} -->
-        <div class="footer">
+        <div id="footer" class="footer">
             <!-- Footer -->
             <div class="container">
                 <div class="row">
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
                         <div class="widget-footer">
                             <h3 class="widget-title">About us</h3>
-                            <p>JDR Migration, one of the top study migration consultants, understand the challenges arising during study migration. Our primary goal is to assist you in scaling through these processes, such as assessment, documentation, and filing.</p>
+                            <p>JDR Migration, one of the top Study Abroad & Migration , understand the challenges arising during study migration. Our primary goal is to assist you in scaling through these processes, such as assessment, documentation, and filing.</p>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
                         <div class="widget-footer">
                             <h3 class="widget-title">Study Abroad</h3>
                             <ul class="listnone arrow-footer">
-                                <li><a href="study-in-usa.php">STUDY IN USA</a></li>
-                                <li><a href="#">STUDY IN UK</a></li>
-                                <li><a href="#">STUDY IN NEW ZEALAND</a></li>
+
+                                <li><a href="study-in-australia.php">Study In Australia</a></li> </a></li>
+                                <li><a href="study-in-canada.php">Study In Canada</a></li>
+                                <li><a href="study-in-dubai.php">Study In Dubai</a></li>
+                                <li><a href="study-in-malta.php">Study In Malta</a></li>
+                                <li><a href="study-in-singapore.php">Study In Singapore</a></li>
+                                <li><a href="study-in-uk.php">Study In UK</a></li>
+                                <li><a href="study-in-usa.php">Study In USA</a></li>
                             </ul>
                         </div>
                     </div>
@@ -754,13 +710,14 @@
                                 <li><a href="#"><i class="fa fa-envelope pr-2"></i> info@jdrmigration.com</a></li>
                                 <li><a href="#"><i class="fa fa-envelope pr-2"></i> jdrmigration@gmail.com</a></li>
                                 <li><a href="#"><i class="fa fa-phone pr-2"></i> +91 7523999199</a></li>
-                                <li><a href="#"><i class="fa fa-map-marker pr-2"></i>3RD FLOOR, 707, NTI LAYOUT, 10 CROSS, 10TH MAIN, II PHASE, Sahakara Nagar Bengaluru Urban, Karnataka, 560092</a></li>
+                                <!-- <li><a href="#"><i class="fa fa-map-marker pr-2"></i>3RD FLOOR, 707, NTI LAYOUT, 10 CROSS, 10TH MAIN, II PHASE, Sahakara Nagar Bengaluru Urban, Karnataka, 560092</a></li> -->
                             </ul>
+                            <div class="pt-1"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.4983961565113!2d77.58043127668125!3d13.067568784831922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae194edd460f63%3A0xfeaa6fea6ef67737!2sJDR%20Migration%20Pro!5e0!3m2!1sen!2sin!4v1655705588087!5m2!1sen!2sin" width="100%" height="150" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
                             <ul class="listnone mt-2">
-                                <a href="#" target="_blank"><i class="fa fa-facebook pr-2"></i></a>
-                                <a href="#" target="_blank"><i class="fa fa-linkedin pr-2"></i></a>
-                                <a href="#"><i class="fa fa-instagram pr-2"></i></a>
-                                <a href="#"><i class="fa fa-youtube pr-2"></i></a>
+                                <a href="#" target="_blank"><i class="fa fa-facebook m-1"></i></a>
+                                <a href="#" target="_blank"><i class="fa fa-linkedin m-1"></i></a>
+                                <a href="#"><i class="fa fa-instagram m-1"></i></a>
+                                <a href="#"><i class="fa fa-youtube m-1"></i></a>
                             </ul>
                         </div>
                     </div>

@@ -518,8 +518,8 @@ img.grayscale:hover { filter: grayscale(0); opacity: 1; transition-property: fil
 #navigation-regular.align-center>ul>li { display: inline-block; float: none; }
 #navigation-regular.align-center ul ul { text-align: left; }
 #navigation-regular.align-right>ul>li { float: right; }
-#navigation-regular>ul>li>a { padding: 21px; font-size: 15px; text-decoration: none; color: #fff; font-weight: 300; }
-#navigation-regular>ul>li:hover>a { color: #fff; background: #1c1e20; }
+#navigation-regular>ul>li>a { padding: 21px; font-size: 15px; text-decoration: none; color: #fff; font-weight: g00; }
+#navigation-regular>ul>li:hover>a { color: #fff; background: #056f98; }
 #navigation-regular>ul>li.has-sub>a { padding-right: 30px; }
 
 /*#navigation-regular > ul > li.has-sub > a:after { position: absolute; top: 22px; right: 11px; width: 8px; height: 2px; display: block; background: #dddddd;

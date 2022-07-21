@@ -1,0 +1,35 @@
+$primaryColor: #094477;
+$whiteColor: #fff;
+$blackColor: #000;
+$secondaryColor: #0dcaf0;
+$success: #026420;
+
+#navbar {
+  .nav-link {
+    padding: 0px 10px;
+    font-size:16px;
+    color: #094477;
+    text-transform: uppercase !important;
+    font-weight: 600 !important;
+    &:hover, &.active{
+        background-color: #fff;
+        color: #0dcaf0;
+    }
+  }
+  .dropdown-menu{
+    background-color: #094477;
+text-transform: uppercase;
+    &:hover{
+        color: #fff;
+    }
+
+  }
+}
+
+#footer{
+    li{
+        a{
+            text-decoration: none;
+        }
+    }
+}
