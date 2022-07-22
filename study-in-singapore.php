@@ -150,29 +150,33 @@
                 <div class="row">
                     <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12">
                         <div class="content-area">
-                            <h2>Visit Visa</h2>
+                            <h2>Singapore Visitor Visa</h2>
                             <p>Singapore is a popular destination for Indian tourists! Tourists from India make up close to 1.4
                                 million visitors to Singapore each year. Our company is here to assist all of these travellers in
                                 obtaining the necessary Singapore Visas in order to enter the country. JDR Migration can help
                                 you secure a Singapore visa in approximately 4-5 days. All you have to do is fill out our online
                                 application and.our visa specialists will do the rest.</p>
                             <img src="images/post-img-3.jpg" alt="" class="img-fluid mb30">
-                            <h3>Study Visa</h3>
+                            <h3>Singapore Study Visa</h3>
                             <p>You'll need a Student's Pass if you want to study in Singapore. In order to enter Singapore as a
                                 student, you must first get an offer letter from the institution where you want to take your chosen
-                                course. On behalf of their Indian students, Singapore&#39;s educational institutions will register the
+                                course. Applications to Singaporean universities are accepted from December to March each year.<br />
+                                On behalf of their Indian students, Singapore's educational institutions will register the
                                 Singapore student pass with the country's Immigration and Checkpoint Authority (ICA).</p>
-                            <!-- <ul class="listnone check-circle">
-                                <li>High-quality education</li>
-                                <li>Wide range of programs and courses</li>
-                                <li>Flexible and comprehensive course structure</li>
-                                <li>Multiple scholarships and funding opportunities</li>
-                                <li>An International experience that strengthens your CV</li>
-                                <li>Research and Training opportunities</li>
-                                <li>Make your stay comfortable with part-time job opportunities</li>
-                                <li>Vibrant campus life</li>
-                                <li>Career Opportunities</li>
-                            </ul> -->
+                            <h4 class="">Documents needed for a Singapore study visa</h4>
+                            <p>For application purposes, the following documents are required:</p>
+                            <ul class="listnone check-circle">
+                                <li>Valid Passport </li>
+                                <li>Form V36 and ICA Form 16 </li>
+                                <li>Receipt for the S$30 application cost </li>
+                                <li>Student's Pass issuance fees of S$60 must be paid after the student's pass has been accepted and issued.</li>
+                                <li>You require an offer letter from the Singapore university or institute. (Forms are given once tuition is paid.)</li>
+                                <li>Two passport-sized photos (if applicable).</li>
+                                <li>Documentation from the schools you have attended, like transcripts, diplomas, degrees, or certifications.</li>
+                                <li>Test scores which your college considers necessary, like the TOEFL, GRE, or GMAT,</li>
+                                <li>How you'll pay for all of your educational, living, and travel expenses.</li>
+                            </ul>
+                            <p>Please be aware that further paperwork may be needed. A personal interviewer may ask for extra documentation to be provided. These might be academic or financial records that verify one's standing</p>
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
@@ -233,7 +237,7 @@
                             </div>
                         </div>
                     </div>
-                    <div id="accordion">
+                    <!-- <div id="accordion">
                         <div class="card-accordion">
                             <div class="card-accordion-header" id="headingOne">
                                 <h5 class="mb-0">
@@ -307,6 +311,39 @@
                                 </div>
                             </div>
                         </div>
+                    </div> -->
+                    
+                </div>
+                <div class="row">
+                <div class="col-md-12 col-sm-12 col-12">
+                        <div class="content-area pt-5 pb-5">
+                            <h2 class="text-center">Singapore employment Visa</h2>
+                            <p>Singapore is one of the best places to study abroad, raise a family, work, and enjoy life. Singapore has long been one of the most popular locations for Indian migrants who want to start a fresh life in a new country.</p>
+                            <!-- <img src="assets/images/post-img-3.jpg" alt="" class="img-fluid mb30"> -->
+                            
+                            <p>Our Singapore work visa services include everything from helping domestic workers and laborers get a work permit to advising and helping experienced professionals with good education and work experience apply for a Singapore Employment Pass.</p>
+                            <p>A work visa, or "work pass" as it is referred to in Singapore, is a work permit that grants a foreign person the authorization to work in Singapore for a certain amount of time. Work permits or work passes are necessary for any foreign nationals who want to work in Singapore lawfully.</p>
+                            <p>A job offer from a Singapore-based company is required for those seeking to apply for a Singapore Work Permit Visa. Those who want an Employment Pass visa must show that they meet the salary and skill requirements for the subcategories of Employment Pass visas.</p>
+                            <p>If you're an experienced foreign professional, you may be eligible for a Singapore work visa called the Personalized Employment Pass (PEP), which does not require you to be sponsored by a Singapore company. Those who have applied for a Personalized Employment Pass visa have six months to find work in Singapore.</p>
+                           <h6>Dependent Visa</h6>
+                           <p>Those who are granted a work visa in Singapore are allowed to bring their dependents with them to the country.</p> 
+                        </div>
+                        <div class="content-area pt-5 pb-5 ps-2 pe-2 bg-light ">
+                            <h2 class="text-center">Why choose JDR Migration?</h2>
+                            <h4>JDR Migration will be your personal study abroad advisor or immigration counselor, depending on your needs.</h4>
+                            <p>When you choose us to provide services in Singapore pertaining to immigration, recruitment, and work visas, you will be able to communicate with a dedicated professional. Our trained professionals will pay close attention to every step of the application process.</p>
+                            <h4>Evaluation of your profile</h4>
+                            <p>In order to determine which visas you are eligible to apply for, we conduct a profile evaluation based on your personal background</p>
+                            <h4>Documentation assistance</h4>
+                            <p>Before you apply for a visa, we will help you put together all the paperwork you need.</p>
+                            <h4>Professional services</h4>
+                            <p>You can count on us for anything from interview preparation to language classes (French/English), to help with resumes and cover letters, as well as help with paperwork such as application forms and medical or police clearance certificates.</p>
+                            <h4>A dedicated point of contact</h4>
+                            <p>A single point of contact is available to help you during the whole process.</p>
+                            <h4>Services Offered After Landing</h4>
+                            <p>After you get your visa, we will help you get settled in the country. These services are tailored to meet your individual needs.</p>
+                        </div>
+
                     </div>
                 </div>
             </div>
