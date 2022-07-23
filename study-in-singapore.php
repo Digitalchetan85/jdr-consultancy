@@ -262,7 +262,7 @@
 <<<<<<< HEAD
                             <div class="widget widget-quote-form bg-yellow">
 =======
-                            <div class="widget widget-quote-form bg-light">
+                            <div class="widget widget-quote-form bg-yellow">
 >>>>>>> 059591a86451c7909a1a386ad64978a2a1513376
 >>>>>>> 8389380f94e4ffab0ee87156b09292c9f692c3fe
                                 <h3 class="form-title">Free Immigration Assessment</h3>
