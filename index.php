@@ -35,7 +35,15 @@
                         <div class="header-block">
                             <span class="header-link d-none d-xl-block"><a href="#" class="anchor-link">Talk to Our Expert</a></span>
                             <span class="header-link">info@jdrmigration.com</span>
-                            <span class="header-link"><a data-toggle="modal" data-target="#searchModal" class="btn btn-default btn-sm text-white btn-block">Enquiry Now</a></span>
+                            <span class="header-link"><a href="#" target="_blank"><i class="fa fa-facebook m-1"></i></a></span>
+                            <span class="header-link"><a href="#" target="_blank"><i class="fa fa-linkedin m-1"></i></a></span>
+                            <span class="header-link"><a href="#"><i class="fa fa-instagram m-1"></i></a></span>
+                            <span class="header-link"><a href="#"><i class="fa fa-youtube m-1"></i></a></span>
+                            <span class="header-link"><a href="#"><i class="fa fa-twitter m-1"></i></a></span>
+
+                            
+                            
+                            
                         </div>
                     </div>
                 </div>
