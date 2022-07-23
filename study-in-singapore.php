@@ -254,8 +254,13 @@
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
+<<<<<<< HEAD
                         <div class="sidebar sticky-top">
                             <div class="widget widget-quote-form bg-yellow">
+=======
+                        <div class="sidebar">
+                            <div class="widget widget-quote-form bg-light">
+>>>>>>> 059591a86451c7909a1a386ad64978a2a1513376
                                 <h3 class="form-title">Free Immigration Assessment</h3>
                                 <p class="form-text">Find out your options for visa by completing a free online assessment.</p>
                                 <div class="sidebar-quote-form">
