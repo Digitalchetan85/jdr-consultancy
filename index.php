@@ -33,15 +33,13 @@
                     </div>
                     <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12 col-12">
                         <div class="header-block">
-                            <span class="header-link d-none d-xl-block"><a href="#" class="anchor-link">Talk to Our Expert</a></span>
+                            <span class="header-link d-none d-xl-block"><a data-toggle="modal" data-target="#searchModal" class="anchor-link text-white text-decoration-none">Talk to Our Expert</a></span>
                             <span class="header-link">info@jdrmigration.com</span>
                             <span class="header-link"><a href="#" target="_blank"><i class="fa fa-facebook m-1"></i></a></span>
                             <span class="header-link"><a href="#" target="_blank"><i class="fa fa-linkedin m-1"></i></a></span>
                             <span class="header-link"><a href="#"><i class="fa fa-instagram m-1"></i></a></span>
                             <span class="header-link"><a href="#"><i class="fa fa-youtube m-1"></i></a></span>
-                            <span class="header-link"><a href="#"><i class="fa fa-twitter m-1"></i></a></span>
-
-                            
+                            <span class="header-link"><a href="#"><i class="fa fa-twitter m-1"></i></a></span>                     
                             
                             
                         </div>
@@ -223,7 +221,7 @@
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <img src="assets/images/slider1.png" class="d-block w-100" alt="Immigration Consulting Bootstrap Responsive Website Template">
-                    <div class="carousel-caption d-none d-md-block text-end">
+                    <div class="carousel-caption d-none d-md-block text-center">
                         <!-- <h1 class="slider-title dotted-line">Want to study abroad ?</h1>
                         <p>Are you curious to think more about and explore the reasons why to study abroad? Would it help to learn about why other students want to study abroad? Book a free consultation with us!</p> -->
                         <a data-toggle="modal" data-target="#searchModal" class="btn btn-primary btn-lg text-white">BOOK A CONSULTATION</a>
@@ -231,7 +229,7 @@
                 </div>
                 <div class="carousel-item">
                     <img src="assets/images/slider2.png" class="d-block w-100" alt="">
-                    <div class="carousel-caption d-none d-md-block">
+                    <div class="carousel-caption d-none d-md-block text-end">
                         <!-- <h1 class="slider-title dotted-line">Guidance in English Proficiency Exams</h1>
                         <p>Does your English sound awkward to everyone? No problem, we provide exclusive guidance and help in the preparation of IELTS / PTE / TOFEL!</p> -->
                         <a data-toggle="modal" data-target="#searchModal" class="btn btn-primary btn-lg text-white">BOOK A CONSULTATION</a>
@@ -239,7 +237,7 @@
                 </div>
                 <div class="carousel-item">
                     <img src="assets/images/slider3.png" class="d-block w-100" alt="Immigration visa consultant HTML5 Template">
-                    <div class="carousel-caption d-none d-md-block">
+                    <div class="carousel-caption d-none d-md-block text-end">
                         <!-- <h1 class="slider-title dotted-line text-start">Study Abroad & Migration</h1>
                         <p>We help people to migrate for study from one country to another country through legal and documentation processes to increase the chances of for study, Make the most of us!</p> -->
                         <a data-toggle="modal" data-target="#searchModal" class="btn btn-primary btn-lg text-white btn-end">BOOK A CONSULTATION</a>
@@ -282,7 +280,7 @@
                             <div class="country-content">
                                 <h3><a href="study-in-australia.php" class="title text-decoration-none">Australia</a></h3>
                                 <p>Australia ranks highly for quality of education, student satisfaction, and global reputation. </p>
-                                <a href="study-in-australia.php" class="btn-link-primary text-decoration-none">Read More</a>
+                                <a href="study-in-australia.php" class="btn-link-primary text-decoration-none stretched-link">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -360,7 +358,7 @@
                             <div class="country-content">
                                 <h3><a href="study-in-singapore.php" class="title text-decoration-none">Singapore</a></h3>
                                 <p>Singapore envisages becoming a “Global Schoolhouse”, is also the premier education hub in Asia.</p>
-                                <a href="study-in-singapore.php" class="btn-link-primary text-decoration-none">Read More</a>
+                                <a href="study-in-singapore.php" class="btn-link-primary text-decoration-none stretched-link">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -388,7 +386,7 @@
                             <div class="country-content">
                                 <h3><a href="study-in-usa.php" class="title text-decoration-none">United States</a></h3>
                                 <p>The United States as #2 in the Education, offers a flexible academic environment. </p>
-                                <a href="study-in-usa.php" class="btn-link-primary text-decoration-none">Read More</a>
+                                <a href="study-in-usa.php" class="btn-link-primary text-decoration-none stretched-link">Read More</a>
                             </div>
                         </div>
                     </div>

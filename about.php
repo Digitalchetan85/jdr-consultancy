@@ -32,7 +32,7 @@
                     </div>
                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                         <div class="header-block">
-                            <span class="header-link d-none d-xl-block"><a href="#" class="anchor-link">Talk to Our Expert</a></span>
+                            <span class="header-link d-none d-xl-block"><a data-toggle="modal" data-target="#searchModal" class="anchor-link text-white text-decoration-none">Talk to Our Expert</a></span>
                             <span class="header-link">info@jdrmigration.com</span>
                             <span class="header-link"><a data-toggle="modal" data-target="#searchModal" class="btn btn-default btn-sm white_color">Enquiry Now</a></span>
                         </div>
@@ -43,36 +43,36 @@
         <!-- /.topbar -->
         <div class="navigation-regular">
             <!-- <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-xl-9 col-lg-12 col-md-12 col-sm-12 col-12">
-                    <div id="navigation-regular" class="">
-                        navigation
-                      <ul class="">
-                            <li><a href="/">Home</a></li>
-                            <li><a href="about.php">About Us</a></li>
-                            <li><a href="#">Services</a>
-                                <ul>
-                                    <li><a href="free-counselling.php">Free Counselling </a></li>
-                                    <li><a href="#">Free Visa Filling </a></li>
-                                    <li><a href="#">Flight Bookings </a></li>
-                                </ul>
-                            </li>
-                            <li><a href="#">Study Abroad</a>
-                                <ul>
-                                    <li><a href="study-in-usa.php">STUDY IN USA</a></li>
-                                    <li><a href="#">STUDY IN UK</a></li>
-                                    <li><a href="#">STUDY IN NEW ZEALAND</a></li>
-                                    <li><a href="#">STUDY IN AUSTRALIA </a></li>
-                                </ul>
-                            </li>
-                            <li><a href="coaching.php">Coaching</a></li>
-                            <li><a href="certifications.php">Certifications</a></li>
-                            <li><a href="contact.php">Contact Us</a></li>
-                        </ul>
+                <div class="row justify-content-center">
+                    <div class="col-xl-9 col-lg-12 col-md-12 col-sm-12 col-12">
+                        <div id="navigation-regular" class="">
+                            navigation
+                            <ul class="">
+                                <li><a href="/">Home</a></li>
+                                <li><a href="about.php">About Us</a></li>
+                                <li><a href="#">Services</a>
+                                    <ul>
+                                        <li><a href="free-counselling.php">Free Counselling </a></li>
+                                        <li><a href="#">Free Visa Filling </a></li>
+                                        <li><a href="#">Flight Bookings </a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="#">Study Abroad</a>
+                                    <ul>
+                                        <li><a href="study-in-usa.php">STUDY IN USA</a></li>
+                                        <li><a href="#">STUDY IN UK</a></li>
+                                        <li><a href="#">STUDY IN NEW ZEALAND</a></li>
+                                        <li><a href="#">STUDY IN AUSTRALIA </a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="coaching.php">Coaching</a></li>
+                                <li><a href="certifications.php">Certifications</a></li>
+                                <li><a href="contact.php">Contact Us</a></li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
-            </div>
-        </div> -->
+            </div> -->
 
             <nav class="navbar navbar-expand-lg navbar-light bg-white">
                 <div class="container-fluid">
@@ -145,8 +145,8 @@
                             <li class="nav-item">
                                 <a class="nav-link " href="certifications.php">Certifications</a>
                             </li>
-                            <li class="nav-item" href="contact.php">
-                                <a class="nav-link ">Contact US</a>
+                            <li class="nav-item">
+                                <a class="nav-link" href="contact.php">Contact US</a>
                             </li>
                         </ul>
 
@@ -308,7 +308,7 @@
                 </div>
             </div>
         </div>
-        <div class="space-large">
+        <!-- <div class="space-large">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
@@ -331,24 +331,24 @@
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="bg-section bg-background" style="background-image:url('assets/images/country/Bottom Image.jpg');">
+        </div> -->
+        <!-- <div class="bg-section bg-background" style="background-image:url('assets/images/country/Bottom Image.jpg');">
             <div class="space-large">
                 <div class="container">
                     <div class="row">
                         <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12">
                             <div class="section-title text-center">
-                                <!-- section title start-->
+                                section title start
                                 <h2 class="text-white">Working Together, We Can Help</h2>
                                 <p>Doubting the positive effects of our teamwork because you’ve been burned before? By working together with the clients, we learn that wins and losses affect everyone on the team. When teams work together, they can discuss and share a variety of perspectives of a situation.</p>
                                 <a href="#" class="btn btn-primary">Join Us</a>
                             </div>
-                            <!-- /.section title start-->
+                            /.section title start
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 
 

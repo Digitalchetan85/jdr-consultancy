@@ -29,7 +29,7 @@
                     </div>
                     <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12 col-12">
                         <div class="header-block">
-                            <span class="header-link d-none d-xl-block"><a href="#" class="anchor-link">Talk to Our Expert</a></span>
+                            <span class="header-link d-none d-xl-block"><a data-toggle="modal" data-target="#searchModal" class="anchor-link text-white text-decoration-none">Talk to Our Expert</a></span>
                             <span class="header-link">info@jdrmigration.com</span>
                             <span class="header-link"><a href="#" target="_blank"><i class="fa fa-facebook m-1"></i></a></span>
                             <span class="header-link"><a href="#" target="_blank"><i class="fa fa-linkedin m-1"></i></a></span>
@@ -254,17 +254,9 @@
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
-<<<<<<< HEAD
+
                         <div class="sidebar sticky-top">
-                            <div class="widget widget-quote-form bg-yellow">
-=======
-                        <div class="sidebar">
-<<<<<<< HEAD
-                            <div class="widget widget-quote-form bg-yellow">
-=======
-                            <div class="widget widget-quote-form bg-yellow">
->>>>>>> 059591a86451c7909a1a386ad64978a2a1513376
->>>>>>> 8389380f94e4ffab0ee87156b09292c9f692c3fe
+                            <div class="widget widget-quote-form bg-light">
                                 <h3 class="form-title">Free Immigration Assessment</h3>
                                 <p class="form-text">Find out your options for visa by completing a free online assessment.</p>
                                 <div class="sidebar-quote-form">

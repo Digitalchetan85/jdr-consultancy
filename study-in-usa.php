@@ -29,7 +29,7 @@
                     </div>
                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                         <div class="header-block">
-                            <span class="header-link d-none d-xl-block"><a href="#" class="anchor-link">Talk to Our Expert</a></span>
+                            <span class="header-link d-none d-xl-block"><a data-toggle="modal" data-target="#searchModal" class="anchor-link text-white text-decoration-none">Talk to Our Expert</a></span>
                             <span class="header-link">info@jdrmigration.com</span>
                             <span class="header-link"><a data-toggle="modal" data-target="#searchModal" class="btn btn-default btn-sm white_color">Enquiry Now</a></span>
                         </div>
@@ -38,7 +38,7 @@
             </div>
         </div>
         <!-- /.topbar -->
-        <div class="navigation-regular sticky-top">
+        <div class="navigation-regular">
             <!-- <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-xl-9 col-lg-12 col-md-12 col-sm-12 col-12">
@@ -89,7 +89,7 @@
                             <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
                                 <ul class="navbar-nav">
                                     <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle active" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                             Services
                                         </a>
                                         <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
@@ -110,7 +110,7 @@
                             <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
                                 <ul class="navbar-nav">
                                     <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle active" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                             Study In Abroad
                                         </a>
                                         <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
@@ -129,13 +129,13 @@
 
 
                             <li class="nav-item">
-                                <a class="nav-link active" href="coaching.php">Coaching</a>
+                                <a class="nav-link" href="coaching.php">Coaching</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" href="certifications.php">Certifications</a>
+                                <a class="nav-link" href="certifications.php">Certifications</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" href="contact.php">Contact US</a>
+                                <a class="nav-link" href="contact.php">Contact US</a>
                             </li>
                         </ul>
 
@@ -200,8 +200,8 @@
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
-                        <div class="sidebar">
-                            <div class="widget widget-quote-form bg-yellow">
+                    <div class="sidebar sticky-top">
+                            <div class="widget widget-quote-form bg-light">
                                 <h3 class="form-title">Free Immigration Assessment</h3>
                                 <p class="form-text">Find out your options for visa by completing a free online assessment.</p>
                                 <div class="sidebar-quote-form">
