@@ -163,10 +163,10 @@
 
     <div>
         <!-- /.header classic -->
-        <div class="page-header">
+        <div class="page6">
             <div class="container">
-                <div class="row">
-                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+                <div class="row justify-content-start">
+                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                         <h1 class="page-title">Study in Australia</h1>
                         <p class="page-description">The Australia is a country that needs no introduction. If you desire to achieve your goals, the world is your oyster. </p>
                     </div>
@@ -181,7 +181,7 @@
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item"><a href="/jdr-consultancy">Home</a></li>
-                                <li class="breadcrumb-item active" aria-current="page">Study in Singapore</li>
+                                <li class="breadcrumb-item active" aria-current="page">An Australian Visitor Visa</li>
                             </ol>
                         </nav>
                     </div>
@@ -194,61 +194,159 @@
                 <div class="row">
                     <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12">
                         <div class="content-area">
-                            <h2>Singapore Visitor Visa</h2>
-                            <p>Singapore is a popular destination for Indian tourists! Tourists from India make up close to 1.4
-                                million visitors to Singapore each year. Our company is here to assist all of these travellers in
-                                obtaining the necessary Singapore Visas in order to enter the country. JDR Migration can help
-                                you secure a Singapore visa in approximately 4-5 days. All you have to do is fill out our online
-                                application and.our visa specialists will do the rest.</p>
-                            <img src="images/post-img-3.jpg" alt="" class="img-fluid mb30">
-                            <h3>Singapore Study Visa</h3>
-                            <p>You'll need a Student's Pass if you want to study in Singapore. In order to enter Singapore as a
-                                student, you must first get an offer letter from the institution where you want to take your chosen
-                                course. Applications to Singaporean universities are accepted from December to March each year.<br />
-                                On behalf of their Indian students, Singapore's educational institutions will register the
-                                Singapore student pass with the country's Immigration and Checkpoint Authority (ICA).</p>
-                            <h4 class="">Documents needed for a Singapore study visa</h4>
-                            <p>For application purposes, the following documents are required:</p>
+                            <h2>An Australian Visitor Visa</h2>
+                            <p>Australia, which is often considered to be one of the most strikingly beautiful
+                                nations in the world, has a lot to offer tourists. The Sydney Opera House, the Great
+                                Barrier Reef, the Uluru-Kata Tjuta National Park, and the Sydney Harbour Bridge
+                                are just a few of the well-known tourist attractions in Australia.</p>
+                            <p>The visitor visa, also known as the Subclass 600, is required in order for Indian
+                                nationals to travel to Australia for purposes of tourism. With this visa, Indian
+                                nationals are permitted to engage in tourist-related or business-related activities
+                                while in Australia.</p>
+                            <p>Recreation, vacations, sight-seeing, and paying a visit to old friends and relatives
+                                are all examples of activities that fall under the umbrella term &quot;tourism&quot; in
+                                Australia.</p>
+                            <!-- <img src="images/post-img-3.jpg" alt="" class="img-fluid mb30"> -->
+                            <h2>An Australian Student Visa</h2>
+
+                            <p class="">An Australian Student Visa is required for international students who want to study
+                                in Australia for more than 12 weeks.</p>
+
                             <ul class="listnone check-circle">
-                                <li>Valid Passport </li>
-                                <li>Form V36 and ICA Form 16 </li>
-                                <li>Receipt for the S$30 application cost </li>
-                                <li>Student's Pass issuance fees of S$60 must be paid after the student's pass has been accepted and issued.</li>
-                                <li>You require an offer letter from the Singapore university or institute. (Forms are given once tuition is paid.)</li>
-                                <li>Two passport-sized photos (if applicable).</li>
-                                <li>Documentation from the schools you have attended, like transcripts, diplomas, degrees, or certifications.</li>
-                                <li>Test scores which your college considers necessary, like the TOEFL, GRE, or GMAT,</li>
-                                <li>How you'll pay for all of your educational, living, and travel expenses.</li>
+                                <li>The kind of visa you need depends on your age, the program you&#39;re
+                                    participating in, and the length of time you want to be in the country. </li>
+                                <li>The Australia Student Visa is referred to by its subclass number, which is
+                                    500. </li>
+                                <li>Before submitting an application for an Australian student visa, the first and
+                                    most important step is to enroll or register at a reputable school or institution
+                                    located in Australia. </li>
+                                <li>Your desired program has to be included in the Commonwealth Register of
+                                    Institutions and Courses for Overseas Students (CRICOS) in order for you to
+                                    enroll in it.</li>
+                                <li>You will be given a document called an electronic Confirmation of
+                                    Enrollment (eCoE) that proves you are enrolled at an Australian university.</li>
+                                <li>You must give a GTE declaration, which is a confirmation that you intend to
+                                    travel to Australia just to study and not to reside. The Genuine Temporary
+                                    Entrant (GTE) condition states that a visa application must be able to
+                                    establish a genuine desire to remain in Australia temporarily for the purpose
+                                    of education, or to accompany a student as a dependant (i.e. spouse or kid),
+                                    or as a guardian.</li>
+                                <li>The results of English language tests like the IELTS, TOEFL, and PTE are
+                                    critical if you are not a native speaker of the language.</li>
+
                             </ul>
-                            <p>Please be aware that further paperwork may be needed. A personal interviewer may ask for extra documentation to be provided. These might be academic or financial records that verify one's standing</p>
+                            <p>In order to obtain an Australian student visa, you&#39;ll typically need to provide</p>
+                            <ul class="listnone check-circle">
+                                <li>Proof of enrollment must be provided (your electronic confirmation of
+                                    enrolment).</li>
+                                <li>A passport that is up-to-date and in good standing.</li>
+                                <li>Visa application fees</li>
+                                <li>Passport-sized photos</li>
+                                <li>A copy of your statement as a &quot;Genuine Temporary Entrant&quot; (GTE).</li>
+                                <li>Papers relating to education and employment.</li>
+                                <li>Proven evidence of your command of the English language (such as IELTS
+                                    test scores)</li>
+                                <li>A track record of good financial health (tuition, living expenses, dependent
+                                    expenses, return airfare).</li>
+                                <li>Specifics of your medical insurance plan (Overseas Student Health Cover -
+                                    OSHC)</li>
+                                <li>Statement of purpose</li>
+                            </ul>
                         </div>
                         <div class="py-3 py-md-5">
                             <div class="content-area pt-5 pb-5">
-                                <h2 class="text-center">Singapore employment Visa</h2>
-                                <p>Singapore is one of the best places to study abroad, raise a family, work, and enjoy life. Singapore has long been one of the most popular locations for Indian migrants who want to start a fresh life in a new country.</p>
+                                <h2 class="text-center">An Australian Work Visa</h2>
+                                <p>A vibrant country like Australia has a huge need for highly qualified workers. It
+                                    offers a wide range of employment options, a high minimum pay, and enough
+                                    scope for saving. It has incredible social benefits, such as free healthcare, and
+                                    stunning cities that have thriving multicultural communities.</p>
                                 <!-- <img src="assets/images/post-img-3.jpg" alt="" class="img-fluid mb30"> -->
 
-                                <p>Our Singapore work visa services include everything from helping domestic workers and laborers get a work permit to advising and helping experienced professionals with good education and work experience apply for a Singapore Employment Pass.</p>
-                                <p>A work visa, or "work pass" as it is referred to in Singapore, is a work permit that grants a foreign person the authorization to work in Singapore for a certain amount of time. Work permits or work passes are necessary for any foreign nationals who want to work in Singapore lawfully.</p>
-                                <p>A job offer from a Singapore-based company is required for those seeking to apply for a Singapore Work Permit Visa. Those who want an Employment Pass visa must show that they meet the salary and skill requirements for the subcategories of Employment Pass visas.</p>
-                                <p>If you're an experienced foreign professional, you may be eligible for a Singapore work visa called the Personalized Employment Pass (PEP), which does not require you to be sponsored by a Singapore company. Those who have applied for a Personalized Employment Pass visa have six months to find work in Singapore.</p>
-                                <h6>Dependent Visa</h6>
-                                <p>Those who are granted a work visa in Singapore are allowed to bring their dependents with them to the country.</p>
+                                <p>An Australian Work Visa is the best way to take advantage of this opportunity.
+
+                                    With its extensive knowledge of the Australian immigration system, JDR
+                                    Migration is the ideal advisor to help you begin your professional life in Australia
+                                    right away!</p>
+                                <p>The process of applying for a work visa includes a skills evaluation as one of its
+                                    required steps. One is required to choose a profession that is included on the
+                                    Occupational Demand List maintained by Australia.</p>
+                                <p>On this list, you can find jobs that are currently experiencing a skills shortage
+                                    throughout the nation. Each of the jobs on the list has its own organization that
+                                    evaluates the skills needed for that job.</p>
+
+                                <h5>Steps to apply for Australian work visa:</h5>
+                                <p>There are many steps to follow in order to apply for an Australian work visa.</p>
+                                <ul class="listnone check-circle">
+                                    <li>Find out the kind of work visa you are qualified for before you apply.</li>
+                                    <li>You must meet the criteria for the points-based evaluation (Skillselect).</li>
+                                    <li>Before you can apply for a visa, your employer needs to fill out an online
+                                        nomination or sponsorship form.</li>
+                                    <li>Complete the appropriate visa application form online.</li>
+                                    <li>Submit all the necessary papers and information with your application.</li>
+                                    <li>Pay the money for your visa application to be processed.</li>
+
+                                </ul>
+                                <p>In order to apply for this visa, you&#39;ll need the following documents:</p>
+                                <ul class="listnone check-circle">
+                                    <li>Valid Passport</li>
+                                    <li>IELTS/TOEFL scores are proof of English competence.</li>
+                                    <li>Provide proof of your education and work experience.</li>
+                                    <li>Health care coverage details</li>
+
+                                </ul>
+                                <h2 class="text-start">Australian Permanent Residency (PR) Visa</h2>
+                                <p>People who want to migrate to another country often choose Australia as their
+                                    destination. Immigrants may apply for permanent residence in Australia by
+                                    obtaining what&#39;s known as a PR visa. The visa for permanent residency in Australia is valid for five years. You and your family may relocate to Australia
+                                    with a PR visa.</p>
+                                <p>After a period of four years in Australia on an Australia PR visa, you may apply
+                                    for Australian citizenship.</p>
+                                <p><b>What are the benefits of Australian PR Visa?</b></p>
+                                <p>Australia&#39;s Permanent Resident Visa offers the following advantages:</p>
+                                <ul class="listnone check-circle">
+                                    <li>The rights to live, works, and settle in any region of the nation.</li>
+                                    <li>Permission from the government for the family to come along</li>
+                                    <li>Providing free education to children up to a specific age.</li>
+                                    <li>Sponsorship of relatives for permanent residency in the United States is
+                                        permitted.</li>
+                                    <li>Work and health benefits for you and your family.</li>
+                                </ul>
+                                <h4>PR visa eligibility point requirements</h4>
+                                <p>Each person who has filed for a permanent resident visa in Australia is given a
+                                    rating based on a set of criteria that includes their age, level of English proficiency,
+                                    level of education, number of years of relevant job experience, and so on. For each
+                                    of them, you will get a certain number of points.</p>
+                                <p>In Australia, the PR Points Grid says that you need at least 65 points to be
+                                    successful.</p>
+                                <h4>How to Apply for an Australian Permanent Resident Visa</h4>
+                                <p>What is the application procedure like in order to acquire permanent residency in
+                                    Australia?</p>
+                                <p>Follow the steps below to apply for immigration to Australia.</p>
+                                <ol>
+                                    <li>Begin by determining whether or not you are eligible to participate.</li>
+                                    <li>Apply for a migration skill evaluation with the appropriate authority.</li>
+                                    <li>The next step is to submit an expression of interest (EOI).</li>
+                                    <li>After your EOI is approved, you have 60 days to fill out an online visa
+                                        application and send in all the necessary documents.</li>
+                                </ol>
+                                <p>If your paperwork has mistakes or you are ignorant about the immigration
+                                    procedure, it might take years to get a visa. In order to save time and effort, it&#39;s best
+                                    to work with a reputable visa expert like JDR Migration.</p>
                             </div>
                             <div class="content-area pt-5 pb-5 ps-2 pe-2 bg-light ">
-                                <h2 class="text-center">Why choose JDR Migration?</h2>
-                                <h4>JDR Migration will be your personal study abroad advisor or immigration counselor, depending on your needs.</h4>
-                                <p>When you choose us to provide services in Singapore pertaining to immigration, recruitment, and work visas, you will be able to communicate with a dedicated professional. Our trained professionals will pay close attention to every step of the application process.</p>
-                                <h4>Evaluation of your profile</h4>
-                                <p>In order to determine which visas you are eligible to apply for, we conduct a profile evaluation based on your personal background</p>
-                                <h4>Documentation assistance</h4>
-                                <p>Before you apply for a visa, we will help you put together all the paperwork you need.</p>
-                                <h4>Professional services</h4>
-                                <p>You can count on us for anything from interview preparation to language classes (French/English), to help with resumes and cover letters, as well as help with paperwork such as application forms and medical or police clearance certificates.</p>
-                                <h4>A dedicated point of contact</h4>
-                                <p>A single point of contact is available to help you during the whole process.</p>
-                                <h4>Services Offered After Landing</h4>
-                                <p>After you get your visa, we will help you get settled in the country. These services are tailored to meet your individual needs.</p>
+                                <h2>Why choose JDR Migration?</h2>
+                                <ul class="listnone check-circle">
+                                    <li>With the guidance of a JDR Migration Work Visa Expert, you can have
+                                        your visa application processed in the most efficient way possible and
+                                        enhance your chances of success.</li>
+                                    <li>We&#39;ll keep you up to date on the latest visa requirements and restrictions,
+                                        and we&#39;ll help you put together the paperwork you need to send in.</li>
+                                    <li>The experts on our team will point you to the right government websites
+                                        and authorized immigration officials so that you can get the most up-to-
+                                        date application forms and information.</li>
+                                    <li>You&#39;ll be able to study or work in Australia as soon as your visa has been
+                                        approved.</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
