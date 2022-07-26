@@ -129,10 +129,10 @@
                                             <li><a class="dropdown-item" href="study-in-canada.php">Study In Canada</a></li>
                                             <li><a class="dropdown-item" href="study-in-dubai.php">Study In Dubai</a></li>
                                             <li><a class="dropdown-item" href="study-in-malta.php">Study In Malta</a></li>
-                                            <li><a class="dropdown-item" href="study-in-singapore.php">Study In New Zealand</a></li>
+                                            <li><a class="dropdown-item" href="study-in-newzealand.php">Study In New Zealand</a></li>
                                             <li><a class="dropdown-item" href="study-in-singapore.php">Study IN Singapore</a></li>
-                                            <li><a class="dropdown-item" href="study-in-singapore.php">Study IN UK</a></li>
-                                            <li><a class="dropdown-item" href="study-in-singapore.php">Study IN USA</a></li>
+                                            <li><a class="dropdown-item" href="study-in-uk.php">Study IN UK</a></li>
+                                            <li><a class="dropdown-item" href="study-in-usa.php">Study IN USA</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -294,7 +294,7 @@
                             <div class="country-content">
                                 <h3><a href="study-in-canada.php" class="title text-decoration-none">Canada</a></h3>
                                 <p>Canada ranks as one of the best countries in the world with a top-notch education system.</p>
-                                <a href="study-in-canada.php" class="btn-link-primary text-decoration-none">Read More</a>
+                                <a href="study-in-canada.php" class="btn-link-primary text-decoration-none stretched-link">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -461,9 +461,9 @@
                     <p>Get in touch with us today, so we can help you to realise your dream.</p>
                     <a href="about.php" class="btn btn-default">About JDR Migration</a> <a href="contact.php" class="btn btn-primary">Contact us</a>
                 </div>
-                <div class="offset-xl-1 col-xl-5 offset-lg-1 col-lg-5 col-md-5 col-sm-6 col-12">
+                <div class="offset-xl-1 col-xl-5 offset-lg-1 col-lg-5 col-md-5 col-sm-6 col-12 align-self-center">
                     <div class="img-block">
-                        <img src="assets/images/about-img-1.png" alt="simple bootstrap template" class="img-fluid">
+                        <img src="assets/images/about/abt2.png" alt="simple bootstrap template" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -737,7 +737,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 text-center">
-                        <p><b>Copyright © 2022 JDR Migration. All Rights Reserved.</b></p>
+                        <p><b>Copyright © 2022 JDR Migration. All Rights Reserved. Developed by ShanthasWebz</b></p>
                     </div>
                 </div>
             </div>

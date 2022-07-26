@@ -122,10 +122,10 @@
                                             <li><a class="dropdown-item" href="study-in-canada.php">Study In Canada</a></li>
                                             <li><a class="dropdown-item" href="study-in-dubai.php">Study In Dubai</a></li>
                                             <li><a class="dropdown-item" href="study-in-malta.php">Study In Malta</a></li>
-                                            <li><a class="dropdown-item" href="study-in-singapore.php">Study In NEWZEALAND</a></li>
+                                            <li><a class="dropdown-item" href="study-in-newzealand.php">Study In NEWZEALAND</a></li>
                                             <li><a class="dropdown-item" href="study-in-singapore.php">STUDY IN SINGAPORE</a></li>
-                                            <li><a class="dropdown-item" href="study-in-singapore.php">STUDY IN UK</a></li>
-                                            <li><a class="dropdown-item" href="study-in-singapore.php">STUDY IN USA</a></li>
+                                            <li><a class="dropdown-item" href="study-in-uk.php">STUDY IN UK</a></li>
+                                            <li><a class="dropdown-item" href="study-in-usa.php">STUDY IN USA</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -161,7 +161,7 @@
 
 
     <!-- /.header classic -->
-    <div class="page-header">
+    <div class="abt">
         <div class="container">
             <div class="row">
                 <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
@@ -199,8 +199,8 @@
                     <p>Get in touch with us today, so we can help you to realise your dream.</p>
                     <p class="text-default">Call: +91 7523999199</p>
                 </div>
-                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-                    <div class="image-block"><img src="assets/images/about-us-fancy-img-2.png" alt="" class="img-fluid"></div>
+                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 align-self-center">
+                    <div class="image-block"><img src="assets/images/about/abt3.png" alt="" class="img-fluid"></div>
                 </div>
             </div>
         </div>
@@ -244,7 +244,7 @@
                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
                         <div class="feature-blurb mb20">
                             <div class="feature-content">
-                                <div class=""><img src="assets/images/office-img-1.jpg" alt="" class="img-fluid"></div>
+                                <div class=""><img src="assets/images/about/How-do-we-help.png" alt="" class="img-fluid"></div>
                                 <div class=""><img src="assets/images/office-img-2.html" alt="" class="img-fluid"></div>
                             </div>
                         </div>
@@ -353,72 +353,73 @@
 
 
     <!-- {{-- footer --}} -->
-    <div class="footer">
-        <!-- Footer -->
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
-                    <div class="widget-footer">
-                        <h3 class="widget-title">About us</h3>
-                        <p>JDR Migration, one of the top Study Abroad & Migration, understand the challenges arising during study migration. Our primary goal is to assist you in scaling through these processes, such as assessment, documentation, and filing.</p>
+    <div id="footer" class="footer">
+            <!-- Footer -->
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
+                        <div class="widget-footer">
+                            <h3 class="widget-title">About us</h3>
+                            <p>JDR Migration, one of the top Study Abroad & Migration , understand the challenges arising during study migration. Our primary goal is to assist you in scaling through these processes, such as assessment, documentation, and filing.</p>
+                        </div>
                     </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
-                    <div class="widget-footer">
-                        <h3 class="widget-title">Study Abroad</h3>
-                        <ul class="listnone arrow-footer">
-                            <li><a href="study-in-australia.php">Study In Australia</a></li> </a></li>
-                            <li><a href="study-in-canada.php">Study In Canada</a></li>
-                            <li><a href="study-in-dubai.php">Study In Dubai</a></li>
-                            <li><a href="study-in-malta.php">Study In Malta</a></li>
-                            <li><a href="study-in-singapore.php">Study In Singapore</a></li>
-                            <li><a href="study-in-uk.php">Study In UK</a></li>
-                            <li><a href="study-in-usa.php">Study In USA</a></li>
-                        </ul>
+                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
+                        <div class="widget-footer">
+                            <h3 class="widget-title">Study Abroad</h3>
+                            <ul class="listnone arrow-footer">
+
+                                <li><a href="study-in-australia.php">Study In Australia</a></li> </a></li>
+                                <li><a href="study-in-canada.php">Study In Canada</a></li>
+                                <li><a href="study-in-dubai.php">Study In Dubai</a></li>
+                                <li><a href="study-in-malta.php">Study In Malta</a></li>
+                                <li><a href="study-in-singapore.php">Study In Singapore</a></li>
+                                <li><a href="study-in-uk.php">Study In UK</a></li>
+                                <li><a href="study-in-usa.php">Study In USA</a></li>
+                            </ul>
+                        </div>
                     </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
-                    <div class="widget-footer">
-                        <h3 class="widget-title">Services</h3>
-                        <ul class="listnone arrow-footer">
-                            <li><a href="free-counselling.php">Free Counselling </a></li>
-                            <li><a href="#">Free Visa Filling </a></li>
-                            <li><a href="#">Flight Bookings </a></li>
-                        </ul>
+                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
+                        <div class="widget-footer">
+                            <h3 class="widget-title">Services</h3>
+                            <ul class="listnone arrow-footer">
+                                <li><a href="free-counselling.php">Free Counselling </a></li>
+                                <li><a href="#">Free Visa Filling </a></li>
+                                <li><a href="#">Flight Bookings </a></li>
+                            </ul>
+                        </div>
                     </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
-                    <div class="widget-footer">
-                        <h3 class="widget-title">Contact Us</h3>
-                        <ul class="listnone">
-                            <li><a href="#"><i class="fa fa-envelope pr-2"></i> info@jdrmigration.com</a></li>
-                            <li><a href="#"><i class="fa fa-envelope pr-2"></i> jdrmigration@gmail.com</a></li>
-                            <li><a href="#"><i class="fa fa-phone pr-2"></i> +91 7523999199</a></li>
-                            <!-- <li><a href="#"><i class="fa fa-map-marker pr-2"></i>3RD FLOOR, 707, NTI LAYOUT, 10 CROSS, 10TH MAIN, II PHASE, Sahakara Nagar Bengaluru Urban, Karnataka, 560092</a></li> -->
-                        </ul>
-                        <div class="pt-1"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.4983961565113!2d77.58043127668125!3d13.067568784831922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae194edd460f63%3A0xfeaa6fea6ef67737!2sJDR%20Migration%20Pro!5e0!3m2!1sen!2sin!4v1655705588087!5m2!1sen!2sin" width="100%" height="150" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
-                        <ul class="listnone mt-2">
-                            <a href="#" target="_blank"><i class="fa fa-facebook m-1"></i></a>
-                            <a href="#" target="_blank"><i class="fa fa-linkedin m-1"></i></a>
-                            <a href="#"><i class="fa fa-instagram m-1"></i></a>
-                            <a href="#"><i class="fa fa-youtube m-1"></i></a>
-                        </ul>
+                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
+                        <div class="widget-footer">
+                            <h3 class="widget-title">Contact Us</h3>
+                            <ul class="listnone">
+                                <li><a href="#"><i class="fa fa-envelope pr-2"></i> info@jdrmigration.com</a></li>
+                                <li><a href="#"><i class="fa fa-envelope pr-2"></i> jdrmigration@gmail.com</a></li>
+                                <li><a href="#"><i class="fa fa-phone pr-2"></i> +91 7523999199</a></li>
+                                <!-- <li><a href="#"><i class="fa fa-map-marker pr-2"></i>3RD FLOOR, 707, NTI LAYOUT, 10 CROSS, 10TH MAIN, II PHASE, Sahakara Nagar Bengaluru Urban, Karnataka, 560092</a></li> -->
+                            </ul>
+                            <div class="pt-1"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.4983961565113!2d77.58043127668125!3d13.067568784831922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae194edd460f63%3A0xfeaa6fea6ef67737!2sJDR%20Migration%20Pro!5e0!3m2!1sen!2sin!4v1655705588087!5m2!1sen!2sin" width="100%" height="150" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+                            <ul class="listnone mt-2">
+                                <a href="#" target="_blank"><i class="fa fa-facebook m-1"></i></a>
+                                <a href="#" target="_blank"><i class="fa fa-linkedin m-1"></i></a>
+                                <a href="#"><i class="fa fa-instagram m-1"></i></a>
+                                <a href="#"><i class="fa fa-youtube m-1"></i></a>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <!-- /.footer -->
-    <div class="tiny-footer">
-        <!-- tiny footer -->
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 text-center">
-                    <p><b>Copyright © 2022 JDR Migration. All Rights Reserved.</b></p>
+        <!-- /.footer -->
+        <div class="tiny-footer">
+            <!-- tiny footer -->
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 text-center">
+                        <p><b>Copyright © 2022 JDR Migration. All Rights Reserved. Developed by ShanthasWebz</b></p>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
     <!-- /.tiny footer -->
     <a href="https://api.whatsapp.com/send?phone=917523999199" class="float" target="_blank">
         <i class="fa fa-whatsapp my-float"></i>

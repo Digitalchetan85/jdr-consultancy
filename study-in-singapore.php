@@ -126,10 +126,10 @@
                                             <li><a class="dropdown-item" href="study-in-canada.php">Study In Canada</a></li>
                                             <li><a class="dropdown-item" href="study-in-dubai.php">Study In Dubai</a></li>
                                             <li><a class="dropdown-item" href="study-in-malta.php">Study In Malta</a></li>
-                                            <li><a class="dropdown-item" href="study-in-singapore.php">Study In New Zealand</a></li>
+                                            <li><a class="dropdown-item" href="study-in-newzealand.php">Study In New Zealand</a></li>
                                             <li><a class="dropdown-item" href="study-in-singapore.php">Study IN Singapore</a></li>
-                                            <li><a class="dropdown-item" href="study-in-singapore.php">Study IN UK</a></li>
-                                            <li><a class="dropdown-item" href="study-in-singapore.php">Study IN USA</a></li>
+                                            <li><a class="dropdown-item" href="study-in-uk.php">Study IN UK</a></li>
+                                            <li><a class="dropdown-item" href="study-in-usa.php">Study IN USA</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -167,9 +167,9 @@
         <div class="page-header">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 text-center">
                         <h1 class="page-title">Study in Singapore</h1>
-                        <p class="page-description">The Singapore is a country that needs no introduction. If you desire to achieve your goals, the world is your oyster. </p>
+                        <p class="page-description">The Singapore is a country that needs no introduction.<br> If you desire to achieve your goals, the world is your oyster. </p>
                     </div>
                 </div>
             </div>
@@ -202,7 +202,7 @@
                                 you secure a Singapore visa in approximately 4-5 days. All you have to do is fill out our online
                                 application and.our visa specialists will do the rest.</p>
                             <img src="images/post-img-3.jpg" alt="" class="img-fluid mb30">
-                            <h3>Singapore Study Visa</h3>
+                            <h2>Singapore Study Visa</h2>
                             <p>You'll need a Student's Pass if you want to study in Singapore. In order to enter Singapore as a
                                 student, you must first get an offer letter from the institution where you want to take your chosen
                                 course. Applications to Singaporean universities are accepted from December to March each year.<br />
@@ -404,29 +404,19 @@
 
 
     <!-- {{-- footer --}} -->
-    <div class="footer">
+    <div id="footer" class="footer">
         <!-- Footer -->
         <div class="container">
             <div class="row">
                 <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
                     <div class="widget-footer">
                         <h3 class="widget-title">About us</h3>
-                        <p>JDR Migration, one of the top Study Abroad & Migration, understand the challenges arising during study migration. Our primary goal is to assist you in scaling through these processes, such as assessment, documentation, and filing.</p>
+                        <p>JDR Migration, one of the top Study Abroad & Migration , understand the challenges arising during study migration. Our primary goal is to assist you in scaling through these processes, such as assessment, documentation, and filing.</p>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
                     <div class="widget-footer">
                         <h3 class="widget-title">Study Abroad</h3>
-                        <ul class="listnone arrow-footer">
-                            <li><a href="study-in-usa.php">STUDY IN USA</a></li>
-                            <li><a href="#">STUDY IN UK</a></li>
-                            <li><a href="#">STUDY IN NEW ZEALAND</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
-                    <div class="widget-footer">
-                        <h3 class="widget-title">Services</h3>
                         <ul class="listnone arrow-footer">
 
                             <li><a href="study-in-australia.php">Study In Australia</a></li> </a></li>
@@ -436,7 +426,16 @@
                             <li><a href="study-in-singapore.php">Study In Singapore</a></li>
                             <li><a href="study-in-uk.php">Study In UK</a></li>
                             <li><a href="study-in-usa.php">Study In USA</a></li>
-
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
+                    <div class="widget-footer">
+                        <h3 class="widget-title">Services</h3>
+                        <ul class="listnone arrow-footer">
+                            <li><a href="free-counselling.php">Free Counselling </a></li>
+                            <li><a href="#">Free Visa Filling </a></li>
+                            <li><a href="#">Flight Bookings </a></li>
                         </ul>
                     </div>
                 </div>
@@ -467,7 +466,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 text-center">
-                    <p><b>Copyright © 2022 JDR Migration. All Rights Reserved.</b></p>
+                    <p><b>Copyright © 2022 JDR Migration. All Rights Reserved. Developed by ShanthasWebz</b></p>
                 </div>
             </div>
         </div>
