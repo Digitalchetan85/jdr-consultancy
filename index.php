@@ -60,8 +60,8 @@
                             <li><a href="about.php">About Us</a></li>
                             <li><a href="#">Services</a>
                                 <ul>
-                                    <li><a href="free-counselling.php">Free Counselling </a></li>
-                                    <li><a href="#">Free Visa Filling </a></li>
+                                    <li><a href="free-counselling.php">Counselling </a></li>
+                                    <li><a href="#">Visa Filling </a></li>
                                     <li><a href="#">Flight Bookings </a></li>
                                 </ul>
                             </li>
@@ -104,17 +104,17 @@
                                             Services
                                         </a>
                                         <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
-                                            <li><a class="dropdown-item" href="free-counselling.php">Free Counselling</a></li>
-                                            <li><a class="dropdown-item" href="#">Free Visa Filling</a></li>
-                                            <li><a class="dropdown-item" href="#">Flight Bookings</a></li>
+                                            <li><a class="dropdown-item" href="free-counselling.php">Counselling</a></li>
+                                            <li><a class="dropdown-item" href="visa-filling.php">Visa Filling</a></li>
+                                            <li><a class="dropdown-item" href="flight-booking.php">Flight Bookings</a></li>
                                         </ul>
                                     </li>
                                 </ul>
                             </div>
                             <!-- <li><a href="#">Services</a>
                                 <ul>
-                                    <li><a href="free-counselling.php">Free Counselling </a></li>
-                                    <li><a href="#">Free Visa Filling </a></li>
+                                    <li><a href="free-counselling.php">Counselling </a></li>
+                                    <li><a href="#">Visa Filling </a></li>
                                     <li><a href="#">Flight Bookings </a></li>
                                 </ul>
                             </li> -->
@@ -612,7 +612,7 @@
                     <div class="col-xl-5 col-lg-5 col-md-5 col-sm-5 col-12">
                         <h2 class="display-1 text-white">Free Online Visa <br> Assessment</h2>
                         <p>Contact us today by filling up free online visa assessment and we will reach out to you.</p>
-                        <p>We offer Free Study Abroad Counselling, Course Advice, Visa Application Assistance, Personalized Guidance For Preparation. And Other services - Free visa filling, International accommodation, Flight Bookings and Forex Cards and International sim cards.</p>
+                        <p>We offer Free Study Abroad Counselling, Course Advice, Visa Application Assistance, Personalized Guidance For Preparation. And Other services - Visa Filling, International accommodation, Flight Bookings and Forex Cards and International sim cards.</p>
                         <div class="mb30 mt60">
                             <i class="fa fa-phone fa-3x"></i>
                             <h2 class="text-white">+91 75239 99199</h2>
@@ -704,8 +704,8 @@
                         <div class="widget-footer">
                             <h3 class="widget-title">Services</h3>
                             <ul class="listnone arrow-footer">
-                                <li><a href="free-counselling.php">Free Counselling </a></li>
-                                <li><a href="#">Free Visa Filling </a></li>
+                                <li><a href="free-counselling.php">Counselling </a></li>
+                                <li><a href="#">Visa Filling </a></li>
                                 <li><a href="#">Flight Bookings </a></li>
                             </ul>
                         </div>

@@ -50,8 +50,8 @@
                             <li><a href="about.php">About Us</a></li>
                             <li><a href="#">Services</a>
                                 <ul>
-                                    <li><a href="free-counselling.php">Free Counselling </a></li>
-                                    <li><a href="#">Free Visa Filling </a></li>
+                                    <li><a href="free-counselling.php">Counselling </a></li>
+                                    <li><a href="#">Visa Filling </a></li>
                                     <li><a href="#">Flight Bookings </a></li>
                                 </ul>
                             </li>
@@ -94,24 +94,24 @@
                                             Services
                                         </a>
                                         <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
-                                            <li><a class="dropdown-item" href="free-counselling.php">Free Counselling</a></li>
-                                            <li><a class="dropdown-item" href="#">Free Visa Filling</a></li>
-                                            <li><a class="dropdown-item" href="#">Flight Bookings</a></li>
+                                            <li><a class="dropdown-item" href="free-counselling.php">Counselling</a></li>
+                                            <li><a class="dropdown-item" href="visa-filling.php">Visa Filling</a></li>
+                                            <li><a class="dropdown-item" href="flight-booking.php">Flight Bookings</a></li>
                                         </ul>
                                     </li>
                                 </ul>
                             </div>
                             <!-- <li><a href="#">Services</a>
                                 <ul>
-                                    <li><a href="free-counselling.php">Free Counselling </a></li>
-                                    <li><a href="#">Free Visa Filling </a></li>
+                                    <li><a href="free-counselling.php">Counselling </a></li>
+                                    <li><a href="#">Visa Filling </a></li>
                                     <li><a href="#">Flight Bookings </a></li>
                                 </ul>
                             </li> -->
                             <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
                                 <ul class="navbar-nav">
                                     <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle active" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                             Study In Abroad
                                         </a>
                                         <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
@@ -119,10 +119,10 @@
                                             <li><a class="dropdown-item" href="study-in-canada.php">Study In Canada</a></li>
                                             <li><a class="dropdown-item" href="study-in-dubai.php">Study In Dubai</a></li>
                                             <li><a class="dropdown-item" href="study-in-malta.php">Study In Malta</a></li>
-                                            <li><a class="dropdown-item" href="study-in-newzealand.php">Study In NEWZEALAND</a></li>
-                                            <li><a class="dropdown-item" href="study-in-singapore.php">STUDY IN SINGAPORE</a></li>
-                                            <li><a class="dropdown-item" href="study-in-uk.php">STUDY IN UK</a></li>
-                                            <li><a class="dropdown-item" href="study-in-usa.php">STUDY IN USA</a></li>
+                                            <li><a class="dropdown-item" href="study-in-newzealand.php">Study In New Zealand</a></li>
+                                            <li><a class="dropdown-item" href="study-in-singapore.php">Study In Singapore</a></li>
+                                            <li><a class="dropdown-item" href="study-in-uk.php">Study In UK</a></li>
+                                            <li><a class="dropdown-item" href="study-in-usa.php">Study In USA</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -130,13 +130,13 @@
 
 
                             <li class="nav-item">
-                                <a class="nav-link active" href="coaching.php">Coaching</a>
+                                <a class="nav-link" href="coaching.php">Coaching</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" href="certifications.php">Certifications</a>
+                                <a class="nav-link" href="certifications.php">Certifications</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" href="contact.php">Contact US</a>
+                                <a class="nav-link" href="contact.php">Contact US</a>
                             </li>
                         </ul>
 
@@ -153,7 +153,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-                        <h1 class="page-title">Free Counselling </h1>
+                        <h1 class="page-title">Counselling </h1>
                         <p class="page-description">All of our counselling sessions are free, and we strive to make the application process as simple as possible. </p>
                     </div>
                 </div>
@@ -167,7 +167,7 @@
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item"><a href="/jdr-consultancy">Home</a></li>
-                                <li class="breadcrumb-item active" aria-current="page">Free counselling </li>
+                                <li class="breadcrumb-item active" aria-current="page">Counselling</li>
                             </ol>
                         </nav>
                     </div>
@@ -180,35 +180,75 @@
                 <div class="row">
                     <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12">
                         <div class="content-area">
-                            <h3 class="text-underline">Free Counselling</h3>
-                            <p><b>We don’t charge for counselling and guidance.</b></p>
-                            <p>All of our counselling sessions are free, and we strive to make the application process as simple as possible. We have a team of experienced counsellors who can assist you with school and course choices, application procedures, offer letters, visa applications, and pre-departure briefings. We've already assisted over 100,000 students in finding the right course in their dream destinations.</p>
-                            <p>To schedule a free consultation, please fill out the form or contact us. Bring your choice list and course selections to your appointment as a starting point. Our experienced professionals will go through your educational background, preferences, and budget with you in-depth to determine your possibilities at various schools.</p>
+                            <h3 class="text-primary">Counselling</h3>
+                            <p>A visa is a kind of entrance permission that allows a non-native person to enter a
+                                foreign nation. When traveling to another country for the purpose of furthering
+                                their education, students are required to get either a student visa or a student pass.</p>
+                            <p>Visa experts at JDR Migration make sure that every application form is filled out
+                                exactly as it should be and that every required document is included exactly as it
+                                should be. This speeds up the process of getting a visa.</p>
 
-                            <h3 class="text-underline">We support you with</h3>
+                            <h3>Why is Visa Counseling Necessary?</h3>
+                            <p>When deciding on a course, it is necessary to take into account a variety of aspects,
+                                including one&#39;s personal and professional goals, employability, time constraints,
+                                and financial resources</p>
+                            <p>Obtaining a student&#39;s visa requires persuading the visa officer of your genuine
+                                desire to learn. In order to get a study permit abroad, students must demonstrate
+                                that their financial resources will cover their tuition and other living costs while
+                                they are there. If this is the case, the student has a far greater chance of being
+                                approved for a visa.</p>
+
+                            <p>The visa interview is one of the most anticipated parts of college for many
+                                students. For many students, this is the most difficult part of their overseas study
+                                experience. A denied visa application might put an end to a student&#39;s dream
+                                education, and properly so.</p>
+                            <p>Come to us, and we&#39;ll assist you in determining your strengths and weaknesses so
+                                that you may choose the most appropriate educational path for you.</p>
+                            <p>As students get ready for the most important interview of their educational careers,
+                                they need to go to visa counseling sessions.</p>
+
+                            <h3 class="">Why choose JDR Migration?</h3>
                             <ul class="listnone check-circle">
-                                <li>Through a personal interview, you will receive unbiased and competent advice.</li>
-                                <li>Guidance in Shortlisting of potential schools and universities</li>
-                                <li>Assistance in application</li>
-                                <li>Guidance in writing Statement of Purpose (SOP)</li>
-                                <li>Preparation guidance for IELTS</li>
-                                <li>Guidance on available scholarships</li>
-                                <li>Guidance on offer letters</li>
-                                <li>Assistance in visa application</li>
-                                <li>Assistance with health insurance and accommodation</li>
-                                <li>Regular follow-up and support in person</li>
-                                <li>Pre-departure briefing once you receive your visa</li>
+                                <li>TAll of our counseling sessions are designed to make the application process
+                                    as simple as possible.</li>
+                                <li>If you&#39;re looking to study abroad, we have a team of counselors that can help
+                                    you with anything from college and course selection to visa applications and
+                                    pre-departure briefings.</li>
+                                <li>So far, we&#39;ve helped more than 100,000 students choose the perfect program
+                                    in their desirable locations.</li>
+                                <li>Our experienced specialists will have an in-depth conversation with you
+                                    about your previous academic experience, preferences, and budget to help
+                                    you figure out the different educational options that fit within your budget.</li>
+                                <li>Students may rely on our group of professionals to help them through every
+                                    step of the visa application process.</li>
+
                             </ul>
-                            <p>All of our counsellors are professionally certified, and many of them have experience as international students. Your designated counsellor will go through all of the details and procedures with you to ensure that you are the best fit for your future school and course of study. </p>
-                            <p>Our assistance does not end after you receive your admission letter. Even after you've arrived in your new nation, we'll be here to help you. Come check us out - it's free!</p>
-                            <h3 class="text-underline">Course selection/advice</h3>
-                            <p>Are you having trouble deciding which path to take? Personal objectives, career goals, employability, deadlines, money, and other factors must all be considered while choosing a course. Come to us, and we'll help you assess your abilities and choose the best course for you.</p>
-                            <p><b>Reach out to us and get benefited and, it is for free.</b></p>
+                            <p>Please fill out the form or get in touch with us if you would like to book a
+                                counseling session. To begin, bring your list of options and course choices with
+                                you when you meet with us.</p>
+                            <p>When providing visa assistance and guidance, our team of immigration specialists
+                                makes sure to cover the following topics with each one:</p>
+                            <ul class="listnone check-circle">
+                                <li>Preparation of Visa Applications and Registration Processes</li>
+                                <li>Help with making a short list of potential schools and universities.</li>
+                                <li>Advice on how to write a Statement of Purpose (SOP)</li>
+                                <li>IELTS test-taking strategies and tips</li>
+                                <li>Advice on scholarships that are available</li>
+                                <li>Advice on offer letters</li>
+                                <li>Provide assistance with health insurance and living arrangements.</li>
+                                <li>Regular in-person follow-up and assistance</li>
+                                <li>Checklist for Visa Documents</li>
+                                <li>Simulations of the Interview Process for Visas</li>
+                                <li>The rules and regulations have recently been updated.</li>
+                                <li>Methods those are unique to the individual for bolstering confidence.</li>
+                                <li>A pre-departure briefing after you have received your visa</li>
+                            </ul>
+                            <p><b>Contact JDR Migration&#39;s Visa Counselling professionals to get started on your application now!</b></p>
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
-                        <div class="sidebar">
-                            <div class="widget widget-quote-form bg-yellow">
+                        <div class="sidebar sticky-top">
+                            <div class="widget widget-quote-form bg-light">
                                 <h3 class="form-title">Free Immigration Assessment</h3>
                                 <p class="form-text">Find out your options for visa by completing a free online assessment.</p>
                                 <form class="sidebar-quote-form">
@@ -297,8 +337,8 @@
                     <div class="widget-footer">
                         <h3 class="widget-title">Services</h3>
                         <ul class="listnone arrow-footer">
-                            <li><a href="free-counselling.php">Free Counselling </a></li>
-                            <li><a href="#">Free Visa Filling </a></li>
+                            <li><a href="free-counselling.php">Counselling </a></li>
+                            <li><a href="#">Visa Filling </a></li>
                             <li><a href="#">Flight Bookings </a></li>
                         </ul>
                     </div>

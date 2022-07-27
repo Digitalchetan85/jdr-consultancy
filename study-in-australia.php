@@ -57,8 +57,8 @@
                             <li><a href="about.php">About Us</a></li>
                             <li><a href="#">Services</a>
                                 <ul>
-                                    <li><a href="free-counselling.php">Free Counselling </a></li>
-                                    <li><a href="#">Free Visa Filling </a></li>
+                                    <li><a href="free-counselling.php">Counselling </a></li>
+                                    <li><a href="#">Visa Filling </a></li>
                                     <li><a href="#">Flight Bookings </a></li>
                                 </ul>
                             </li>
@@ -100,17 +100,17 @@
                                             Services
                                         </a>
                                         <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
-                                            <li><a class="dropdown-item" href="free-counselling.php">Free Counselling</a></li>
-                                            <li><a class="dropdown-item" href="#">Free Visa Filling</a></li>
-                                            <li><a class="dropdown-item" href="#">Flight Bookings</a></li>
+                                            <li><a class="dropdown-item" href="free-counselling.php">Counselling</a></li>
+                                            <li><a class="dropdown-item" href="visa-filling.php">Visa Filling</a></li>
+                                            <li><a class="dropdown-item" href="flight-booking.php">Flight Bookings</a></li>
                                         </ul>
                                     </li>
                                 </ul>
                             </div>
                             <!-- <li><a href="#">Services</a>
                                 <ul>
-                                    <li><a href="free-counselling.php">Free Counselling </a></li>
-                                    <li><a href="#">Free Visa Filling </a></li>
+                                    <li><a href="free-counselling.php">Counselling </a></li>
+                                    <li><a href="#">Visa Filling </a></li>
                                     <li><a href="#">Flight Bookings </a></li>
                                 </ul>
                             </li> -->
@@ -530,8 +530,8 @@
                     <div class="widget-footer">
                         <h3 class="widget-title">Services</h3>
                         <ul class="listnone arrow-footer">
-                            <li><a href="free-counselling.php">Free Counselling </a></li>
-                            <li><a href="#">Free Visa Filling </a></li>
+                            <li><a href="free-counselling.php">Counselling </a></li>
+                            <li><a href="#">Visa Filling </a></li>
                             <li><a href="#">Flight Bookings </a></li>
                         </ul>
                     </div>

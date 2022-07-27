@@ -52,8 +52,8 @@
                                 <li><a href="about.php">About Us</a></li>
                                 <li><a href="#">Services</a>
                                     <ul>
-                                        <li><a href="free-counselling.php">Free Counselling </a></li>
-                                        <li><a href="#">Free Visa Filling </a></li>
+                                        <li><a href="free-counselling.php">Counselling </a></li>
+                                        <li><a href="#">Visa Filling </a></li>
                                         <li><a href="#">Flight Bookings </a></li>
                                     </ul>
                                 </li>
@@ -97,17 +97,17 @@
                                             Services
                                         </a>
                                         <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
-                                            <li><a class="dropdown-item" href="free-counselling.php">Free Counselling</a></li>
-                                            <li><a class="dropdown-item" href="#">Free Visa Filling</a></li>
-                                            <li><a class="dropdown-item" href="#">Flight Bookings</a></li>
+                                            <li><a class="dropdown-item" href="free-counselling.php">Counselling</a></li>
+                                            <li><a class="dropdown-item" href="visa-filling.php">Visa Filling</a></li>
+                                            <li><a class="dropdown-item" href="flight-booking.php">Flight Bookings</a></li>
                                         </ul>
                                     </li>
                                 </ul>
                             </div>
                             <!-- <li><a href="#">Services</a>
                                 <ul>
-                                    <li><a href="free-counselling.php">Free Counselling </a></li>
-                                    <li><a href="#">Free Visa Filling </a></li>
+                                    <li><a href="free-counselling.php">Counselling </a></li>
+                                    <li><a href="#">Visa Filling </a></li>
                                     <li><a href="#">Flight Bookings </a></li>
                                 </ul>
                             </li> -->
@@ -190,18 +190,44 @@
     <div class="content pdb0">
         <div class="container">
             <div class="row">
-                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+                <div class="col-xl-7 col-lg-7 col-md-12 col-sm-12 col-12">
                     <h2>About Our JDR Migration</h2>
-                    <p class="lead">JDR Migration, one of the top Study Abroad & Migration, understand the challenges arising during study migration. Our primary goal is to assist you in scaling through these processes, such as assessment, documentation, and filing.</p>
-                    <p>JDR Migration provides assistance to study in all top countries surf through the top-ranked schools and help you to pursue your dream.</p>
-                    <p>We have expert professionals, who will guide from the beginning to the end process(from getting an offer letter to getting a visa and accommodation).</p>
-                    <p>We have a global presence with a strategic network of own and associate offices in 25 locations across the world. We are planning to extend our services to over 20 offices by the year-end.</p>
-                    <p>Get in touch with us today, so we can help you to realise your dream.</p>
-                    <p class="text-default">Call: +91 7523999199</p>
+                    <p class="lead">JDR Migration, a leading provider of Study Abroad and Migration services, is
+                        well-versed in the issues that arise when students relocate for their studies. Our
+                        main goal is to make it easier for you to move through procedures, such as
+                        evaluation, documentation, and filing.</p>
+                    <p>JDR Migration can assist you in pursuing your academic goals in any of the world&#39;s most prestigious nations by guiding you to the best institutions.</p>
+                    <p>When it comes to delivering value-added services, we have an advantage over our
+                        rivals because of our vast expertise and deep understanding of the industry and
+                        several immigration programs.</p>
+                    
+                    <!-- <p class="text-default">Call: +91 7523999199</p> -->
                 </div>
-                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 align-self-center">
-                    <div class="image-block"><img src="assets/images/about/abt3.png" alt="" class="img-fluid"></div>
+                <div class="col-xl-5 col-lg-5 col-md-12 col-sm-12 col-12 align-self-center">
+                    <div class="image-block"><img src="assets/images/about/About 3.png" alt="" class="img-fluid"></div>
                 </div>
+                <div class="">
+                <h2 class="text-primary">We make all of your dreams come true.</h2>
+                    <p>There has been an exponential rise in the number of Indian visa applications due to
+                        an increase in the overall number of Indians going overseas to study or to work.
+                        The visa application procedure, on the other hand, is lengthy, time-consuming, and
+                        difficult. This complicates the process of obtaining a visa significantly.</p>
+                    <p>We have a team of experts that can help you from start to finish (from getting an
+                        offer letter to getting a visa and accommodation). Studying abroad is easier when
+                        you have the relevant resources, expertise, and global connections at your disposal,
+                        all of which we provide.</p>
+                    <p>We are able to maintain a worldwide presence because of our strategic network of
+                        own offices and associate offices, which is spread out over 25 different sites all
+                        over the globe. By the end of the year, we expect to have expanded our services to
+                        more than 20 locations.</p>
+                    <p>There are several ways to apply for a visa, but JDR Migration is a one-stop shop
+                        for all of them. Our visa experts are always ready to answer any questions you
+                        might have.</p>
+                    <p>We&#39;re here to make your overseas education and vacations as easy and enjoyable as
+                        possible. So all you have to do is sit back, relax, and let us take care of the rest!</p>
+
+                </div>
+
             </div>
         </div>
         <div class="space-medium pdb0">
@@ -211,7 +237,10 @@
                         <div class="feature-blurb mb20">
                             <div class="feature-content">
                                 <h3 class="feature-title">Our Mision</h3>
-                                <p>Our mission is to maximize our client’s chances of landing at their dream school, from loans to acquiring a Study visa. We want to be your bridge from your home country to your dream country. </p>
+                                <p>Our mission is to help as many of our clients as possible get into the educational
+                                    institution of their choice, whether it&#39;s via scholarships or securing a student visa.
+                                    Our aim is to serve as a connection between you and the nation of your dreams
+                                    while you are still in your home country. </p>
                             </div>
                         </div>
                     </div>
@@ -219,7 +248,10 @@
                         <div class="feature-blurb">
                             <div class="feature-content">
                                 <h3 class="feature-title">Our Vision</h3>
-                                <p>Our vision is to provide all our clients with a convenient, trustworthy and professional study migration service with personalized guidance. Whether you have immediate or pressing goals or long-term dreams, we will work with you to fulfil them.</p>
+                                <p>Our vision is to provide each and every one of our customers with a study
+                                    migration service that is user-friendly, reliable, and professional, and that also
+                                    includes individualized guidance. Whether your objectives are short-term or long-
+                                    term, we&#39;ll work with you to make them a reality.</p>
                             </div>
                         </div>
                     </div>
@@ -315,7 +347,7 @@
                         <div class="feature-blurb mb40">
                             <div class="feature-content">
                                 <h3 class="feature-title">Our Services</h3>
-                                <p> We offer Free Study Abroad Counselling, Course Advice, and Other services - Free visa filling, International accommodation, Flight Bookings and Forex Cards and International sim cards.</p>
+                                <p> We offer Free Study Abroad Counselling, Course Advice, and Other services - Visa Filling, International accommodation, Flight Bookings and Forex Cards and International sim cards.</p>
                                 <a href="#" class="btn btn-default">Services</a>
                             </div>
                         </div>
@@ -354,72 +386,72 @@
 
     <!-- {{-- footer --}} -->
     <div id="footer" class="footer">
-            <!-- Footer -->
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
-                        <div class="widget-footer">
-                            <h3 class="widget-title">About us</h3>
-                            <p>JDR Migration, one of the top Study Abroad & Migration , understand the challenges arising during study migration. Our primary goal is to assist you in scaling through these processes, such as assessment, documentation, and filing.</p>
-                        </div>
+        <!-- Footer -->
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
+                    <div class="widget-footer">
+                        <h3 class="widget-title">About us</h3>
+                        <p>JDR Migration, one of the top Study Abroad & Migration , understand the challenges arising during study migration. Our primary goal is to assist you in scaling through these processes, such as assessment, documentation, and filing.</p>
                     </div>
-                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
-                        <div class="widget-footer">
-                            <h3 class="widget-title">Study Abroad</h3>
-                            <ul class="listnone arrow-footer">
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
+                    <div class="widget-footer">
+                        <h3 class="widget-title">Study Abroad</h3>
+                        <ul class="listnone arrow-footer">
 
-                                <li><a href="study-in-australia.php">Study In Australia</a></li> </a></li>
-                                <li><a href="study-in-canada.php">Study In Canada</a></li>
-                                <li><a href="study-in-dubai.php">Study In Dubai</a></li>
-                                <li><a href="study-in-malta.php">Study In Malta</a></li>
-                                <li><a href="study-in-singapore.php">Study In Singapore</a></li>
-                                <li><a href="study-in-uk.php">Study In UK</a></li>
-                                <li><a href="study-in-usa.php">Study In USA</a></li>
-                            </ul>
-                        </div>
+                            <li><a href="study-in-australia.php">Study In Australia</a></li> </a></li>
+                            <li><a href="study-in-canada.php">Study In Canada</a></li>
+                            <li><a href="study-in-dubai.php">Study In Dubai</a></li>
+                            <li><a href="study-in-malta.php">Study In Malta</a></li>
+                            <li><a href="study-in-singapore.php">Study In Singapore</a></li>
+                            <li><a href="study-in-uk.php">Study In UK</a></li>
+                            <li><a href="study-in-usa.php">Study In USA</a></li>
+                        </ul>
                     </div>
-                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
-                        <div class="widget-footer">
-                            <h3 class="widget-title">Services</h3>
-                            <ul class="listnone arrow-footer">
-                                <li><a href="free-counselling.php">Free Counselling </a></li>
-                                <li><a href="#">Free Visa Filling </a></li>
-                                <li><a href="#">Flight Bookings </a></li>
-                            </ul>
-                        </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
+                    <div class="widget-footer">
+                        <h3 class="widget-title">Services</h3>
+                        <ul class="listnone arrow-footer">
+                            <li><a href="free-counselling.php">Counselling </a></li>
+                            <li><a href="#">Visa Filling </a></li>
+                            <li><a href="#">Flight Bookings </a></li>
+                        </ul>
                     </div>
-                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
-                        <div class="widget-footer">
-                            <h3 class="widget-title">Contact Us</h3>
-                            <ul class="listnone">
-                                <li><a href="#"><i class="fa fa-envelope pr-2"></i> info@jdrmigration.com</a></li>
-                                <li><a href="#"><i class="fa fa-envelope pr-2"></i> jdrmigration@gmail.com</a></li>
-                                <li><a href="#"><i class="fa fa-phone pr-2"></i> +91 7523999199</a></li>
-                                <!-- <li><a href="#"><i class="fa fa-map-marker pr-2"></i>3RD FLOOR, 707, NTI LAYOUT, 10 CROSS, 10TH MAIN, II PHASE, Sahakara Nagar Bengaluru Urban, Karnataka, 560092</a></li> -->
-                            </ul>
-                            <div class="pt-1"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.4983961565113!2d77.58043127668125!3d13.067568784831922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae194edd460f63%3A0xfeaa6fea6ef67737!2sJDR%20Migration%20Pro!5e0!3m2!1sen!2sin!4v1655705588087!5m2!1sen!2sin" width="100%" height="150" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
-                            <ul class="listnone mt-2">
-                                <a href="#" target="_blank"><i class="fa fa-facebook m-1"></i></a>
-                                <a href="#" target="_blank"><i class="fa fa-linkedin m-1"></i></a>
-                                <a href="#"><i class="fa fa-instagram m-1"></i></a>
-                                <a href="#"><i class="fa fa-youtube m-1"></i></a>
-                            </ul>
-                        </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
+                    <div class="widget-footer">
+                        <h3 class="widget-title">Contact Us</h3>
+                        <ul class="listnone">
+                            <li><a href="#"><i class="fa fa-envelope pr-2"></i> info@jdrmigration.com</a></li>
+                            <li><a href="#"><i class="fa fa-envelope pr-2"></i> jdrmigration@gmail.com</a></li>
+                            <li><a href="#"><i class="fa fa-phone pr-2"></i> +91 7523999199</a></li>
+                            <!-- <li><a href="#"><i class="fa fa-map-marker pr-2"></i>3RD FLOOR, 707, NTI LAYOUT, 10 CROSS, 10TH MAIN, II PHASE, Sahakara Nagar Bengaluru Urban, Karnataka, 560092</a></li> -->
+                        </ul>
+                        <div class="pt-1"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.4983961565113!2d77.58043127668125!3d13.067568784831922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae194edd460f63%3A0xfeaa6fea6ef67737!2sJDR%20Migration%20Pro!5e0!3m2!1sen!2sin!4v1655705588087!5m2!1sen!2sin" width="100%" height="150" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+                        <ul class="listnone mt-2">
+                            <a href="#" target="_blank"><i class="fa fa-facebook m-1"></i></a>
+                            <a href="#" target="_blank"><i class="fa fa-linkedin m-1"></i></a>
+                            <a href="#"><i class="fa fa-instagram m-1"></i></a>
+                            <a href="#"><i class="fa fa-youtube m-1"></i></a>
+                        </ul>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- /.footer -->
-        <div class="tiny-footer">
-            <!-- tiny footer -->
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 text-center">
-                        <p><b>Copyright © 2022 JDR Migration. All Rights Reserved. Developed by ShanthasWebz</b></p>
-                    </div>
+    </div>
+    <!-- /.footer -->
+    <div class="tiny-footer">
+        <!-- tiny footer -->
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 text-center">
+                    <p><b>Copyright © 2022 JDR Migration. All Rights Reserved. Developed by ShanthasWebz</b></p>
                 </div>
             </div>
         </div>
+    </div>
     <!-- /.tiny footer -->
     <a href="https://api.whatsapp.com/send?phone=917523999199" class="float" target="_blank">
         <i class="fa fa-whatsapp my-float"></i>

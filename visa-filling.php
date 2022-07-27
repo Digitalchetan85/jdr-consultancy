@@ -8,8 +8,6 @@
     <title>JDR Migration</title>
     <link rel="icon" href="assets/images/logoicon.jpg" type="image/jpg">
     <!-- Bootstrap -->
-    <link rel="icon" href="assets/images/logoicon.jpg" type="image/jpg">
-    <!-- Bootstrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <!-- FontAwesome 4.0 CSS -->
     <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.min.css">
@@ -21,6 +19,7 @@
 </head>
 
 <body>
+
     <div id="navbar" class="sticky-top">
         <div class="topbar bg-primary">
             <!-- topbar -->
@@ -85,7 +84,6 @@
                             <li class="nav-item">
                                 <a class="nav-link" aria-current="page" href="/">Home</a>
                             </li>
-
                             <li class="nav-item">
                                 <a class="nav-link" href="about.php">About Us</a>
                             </li>
@@ -96,7 +94,7 @@
                                             Services
                                         </a>
                                         <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
-                                            <li><a class="dropdown-item" href="#">Counselling</a></li>
+                                            <li><a class="dropdown-item" href="free-counselling.php">Counselling</a></li>
                                             <li><a class="dropdown-item" href="visa-filling.php">Visa Filling</a></li>
                                             <li><a class="dropdown-item" href="flight-booking.php">Flight Bookings</a></li>
                                         </ul>
@@ -121,10 +119,10 @@
                                             <li><a class="dropdown-item" href="study-in-canada.php">Study In Canada</a></li>
                                             <li><a class="dropdown-item" href="study-in-dubai.php">Study In Dubai</a></li>
                                             <li><a class="dropdown-item" href="study-in-malta.php">Study In Malta</a></li>
-                                            <li><a class="dropdown-item" href="study-in-newzealand.php">Study In NEWZEALAND</a></li>
-                                            <li><a class="dropdown-item" href="study-in-singapore.php">STUDY IN SINGAPORE</a></li>
-                                            <li><a class="dropdown-item" href="study-in-uk.php">STUDY IN UK</a></li>
-                                            <li><a class="dropdown-item" href="study-in-usa.php">STUDY IN USA</a></li>
+                                            <li><a class="dropdown-item" href="study-in-newzealand.php">Study In New Zealand</a></li>
+                                            <li><a class="dropdown-item" href="study-in-singapore.php">Study In Singapore</a></li>
+                                            <li><a class="dropdown-item" href="study-in-uk.php">Study In UK</a></li>
+                                            <li><a class="dropdown-item" href="study-in-usa.php">Study In USA</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -149,15 +147,14 @@
     </div>
 
 
-
     <div>
+        <!-- /.header classic -->
         <div class="page-header">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-                        <h1 class="page-title">Contact us</h1>
-                        <p class="page-description">Get in touch with us today, so we can help you to realise your dream. Contact us saves your dream!
-                        </p>
+                        <h1 class="page-title">Visa Filling </h1>
+                        <p class="page-description">All of our Visa Filling sessions are free, and we strive to make the application process as simple as possible. </p>
                     </div>
                 </div>
             </div>
@@ -170,7 +167,8 @@
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item"><a href="/jdr-consultancy">Home</a></li>
-                                <li class="breadcrumb-item active" aria-current="page">Contact us</li>
+                                <li class="breadcrumb-item active" aria-current="page">Visa Filling
+                                <li>
                             </ol>
                         </nav>
                     </div>
@@ -181,104 +179,113 @@
         <div class="content">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-5 col-lg-5 col-md-7 col-sm-12 col-12">
-                        <div class="contact-form-head">
-                            <h2 class="mb0">Leave a Message Here</h2>
-                            <p>One of our Jdr Migration Consultants will connect with you ASAP.</p>
-                        </div>
-                        <div class="contact-form mt30">
-                            <form>
-                                <div class="form-group">
-                                    <label for="name">Name <span class="required">*</span></label>
-                                    <input type="text" class="form-control" id="contact-name" name="contact-name" placeholder="Your Name" required>
-                                    <span id="contact-name-info" class="text-danger"></span>
-                                </div>
-                                <div class="form-group">
-                                    <label for="mobileno">Mobile No <span class="required">*</span></label>
-                                    <input type="tel" class="form-control" id="contact-phone" name="contact-phone" placeholder="Mobile No" required>
-                                    <span id="contact-phone-info" class="text-danger"></span>
-                                </div>
-                                <div class="form-group">
-                                    <label for="email">Email Address <span class="required">*</span></label>
-                                    <input type="email" class="form-control" id="contact-email" name="contact-email" placeholder="Enter Email" required>
-                                    <span id="contact-email-info" class="text-danger"></span>
-                                </div>
-                                <div class="form-group">
-                                    <label for="subject">Subject</label>
-                                    <input type="text" class="form-control" id="contact-subject" name="contact-subject" placeholder="Subject">
-                                    <span id="contact-subject-info" class="text-danger"></span>
-                                </div>
-                                <div class="form-group">
-                                    <label for="message">Message</label>
-                                    <textarea class="form-control" id="contact-message" name="contact-message" rows="3"></textarea>
-                                    <span id="contact-message-info" class="text-danger"></span>
-                                </div>
-                                <div id="contact-mail-status"></div>
-                                <div class="form-group pt-3">
-                                    <button onClick="sendContactMail();" class="btn btn-default">Submit</button>
-                                </div>
-                            </form>
+                    <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12">
+                        <div class="content-area">
+                            <h3 class="text-primary">Visa Processing Services JDR Migration </h3>
+                            <p>Are you moving to another country to get a better education or a better job?</p>
+                            <p>Or are you planning on staying in the country permanently?</p>
+                            <p>If that&#39;s the case, you&#39;ve arrived at the correct place!</p>
+                            <p>As your one-stop shop for everything immigration, JDR Migration makes moving
+                                overseas a breeze. Once the necessary paperwork and verifications are in place, the
+                                immigration process may go quite quickly.</p>
+                            <p>The best way to solve your visa problems is to hire a professional in Bangalore
+                                who has a lot of experience in your field.</p>
+
+                            <h3>Our Visa Processing Service</h3>
+                            <p>Our specialized visa department provides expedient, skillful, and value-added visa
+                                services, all of which are designed to guarantee that you get your visa in a timely
+                                manner.</p>
+                            <p>Having worked in the industry for a number of years, our skilled professionals are
+                                well-versed in visa procedures for a wide range of countries. This assists them in
+                                handling visa transactions, regardless of how simple or complicated they may be.</p>
+
+                            <p>We&#39;ll make sure you have everything you need and that you never have to cancel a
+                                trip because of a lack of paperwork.</p>
+                            <p>Everything, from making sure you have the correct paperwork to ensuring that
+                                your visa application is processed quickly and without any problems, is taken care
+                                of for you.</p>
+
+
+                            <h2 class="">Why choose JDR Migration?</h2>
+                            <p>JDR Migration&#39;s team of visa specialists guarantees that all application forms are
+                                filled out to the letter and that every essential document is provided in the exact
+                                manner requested.</p>
+                            <p>The process of applying for and obtaining a visa is just as vital as receiving your
+                                acceptance letter. You won&#39;t have any trouble getting through any part of the visa
+                                procedure with our skilled immigration experts by your side.</p>
+                            <h4>We at JDR Migration make sure of the following:</h4>
+                            <ul class="listnone check-circle">
+                                <li>There are no errors in your visa application.
+                                    as simple as possible.</li>
+                                <li>Check the visa checklist to make sure you have all of the necessary paperwork.</li>
+                                <li>You have gone over the dos and don&#39;ts of getting a visa.</li>
+                                <li>You&#39;re up-to-date on all of the latest policies and procedures.</li>
+                                <li>On the day of your actual visa interview at the embassy, you feel both
+                                    completely prepared and confident in your ability to succeed.</li>
+
+                            </ul>
+
+                            <p><b>Reach out to us right away to get the benefits!</b></p>
                         </div>
                     </div>
-                    <div class="offset-xl-1 col-xl-6 offset-lg-1 col-lg-5 col-md-5 col-sm-12 col-12">
-                        <h2>Quick Contact</h2>
-                        <p>We are pleased to discuss your qualifications and options under the various immigration programs and answer any questions or concerns you may have.</p>
-                        <h4 class="mb0">Phone</h4>
-                        <p>+91-7523999199</p>
-                        <div class="row mb30">
-                            <div class="col">
-                                <h4 class="mb0">Email</h4>
-                                <p>info@jdrmigration.com</p>
-                            </div>
-                        </div>
-                        <div class="row mb30">
-                            <div class="col">
-                                <h4 class="mb0">Social Connect</h4>
-                                <div class="">
-                                    <a href="https://www.facebook.com/jdrmigrationpro/"><i class="fa fa-facebook-f text-primary p-3 border border-primary m-1"></i></a>
-                                    <a href="https://www.instagram.com/jdrmigrationpro/"><i class="fa fa-instagram text-primary p-3 border border-primary m-1"></i></a>
-                                    <a href="https://mobile.twitter.com/jdrmigrationpro"><i class="fa fa-twitter text-primary p-3 border border-primary m-1"></i></a>
-                                    <a href="https://www.linkedin.com/company/jdrmigrationpro/"><i class="fa fa-linkedin text-primary p-3 border border-primary m-1"></i><a></a>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- <div class="row mb20">
-                            <div class="col mb10">
-                                <h4 class="mb0">Inquire with us</h4>
-                                <p>info@jdrmigration.com</p>
-                            </div>
-                            <div class="col mb10">
-                                <h4 class="mb0">Send your feedback</h4>
-                                <p>support@jdrmigration.com</p>
-                            </div>
-                        </div>
-                        <div class="row mb20">
-                            <div class="col mb10">
-                                <h4 class="mb0">Work with us</h4>
-                                <p>info@jdrmigration.com</p>
-                            </div>
-                            <div class="col mb10">
-                                <h4 class="mb0">For Alliance with us</h4>
-                                <p>info@jdrmigration.com</p>
-                            </div>
-                        </div> -->
-                        <div class="row">
-                            <div class="col">
-                                <h4 class="mb0">Head Office</h4>
-                                <p>3RD FLOOR, 707, NTI LAYOUT, 10 CROSS, 10TH MAIN, II PHASE, Sahakara Nagar Bengaluru Urban, Karnataka, 560092</p>
-                                <!-- <a href="#" class="btn-link-primary">View our all office & locations</a> -->
+                    <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
+                        <div class="sidebar sticky-top">
+                            <div class="widget widget-quote-form bg-light">
+                                <h3 class="form-title">Free Immigration Assessment</h3>
+                                <p class="form-text">Find out your options for visa by completing a free online assessment.</p>
+                                <form class="sidebar-quote-form">
+                                    <!-- Text input-->
+                                    <div class="form-group">
+                                        <label class="control-label sr-only" for="yourname">Your Name</label>
+                                        <div class="">
+                                            <input id="yourname" name="yourname" type="text" placeholder="Your Name" class="form-control" required="">
+                                        </div>
+                                    </div>
+                                    <!-- Text input-->
+                                    <div class="form-group">
+                                        <label class="control-label sr-only" for="email">Email</label>
+                                        <div class="">
+                                            <input id="email" name="email" type="email" placeholder="Email" class="form-control" required="">
+                                        </div>
+                                    </div>
+                                    <!-- Text input-->
+                                    <div class="form-group">
+                                        <label class="control-label sr-only" for="mobileno">Mobile No</label>
+                                        <div class="">
+                                            <input id="mobileno" name="mobileno" type="number" placeholder="Mobile No" class="form-control" required="">
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="selectvisa" class="sr-only">Select Visa</label>
+                                        <select class="form-control" id="selectvisa" name="selectvisa">
+                                            <option value="Select Visa">Select Visa</option>
+                                            <option value="Students Visa">Students Visa</option>
+                                            <option value="Business Visa">Business Visa</option>
+                                            <option value="Family Visa">Family Visa</option>
+                                            <option value="Travel Visa">Travel Visa </option>
+                                            <option value="Work Visa">Work Visa </option>
+                                            <option value="Visitor Visa">Visitor Visa </option>
+                                            <option value="Migrate Visa">Migrate Visa </option>
+                                            <option value="PR Visa">PR Visa</option>
+                                        </select>
+                                    </div>
+                                    <!-- Textarea -->
+                                    <div class="form-group">
+                                        <label class="control-label sr-only" for="message">Message</label>
+                                        <div class="">
+                                            <textarea class="form-control" id="message" name="message" rows="4" placeholder="Message"></textarea>
+                                        </div>
+                                    </div>
+                                    <button type="submit" class="btn btn-default btn-lg btn-block">Book My Free Assessment</button>
+                                </form>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.4983961565113!2d77.58043127668125!3d13.067568784831922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae194edd460f63%3A0xfeaa6fea6ef67737!2sJDR%20Migration%20Pro!5e0!3m2!1sen!2sin!4v1655705588087!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        </div>
-
-
     </div>
+
 
 
 
