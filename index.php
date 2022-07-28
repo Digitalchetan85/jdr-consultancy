@@ -39,9 +39,9 @@
                             <span class="header-link"><a href="#" target="_blank"><i class="fa fa-linkedin m-1"></i></a></span>
                             <span class="header-link"><a href="#"><i class="fa fa-instagram m-1"></i></a></span>
                             <span class="header-link"><a href="#"><i class="fa fa-youtube m-1"></i></a></span>
-                            <span class="header-link"><a href="#"><i class="fa fa-twitter m-1"></i></a></span>                     
-                            
-                            
+                            <span class="header-link"><a href="#"><i class="fa fa-twitter m-1"></i></a></span>
+
+
                         </div>
                     </div>
                 </div>
@@ -80,15 +80,16 @@
                     </div>
                 </div>
             </div> -->
-            <nav class="navbar-expand-lg navbar-light bg-white">
+            <!-- <nav class="navbar-expand-lg navbar-light bg-white">
                 <div class="container-fluid">
-                    <button class="navbar-toggler pb-2 ms-auto me-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-                    <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-                        <a class="navbar-brand ps-5" href="/jdr-consultancy">
+                <a class="navbar-brand ps-5" href="/jdr-consultancy">
                             <img src="assets/images/logo.jpg" alt="">
                         </a>
+                    <button class="navbar-toggler pb-2 ms-auto me-auto" type="button" data-bs-toggle="collapse" data-bs-target="#responsive-navbar-nav" aria-controls="responsive-navbar-nav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="responsive-navbar-nav">
+                        
                         <ul class="navbar-nav ms-auto me-auto mb-2 mb-lg-0">
                             <li class="nav-item">
                                 <a class="nav-link " aria-current="page" href="/">Home</a>
@@ -111,13 +112,13 @@
                                     </li>
                                 </ul>
                             </div>
-                            <!-- <li><a href="#">Services</a>
+                            <li><a href="#">Services</a>
                                 <ul>
                                     <li><a href="free-counselling.php">Counselling </a></li>
                                     <li><a href="#">Visa Filling </a></li>
                                     <li><a href="#">Flight Bookings </a></li>
                                 </ul>
-                            </li> -->
+                            </li>
                             <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
                                 <ul class="navbar-nav">
                                     <li class="nav-item dropdown">
@@ -138,14 +139,14 @@
                                 </ul>
                             </div>
 
-                            <!-- <li><a href="study_abroad.html">Study Abroad</a>
+                             <li><a href="study_abroad.html">Study Abroad</a>
                             <ul>
                                 <li><a href="study-in-usa.php">STUDY IN USA</a></li>
                                 <li><a href="#">STUDY IN UK</a></li>
                                 <li><a href="#">STUDY IN NEW ZEALAND</a></li>
                                 <li><a href="#">STUDY IN AUSTRALIA </a></li>
                             </ul>
-                        </li> -->
+                        </li> 
                             <li class="nav-item">
                                 <a class="nav-link" href="coaching.php">Coaching</a>
                             </li>
@@ -155,6 +156,71 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="contact.php">Contact US</a>
                             </li>
+                        </ul>
+
+                    </div>
+                </div>
+            </nav> -->
+
+            <nav class="navbar navbar-expand-lg bg-white">
+                <div class="container-fluid">
+                    <a class="navbar-brand ps-5" href="/jdr-consultancy">
+                        <img src="assets/images/logo.jpg" alt="">
+                    </a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarTogglerDemo02 d-none d-md-block">
+                        <ul class="navbar-nav ms-auto me-auto mb-2 mb-lg-0">
+                            <li class="nav-item">
+                                <a class="nav-link" aria-current="page" href="/jdr-consultancy">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="about.php">About Us</a>
+                            </li>
+                            <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
+                                <ul class="navbar-nav">
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link dropdown-toggle " href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                            Services
+                                        </a>
+                                        <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
+                                            <li><a class="dropdown-item" href="free-counselling.php">Counselling</a></li>
+                                            <li><a class="dropdown-item" href="visa-filling.php">Visa Filling</a></li>
+                                            <li><a class="dropdown-item" href="flight-booking.php">Flight Bookings</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
+                                <ul class="navbar-nav">
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                            Study In Abroad
+                                        </a>
+                                        <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
+                                            <li><a class="dropdown-item" href="study-in-australia.php">Study In Australia</a></li>
+                                            <li><a class="dropdown-item" href="study-in-canada.php">Study In Canada</a></li>
+                                            <li><a class="dropdown-item" href="study-in-dubai.php">Study In Dubai</a></li>
+                                            <li><a class="dropdown-item" href="study-in-malta.php">Study In Malta</a></li>
+                                            <li><a class="dropdown-item" href="study-in-newzealand.php">Study In New Zealand</a></li>
+                                            <li><a class="dropdown-item" href="study-in-singapore.php">Study IN Singapore</a></li>
+                                            <li><a class="dropdown-item" href="study-in-uk.php">Study IN UK</a></li>
+                                            <li><a class="dropdown-item" href="study-in-usa.php">Study IN USA</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                            <li class="nav-item">
+                                <a class="nav-link" href="coaching.php">Coaching</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="certifications.php">Certifications</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="contact.php">Contact US</a>
+                            </li>
+
                         </ul>
 
                     </div>
