@@ -115,6 +115,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
+                    <h2 class="text-primary text-center">Gallery</h2>
                     <h3>A Four Image Set</h3>
                     <div>
                         <a class="example-image-link" href="http://lokeshdhakar.com/projects/lightbox2/images/image-3.jpg" data-lightbox="example-set"><img class="example-image" src="assets/images/country-1.jpg" alt="" /></a>
