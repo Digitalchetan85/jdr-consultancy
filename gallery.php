@@ -18,11 +18,12 @@
 
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
     <link rel="stylesheet" type="text/css" href="assets/css/main.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/lightbox.css">
 </head>
 
 <body>
 
-<div id="navbar" class="sticky-top">
+    <div id="navbar" class="sticky-top">
         <div class="topbar bg-primary">
             <!-- topbar -->
             <div class="container">
@@ -34,7 +35,7 @@
                         <div class="header-block">
                             <span class="header-link d-none d-xl-block"><a data-toggle="modal" data-target="#searchModal" class="anchor-link text-white text-decoration-none">Talk to Our Expert</a></span>
                             <span class="header-link">info@jdrmigration.com</span>
-                             <span class="header-link"><a href="https://www.facebook.com/jdrmigration" target="_blank"><i class="fa fa-facebook"></i></a></span>
+                            <span class="header-link"><a href="https://www.facebook.com/jdrmigration" target="_blank"><i class="fa fa-facebook"></i></a></span>
                             <span class="header-link"><a href="https://www.linkedin.com/company/jdrmigration/" target="_blank"><i class="fa fa-linkedin"></i></a></span>
                             <span class="header-link"><a href="#"><i class="fa fa-instagram"></i></a></span>
                             <span class="header-link"><a href="https://youtube.com/channel/UC__n4oHWi9HJ6HPHBa30vTw"><i class="fa fa-youtube"></i></a></span>
@@ -54,7 +55,7 @@
                         <span class="navbar-toggler-icon"></span>
                     </button>
                     <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                             <li class="nav-item">
                                 <a class="nav-link" aria-current="page" href="/jdr-consultancy">Home</a>
                             </li>
@@ -110,231 +111,25 @@
         </div>
     </div>
 
-
-
-
-    <!-- /.header classic -->
-    <div class="abt">
+    <div id="gallery" class="pb-5">
         <div class="container">
             <div class="row">
-                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-                    <h1 class="page-title">About JDR Migration</h1>
-                    <p class="page-description">Study abroad for better employment opportunities, a higher standard of living. Reach out to us for other opportunities for more details.</p>
+                <div class="col-md-12">
+                    <h3>A Four Image Set</h3>
+                    <div>
+                        <a class="example-image-link" href="http://lokeshdhakar.com/projects/lightbox2/images/image-3.jpg" data-lightbox="example-set"><img class="example-image" src="assets/images/country-1.jpg" alt="" /></a>
+                        <a class="example-image-link" href="http://lokeshdhakar.com/projects/lightbox2/images/image-4.jpg" data-lightbox="example-set"><img class="example-image" src="assets/images/country-2.jpg" alt="" /></a>
+                        <a class="example-image-link" href="http://lokeshdhakar.com/projects/lightbox2/images/image-5.jpg" data-lightbox="example-set"><img class="example-image" src="assets/images/country-3.jpg" alt="" /></a>
+                        <a class="example-image-link" href="http://lokeshdhakar.com/projects/lightbox2/images/image-6.jpg" data-lightbox="example-set"><img class="example-image" src="assets/images/country-4.jpg" alt="" /></a>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-    <div class="page-breadcrumb">
-        <!-- page breadcrumb -->
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                    <nav aria-label="breadcrumb">
-                        <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="/jdr-consultancy">Home</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">About us</li>
-                        </ol>
-                    </nav>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- /.page breadcrumb -->
-    <div class="content pdb0">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-7 col-lg-7 col-md-12 col-sm-12 col-12">
-                    <h2>About Our JDR Migration</h2>
-                    <p class="lead">JDR Migration, a leading provider of Study Abroad and Migration services, is
-                        well-versed in the issues that arise when students relocate for their studies. Our
-                        main goal is to make it easier for you to move through procedures, such as
-                        evaluation, documentation, and filing.</p>
-                    <p>JDR Migration can assist you in pursuing your academic goals in any of the world&#39;s most prestigious nations by guiding you to the best institutions.</p>
-                    <p>When it comes to delivering value-added services, we have an advantage over our
-                        rivals because of our vast expertise and deep understanding of the industry and
-                        several immigration programs.</p>
-                    
-                    <!-- <p class="text-default">Call: +91 7523999199</p> -->
-                </div>
-                <div class="col-xl-5 col-lg-5 col-md-12 col-sm-12 col-12 align-self-center">
-                    <div class="image-block py-3"><img src="assets/images/about/About 3.png" alt="" class="img-fluid"></div>
-                </div>
-                <div class="">
-                <h2 class="text-primary">We make all of your dreams come true.</h2>
-                    <p>There has been an exponential rise in the number of Indian visa applications due to
-                        an increase in the overall number of Indians going overseas to study or to work.
-                        The visa application procedure, on the other hand, is lengthy, time-consuming, and
-                        difficult. This complicates the process of obtaining a visa significantly.</p>
-                    <p>We have a team of experts that can help you from start to finish (from getting an
-                        offer letter to getting a visa and accommodation). Studying abroad is easier when
-                        you have the relevant resources, expertise, and global connections at your disposal,
-                        all of which we provide.</p>
-                    <p>We are able to maintain a worldwide presence because of our strategic network of
-                        own offices and associate offices, which is spread out over 25 different sites all
-                        over the globe. By the end of the year, we expect to have expanded our services to
-                        more than 20 locations.</p>
-                    <p>There are several ways to apply for a visa, but JDR Migration is a one-stop shop
-                        for all of them. Our visa experts are always ready to answer any questions you
-                        might have.</p>
-                    <p>We&#39;re here to make your overseas education and vacations as easy and enjoyable as
-                        possible. So all you have to do is sit back, relax, and let us take care of the rest!</p>
 
-                </div>
-
-            </div>
-        </div>
-        <div class="space-medium pdb0">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
-                        <div class="feature-blurb mb20">
-                            <div class="feature-content">
-                                <h3 class="feature-title">Our Mision</h3>
-                                <p>Our mission is to help as many of our clients as possible get into the educational
-                                    institution of their choice, whether it&#39;s via scholarships or securing a student visa.
-                                    Our aim is to serve as a connection between you and the nation of your dreams
-                                    while you are still in your home country. </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
-                        <div class="feature-blurb">
-                            <div class="feature-content">
-                                <h3 class="feature-title">Our Vision</h3>
-                                <p>Our vision is to provide each and every one of our customers with a study
-                                    migration service that is user-friendly, reliable, and professional, and that also
-                                    includes individualized guidance. Whether your objectives are short-term or long-
-                                    term, we&#39;ll work with you to make them a reality.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="space-medium">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 text-center">
-                        <h3>Get Back Your 'Ooo' With Study Migration!</h3>
-                        <br>
-                        <h3>Our Values</h3>
-                        <p>We are committed to following the organizational values: Transparency, Excellence, Fairness, Accountability, Integrity, and Commitment.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="space-medium pdb0">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
-                        <div class="feature-blurb mb20">
-                            <div class="feature-content">
-                                <div class=""><img src="assets/images/about/How-do-we-help.png" alt="" class="img-fluid"></div>
-                                <div class=""><img src="assets/images/office-img-2.html" alt="" class="img-fluid"></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
-                        <div class="feature-blurb">
-                            <div class="feature-content">
-                                <h3 class="feature-title">How do we help?</h3>
-                                <p>Our experts help you choose the destination, school, and course, as well as aid you with your application, and other paperwork.</p>
-                                <h3>We provide:</h3>
-                                <ul class="listnone check-circle">
-                                    <li>Free Study Abroad Counselling</li>
-                                    <li>Course Advice</li>
-                                    <li>Personalized Guidance For Preparation</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="space-medium bg-light">
-            <div class="container">
-                <div class="row">
-                    <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12">
-                        <div class="section-title text-center">
-                            <!-- section title start-->
-                            <h2>Why JDR Migration?</h2>
-                            <p> Since our founding, our primary goal has been to provide immigration in all over country and universities. Our impact is speak louder than our word.</p>
-                        </div>
-                        <!-- /.section title start-->
-                    </div>
-                </div>
-                <div class="counter-section pdb0">
-                    <div class="row">
-                        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-6">
-                            <div class="counter-block text-center">
-                                <h2 class="counter-title text-default">500+</h2>
-                                <p class="counter-text">Institutions</p>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-6">
-                            <div class="counter-block text-center">
-                                <h2 class="counter-title text-secondary">5800+</h2>
-                                <p class="counter-text"> Counselled</p>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-6">
-                            <div class="counter-block text-center">
-                                <h2 class="counter-title text-warning">500+</h2>
-                                <p class="counter-text">Received Visa</p>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-6">
-                            <div class="counter-block text-center">
-                                <h2 class="counter-title text-default">30+</h2>
-                                <p class="counter-text">Country</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- <div class="space-large">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
-                        <div class="feature-blurb mb40">
-                            <div class="feature-content">
-                                <h3 class="feature-title">Our Services</h3>
-                                <p> We offer Free Study Abroad Counselling, Course Advice, and Other services - Visa Filling, International accommodation, Flight Bookings and Forex Cards and International sim cards.</p>
-                                <a href="#" class="btn btn-default">Services</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
-                        <div class="feature-blurb">
-                            <div class="feature-content">
-                                <h3 class="feature-title">Partner Colleges</h3>
-                                <p> We have collaborated with top schools around the world. Feel free to explore our comprehensive range of Universities and Education partners that we represent.</p>
-                                <a href="#" class="btn btn-default">View partner Colleges</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> -->
-        <!-- <div class="bg-section bg-background" style="background-image:url('assets/images/country/Bottom Image.jpg');">
-            <div class="space-large">
-                <div class="container">
-                    <div class="row">
-                        <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12">
-                            <div class="section-title text-center">
-                                section title start
-                                <h2 class="text-white">Working Together, We Can Help</h2>
-                                <p>Doubting the positive effects of our teamwork because you’ve been burned before? By working together with the clients, we learn that wins and losses affect everyone on the team. When teams work together, they can discuss and share a variety of perspectives of a situation.</p>
-                                <a href="#" class="btn btn-primary">Join Us</a>
-                            </div>
-                            /.section title start
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> -->
     </div>
+
+
+
 
 
     <!-- {{-- footer --}} -->
@@ -384,11 +179,11 @@
                         </ul>
                         <div class="pt-1"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.4983961565113!2d77.58043127668125!3d13.067568784831922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae194edd460f63%3A0xfeaa6fea6ef67737!2sJDR%20Migration%20Pro!5e0!3m2!1sen!2sin!4v1655705588087!5m2!1sen!2sin" width="100%" height="150" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
                         <ul class="listnone mt-2">
-                                <a href="https://www.facebook.com/jdrmigration" target="_blank"><i class="fa fa-facebook m-1"></i></a>
-                                <a href="https://www.linkedin.com/company/jdrmigration/" target="_blank"><i class="fa fa-linkedin m-1"></i></a>
-                                <a href="#"><i class="fa fa-instagram m-1"></i></a>
-                                <a href="https://youtube.com/channel/UC__n4oHWi9HJ6HPHBa30vTw"><i class="fa fa-youtube m-1"></i></a>
-                            </ul>
+                            <a href="https://www.facebook.com/jdrmigration" target="_blank"><i class="fa fa-facebook m-1"></i></a>
+                            <a href="https://www.linkedin.com/company/jdrmigration/" target="_blank"><i class="fa fa-linkedin m-1"></i></a>
+                            <a href="#"><i class="fa fa-instagram m-1"></i></a>
+                            <a href="https://youtube.com/channel/UC__n4oHWi9HJ6HPHBa30vTw"><i class="fa fa-youtube m-1"></i></a>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -486,4 +281,5 @@
     <script src="assets/js/form.js"></script>
     <script src="assets/js/custom-carousel.js"></script>
     <script src="assets/js/navigation.js"></script>
+    <script src="assets/js/lightbox-plus-jquery.js"></script>
 </body>

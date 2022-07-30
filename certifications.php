@@ -20,69 +20,41 @@
 
 <body>
 
-    <div id="navbar" class="sticky-top">
+<div id="navbar" class="sticky-top">
         <div class="topbar bg-primary">
             <!-- topbar -->
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 d-none d-sm-none d-lg-block d-xl-block">
+                    <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12 col-12 d-none d-sm-none d-lg-block d-xl-block">
                         <p class="welcome-text">Welcome to JDR Migration</p>
                     </div>
-                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12 col-12">
                         <div class="header-block">
                             <span class="header-link d-none d-xl-block"><a data-toggle="modal" data-target="#searchModal" class="anchor-link text-white text-decoration-none">Talk to Our Expert</a></span>
                             <span class="header-link">info@jdrmigration.com</span>
-                            <span class="header-link"><a data-toggle="modal" data-target="#searchModal" class="btn btn-default btn-sm white_color">Enquiry Now</a></span>
+                             <span class="header-link"><a href="https://www.facebook.com/jdrmigration" target="_blank"><i class="fa fa-facebook"></i></a></span>
+                            <span class="header-link"><a href="https://www.linkedin.com/company/jdrmigration/" target="_blank"><i class="fa fa-linkedin"></i></a></span>
+                            <span class="header-link"><a href="#"><i class="fa fa-instagram"></i></a></span>
+                            <span class="header-link"><a href="https://youtube.com/channel/UC__n4oHWi9HJ6HPHBa30vTw"><i class="fa fa-youtube"></i></a></span>
+                            <span class="header-link"><a href="#"><i class="fa fa-twitter"></i></a></span>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- /.topbar -->
-        <div class="navigation-regular sticky-top">
-            <!-- <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-xl-9 col-lg-12 col-md-12 col-sm-12 col-12">
-                        <div id="navigation-regular" class="">
-                            navigation
-                            <ul class="">
-                                <li><a href="#">Home</a></li>
-                                <li><a href="about.php">About Us</a></li>
-                                <li><a href="#">Services</a>
-                                    <ul>
-                                        <li><a href="free-counselling.php">Counselling </a></li>
-                                        <li><a href="#">Visa Filling </a></li>
-                                        <li><a href="#">Flight Bookings </a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="#">Study Abroad</a>
-                                    <ul>
-                                        <li><a href="study-in-usa.php">STUDY IN USA</a></li>
-                                        <li><a href="#">STUDY IN UK</a></li>
-                                        <li><a href="#">STUDY IN NEW ZEALAND</a></li>
-                                        <li><a href="#">STUDY IN AUSTRALIA </a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="coaching.php">Coaching</a></li>
-                                <li><a href="certifications.php">Certifications</a></li>
-                                <li><a href="contact.php">Contact Us</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
+
+
+        <div class="">
             <nav class="navbar navbar-expand-lg navbar-light bg-white">
-                <div class="container-fluid">
-                    <button class="navbar-toggler pb-2 ms-auto me-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+                <div class="container">
+                    <a class="navbar-brand" href="/"><img src="assets/images/logo.png" alt=""></a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
-                    <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-                        <a class="navbar-brand ps-5" href="/">
-                            <img src="assets/images/logo.jpg" alt="">
-                        </a>
-                        <ul class="navbar-nav ms-auto me-auto mb-2 mb-lg-0">
+                    <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                             <li class="nav-item">
-                                <a class="nav-link" aria-current="page" href="/">Home</a>
+                                <a class="nav-link" aria-current="page" href="/jdr-consultancy">Home</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="about.php">About Us</a>
@@ -90,24 +62,17 @@
                             <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
                                 <ul class="navbar-nav">
                                     <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        <a class="nav-link dropdown-toggle " href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                             Services
                                         </a>
                                         <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
-                                            <li><a class="dropdown-item" href="free-counselling.php">Counselling</a></li>
+                                            <li><a class="dropdown-item" href="counselling.php">Counselling</a></li>
                                             <li><a class="dropdown-item" href="visa-filling.php">Visa Filling</a></li>
                                             <li><a class="dropdown-item" href="flight-booking.php">Flight Bookings</a></li>
                                         </ul>
                                     </li>
                                 </ul>
                             </div>
-                            <!-- <li><a href="#">Services</a>
-                                <ul>
-                                    <li><a href="free-counselling.php">Counselling </a></li>
-                                    <li><a href="#">Visa Filling </a></li>
-                                    <li><a href="#">Flight Bookings </a></li>
-                                </ul>
-                            </li> -->
                             <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
                                 <ul class="navbar-nav">
                                     <li class="nav-item dropdown">
@@ -119,16 +84,14 @@
                                             <li><a class="dropdown-item" href="study-in-canada.php">Study In Canada</a></li>
                                             <li><a class="dropdown-item" href="study-in-dubai.php">Study In Dubai</a></li>
                                             <li><a class="dropdown-item" href="study-in-malta.php">Study In Malta</a></li>
-                                            <li><a class="dropdown-item" href="study-in-newzealand.php">Study In NEWZEALAND</a></li>
-                                            <li><a class="dropdown-item" href="study-in-singapore.php">STUDY IN SINGAPORE</a></li>
-                                            <li><a class="dropdown-item" href="study-in-uk.php">STUDY IN UK</a></li>
-                                            <li><a class="dropdown-item" href="study-in-usa.php">STUDY IN USA</a></li>
+                                            <li><a class="dropdown-item" href="study-in-newzealand.php">Study In New Zealand</a></li>
+                                            <li><a class="dropdown-item" href="study-in-singapore.php">Study IN Singapore</a></li>
+                                            <li><a class="dropdown-item" href="study-in-uk.php">Study IN UK</a></li>
+                                            <li><a class="dropdown-item" href="study-in-usa.php">Study IN USA</a></li>
                                         </ul>
                                     </li>
                                 </ul>
                             </div>
-
-
                             <li class="nav-item">
                                 <a class="nav-link" href="coaching.php">Coaching</a>
                             </li>
@@ -139,12 +102,12 @@
                                 <a class="nav-link" href="contact.php">Contact US</a>
                             </li>
                         </ul>
-
                     </div>
                 </div>
             </nav>
         </div>
     </div>
+
 
 
     <div>
@@ -333,7 +296,7 @@
                     <div class="widget-footer">
                         <h3 class="widget-title">Services</h3>
                         <ul class="listnone arrow-footer">
-                            <li><a href="free-counselling.php">Counselling </a></li>
+                            <li><a href="counselling.php">Counselling </a></li>
                             <li><a href="#">Visa Filling </a></li>
                             <li><a href="#">Flight Bookings </a></li>
                         </ul>
@@ -350,11 +313,11 @@
                         </ul>
                         <div class="pt-1"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.4983961565113!2d77.58043127668125!3d13.067568784831922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae194edd460f63%3A0xfeaa6fea6ef67737!2sJDR%20Migration%20Pro!5e0!3m2!1sen!2sin!4v1655705588087!5m2!1sen!2sin" width="100%" height="150" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
                         <ul class="listnone mt-2">
-                            <a href="#" target="_blank"><i class="fa fa-facebook m-1"></i></a>
-                            <a href="#" target="_blank"><i class="fa fa-linkedin m-1"></i></a>
-                            <a href="#"><i class="fa fa-instagram m-1"></i></a>
-                            <a href="#"><i class="fa fa-youtube m-1"></i></a>
-                        </ul>
+                                <a href="https://www.facebook.com/jdrmigration" target="_blank"><i class="fa fa-facebook m-1"></i></a>
+                                <a href="https://www.linkedin.com/company/jdrmigration/" target="_blank"><i class="fa fa-linkedin m-1"></i></a>
+                                <a href="#"><i class="fa fa-instagram m-1"></i></a>
+                                <a href="https://youtube.com/channel/UC__n4oHWi9HJ6HPHBa30vTw"><i class="fa fa-youtube m-1"></i></a>
+                            </ul>
                     </div>
                 </div>
             </div>

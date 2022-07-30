@@ -22,7 +22,6 @@
 </head>
 
 <body>
-
     <div id="navbar" class="sticky-top">
         <div class="topbar bg-primary">
             <!-- topbar -->
@@ -35,22 +34,20 @@
                         <div class="header-block">
                             <span class="header-link d-none d-xl-block"><a data-toggle="modal" data-target="#searchModal" class="anchor-link text-white text-decoration-none">Talk to Our Expert</a></span>
                             <span class="header-link">info@jdrmigration.com</span>
-                            <span class="header-link"><a href="#" target="_blank"><i class="fa fa-facebook me-1"></i></a></span>
-                            <span class="header-link"><a href="#" target="_blank"><i class="fa fa-linkedin me-1"></i></a></span>
-                            <span class="header-link"><a href="#"><i class="fa fa-instagram me-1"></i></a></span>
-                            <span class="header-link"><a href="#"><i class="fa fa-youtube me-1"></i></a></span>
-                            <span class="header-link"><a href="#"><i class="fa fa-twitter me-1"></i></a></span>
+                             <span class="header-link"><a href="https://www.facebook.com/jdrmigration" target="_blank"><i class="fa fa-facebook"></i></a></span>
+                            <span class="header-link"><a href="https://www.linkedin.com/company/jdrmigration/" target="_blank"><i class="fa fa-linkedin"></i></a></span>
+                            <span class="header-link"><a href="#"><i class="fa fa-instagram"></i></a></span>
+                            <span class="header-link"><a href="https://youtube.com/channel/UC__n4oHWi9HJ6HPHBa30vTw"><i class="fa fa-youtube"></i></a></span>
+                            <span class="header-link"><a href="#"><i class="fa fa-twitter"></i></a></span>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-
-
-        <div class="">
-            <nav class="navbar navbar-expand-lg navbar-light bg-white" id="navbar">
+     <div class="">
+            <nav class="navbar navbar-expand-lg navbar-light bg-white">
                 <div class="container">
-                    <a class="navbar-brand" href="/"><img src="assets/images/logo.jpg" alt=""></a>
+                    <a class="navbar-brand" href="/"><img src="assets/images/logo.png" alt=""></a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
@@ -69,7 +66,7 @@
                                             Services
                                         </a>
                                         <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
-                                            <li><a class="dropdown-item" href="free-counselling.php">Counselling</a></li>
+                                            <li><a class="dropdown-item" href="counselling.php">Counselling</a></li>
                                             <li><a class="dropdown-item" href="visa-filling.php">Visa Filling</a></li>
                                             <li><a class="dropdown-item" href="flight-booking.php">Flight Bookings</a></li>
                                         </ul>
@@ -606,7 +603,7 @@
                         <div class="widget-footer">
                             <h3 class="widget-title">Services</h3>
                             <ul class="listnone arrow-footer">
-                                <li><a href="free-counselling.php">Counselling </a></li>
+                                <li><a href="counselling.php">Counselling </a></li>
                                 <li><a href="#">Visa Filling </a></li>
                                 <li><a href="#">Flight Bookings </a></li>
                             </ul>
@@ -623,10 +620,10 @@
                             </ul>
                             <div class="pt-1"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.4983961565113!2d77.58043127668125!3d13.067568784831922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae194edd460f63%3A0xfeaa6fea6ef67737!2sJDR%20Migration%20Pro!5e0!3m2!1sen!2sin!4v1655705588087!5m2!1sen!2sin" width="100%" height="150" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
                             <ul class="listnone mt-2">
-                                <a href="#" target="_blank"><i class="fa fa-facebook m-1"></i></a>
-                                <a href="#" target="_blank"><i class="fa fa-linkedin m-1"></i></a>
+                                <a href="https://www.facebook.com/jdrmigration" target="_blank"><i class="fa fa-facebook m-1"></i></a>
+                                <a href="https://www.linkedin.com/company/jdrmigration/" target="_blank"><i class="fa fa-linkedin m-1"></i></a>
                                 <a href="#"><i class="fa fa-instagram m-1"></i></a>
-                                <a href="#"><i class="fa fa-youtube m-1"></i></a>
+                                <a href="https://youtube.com/channel/UC__n4oHWi9HJ6HPHBa30vTw"><i class="fa fa-youtube m-1"></i></a>
                             </ul>
                         </div>
                     </div>

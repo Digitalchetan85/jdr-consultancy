@@ -58,7 +58,7 @@
                             <li><a href="about.php">About Us</a></li>
                             <li><a href="#">Services</a>
                                 <ul>
-                                    <li><a href="free-counselling.php">Counselling </a></li>
+                                    <li><a href="counselling.php">Counselling </a></li>
                                     <li><a href="#">Visa Filling </a></li>
                                     <li><a href="#">Flight Bookings </a></li>
                                 </ul>
@@ -85,7 +85,7 @@
                     </button>
                     <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
                         <a class="navbar-brand ps-5" href="/jdr-consultancy">
-                            <img src="assets/images/logo.jpg" alt="">
+                            <img src="assets/images/logo.png" alt="">
                         </a>
                         <ul class="navbar-nav ms-auto me-auto mb-2 mb-lg-0">
                             <li class="nav-item">
@@ -101,7 +101,7 @@
                                             Services
                                         </a>
                                         <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
-                                            <li><a class="dropdown-item" href="free-counselling.php">Counselling</a></li>
+                                            <li><a class="dropdown-item" href="counselling.php">Counselling</a></li>
                                             <li><a class="dropdown-item" href="visa-filling.php">Visa Filling</a></li>
                                             <li><a class="dropdown-item" href="flight-booking.php">Flight Bookings</a></li>
                                         </ul>
@@ -110,7 +110,7 @@
                             </div>
                             <!-- <li><a href="#">Services</a>
                                 <ul>
-                                    <li><a href="free-counselling.php">Counselling </a></li>
+                                    <li><a href="counselling.php">Counselling </a></li>
                                     <li><a href="#">Visa Filling </a></li>
                                     <li><a href="#">Flight Bookings </a></li>
                                 </ul>
@@ -434,7 +434,7 @@
                     <div class="widget-footer">
                         <h3 class="widget-title">Services</h3>
                         <ul class="listnone arrow-footer">
-                            <li><a href="free-counselling.php">Counselling </a></li>
+                            <li><a href="counselling.php">Counselling </a></li>
                             <li><a href="#">Visa Filling </a></li>
                             <li><a href="#">Flight Bookings </a></li>
                         </ul>
@@ -451,11 +451,11 @@
                         </ul>
                         <div class="pt-1"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.4983961565113!2d77.58043127668125!3d13.067568784831922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae194edd460f63%3A0xfeaa6fea6ef67737!2sJDR%20Migration%20Pro!5e0!3m2!1sen!2sin!4v1655705588087!5m2!1sen!2sin" width="100%" height="150" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
                         <ul class="listnone mt-2">
-                            <a href="#" target="_blank"><i class="fa fa-facebook m-1"></i></a>
-                            <a href="#" target="_blank"><i class="fa fa-linkedin m-1"></i></a>
-                            <a href="#"><i class="fa fa-instagram m-1"></i></a>
-                            <a href="#"><i class="fa fa-youtube m-1"></i></a>
-                        </ul>
+                                <a href="https://www.facebook.com/jdrmigration" target="_blank"><i class="fa fa-facebook m-1"></i></a>
+                                <a href="https://www.linkedin.com/company/jdrmigration/" target="_blank"><i class="fa fa-linkedin m-1"></i></a>
+                                <a href="#"><i class="fa fa-instagram m-1"></i></a>
+                                <a href="https://youtube.com/channel/UC__n4oHWi9HJ6HPHBa30vTw"><i class="fa fa-youtube m-1"></i></a>
+                            </ul>
                     </div>
                 </div>
             </div>

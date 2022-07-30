@@ -5,6 +5,7 @@ $secondaryColor: #0dcaf0;
 $success: #026420;
 
 #navbar {
+  box-shadow:0 .125rem .25rem rgba(0,0,0,.075)!important;
   .nav-link {
     padding: 0px 10px 0px 10px;
     font-size: 16px;
@@ -52,7 +53,7 @@ $success: #026420;
 
 .page1 {
   background-color: #0db2f0;
-  padding: 80px 0px;
+  padding: 55px 0px;
   margin: 0px;
   border-bottom: transparent;
   background: url(../images/about/canada-1.png) no-repeat center;
