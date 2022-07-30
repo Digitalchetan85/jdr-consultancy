@@ -422,7 +422,7 @@ img.grayscale:hover { filter: grayscale(0); opacity: 1; transition-property: fil
 .topbar { font-size: 13px; border-bottom: dashed 1px #e2e6ea; font-weight: 400; }
 .welcome-text { padding-top: 5px; text-transform: capitalize; }
 .header-block { float: right; }
-.header-link { border-left: dashed 1px #e2e6ea; height: 40px; float: left; padding-left: 14px; padding-right: 14px; padding-top: 5px; }
+.header-link { border-left: dashed 1px #e2e6ea; cursor: pointer; height: 40px; float: left; padding-left: 14px; padding-right: 14px; padding-top: 5px; }
 
 /*---  Navigation classic ---*/
 #navigation, #navigation ul, #navigation ul li, #navigation ul li a, #navigation #menu-button { margin: 0; padding: 0; border: 0; list-style: none; line-height: 1; display: block; position: relative; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }

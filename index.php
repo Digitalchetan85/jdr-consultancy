@@ -35,13 +35,11 @@
                         <div class="header-block">
                             <span class="header-link d-none d-xl-block"><a data-toggle="modal" data-target="#searchModal" class="anchor-link text-white text-decoration-none">Talk to Our Expert</a></span>
                             <span class="header-link">info@jdrmigration.com</span>
-                            <span class="header-link"><a href="#" target="_blank"><i class="fa fa-facebook m-1"></i></a></span>
-                            <span class="header-link"><a href="#" target="_blank"><i class="fa fa-linkedin m-1"></i></a></span>
-                            <span class="header-link"><a href="#"><i class="fa fa-instagram m-1"></i></a></span>
-                            <span class="header-link"><a href="#"><i class="fa fa-youtube m-1"></i></a></span>
-                            <span class="header-link"><a href="#"><i class="fa fa-twitter m-1"></i></a></span>
-
-
+                            <span class="header-link"><a href="#" target="_blank"><i class="fa fa-facebook me-1"></i></a></span>
+                            <span class="header-link"><a href="#" target="_blank"><i class="fa fa-linkedin me-1"></i></a></span>
+                            <span class="header-link"><a href="#"><i class="fa fa-instagram me-1"></i></a></span>
+                            <span class="header-link"><a href="#"><i class="fa fa-youtube me-1"></i></a></span>
+                            <span class="header-link"><a href="#"><i class="fa fa-twitter me-1"></i></a></span>
                         </div>
                     </div>
                 </div>
@@ -50,128 +48,14 @@
 
 
         <div class="">
-
-            <!-- <div class="row justify-content-center">
-                <div class="col-xl-9 col-lg-12 col-md-12 col-sm-12 col-12">
-                    <div id="navigation-regular" class="">
-                        navigation
-                      <ul class="">
-                            <li><a href="#">Home</a></li>
-                            <li><a href="about.php">About Us</a></li>
-                            <li><a href="#">Services</a>
-                                <ul>
-                                    <li><a href="free-counselling.php">Counselling </a></li>
-                                    <li><a href="#">Visa Filling </a></li>
-                                    <li><a href="#">Flight Bookings </a></li>
-                                </ul>
-                            </li>
-                            <li><a href="study_abroad.html">Study Abroad</a>
-                                <ul>
-                                    <li><a href="study-in-usa.php">STUDY IN USA</a></li>
-                                    <li><a href="#">STUDY IN UK</a></li>
-                                    <li><a href="#">STUDY IN NEW ZEALAND</a></li>
-                                    <li><a href="#">STUDY IN AUSTRALIA </a></li>
-                                </ul>
-                            </li>
-                            <li><a href="coaching.php">Coaching</a></li>
-                            <li><a href="certifications.php">Certifications</a></li>
-                            <li><a href="contact.php">Contact Us</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div> -->
-            <!-- <nav class="navbar-expand-lg navbar-light bg-white">
-                <div class="container-fluid">
-                <a class="navbar-brand ps-5" href="/jdr-consultancy">
-                            <img src="assets/images/logo.jpg" alt="">
-                        </a>
-                    <button class="navbar-toggler pb-2 ms-auto me-auto" type="button" data-bs-toggle="collapse" data-bs-target="#responsive-navbar-nav" aria-controls="responsive-navbar-nav" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-                    <div class="collapse navbar-collapse" id="responsive-navbar-nav">
-                        
-                        <ul class="navbar-nav ms-auto me-auto mb-2 mb-lg-0">
-                            <li class="nav-item">
-                                <a class="nav-link " aria-current="page" href="/">Home</a>
-                            </li>
-                           
-                            <li class="nav-item">
-                                <a class="nav-link " href="about.php">About Us</a>
-                            </li>
-                            <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
-                                <ul class="navbar-nav">
-                                    <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle " href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                            Services
-                                        </a>
-                                        <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
-                                            <li><a class="dropdown-item" href="free-counselling.php">Counselling</a></li>
-                                            <li><a class="dropdown-item" href="visa-filling.php">Visa Filling</a></li>
-                                            <li><a class="dropdown-item" href="flight-booking.php">Flight Bookings</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </div>
-                            <li><a href="#">Services</a>
-                                <ul>
-                                    <li><a href="free-counselling.php">Counselling </a></li>
-                                    <li><a href="#">Visa Filling </a></li>
-                                    <li><a href="#">Flight Bookings </a></li>
-                                </ul>
-                            </li>
-                            <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
-                                <ul class="navbar-nav">
-                                    <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                            Study In Abroad
-                                        </a>
-                                        <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
-                                            <li><a class="dropdown-item" href="study-in-australia.php">Study In Australia</a></li>
-                                            <li><a class="dropdown-item" href="study-in-canada.php">Study In Canada</a></li>
-                                            <li><a class="dropdown-item" href="study-in-dubai.php">Study In Dubai</a></li>
-                                            <li><a class="dropdown-item" href="study-in-malta.php">Study In Malta</a></li>
-                                            <li><a class="dropdown-item" href="study-in-newzealand.php">Study In New Zealand</a></li>
-                                            <li><a class="dropdown-item" href="study-in-singapore.php">Study IN Singapore</a></li>
-                                            <li><a class="dropdown-item" href="study-in-uk.php">Study IN UK</a></li>
-                                            <li><a class="dropdown-item" href="study-in-usa.php">Study IN USA</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </div>
-
-                             <li><a href="study_abroad.html">Study Abroad</a>
-                            <ul>
-                                <li><a href="study-in-usa.php">STUDY IN USA</a></li>
-                                <li><a href="#">STUDY IN UK</a></li>
-                                <li><a href="#">STUDY IN NEW ZEALAND</a></li>
-                                <li><a href="#">STUDY IN AUSTRALIA </a></li>
-                            </ul>
-                        </li> 
-                            <li class="nav-item">
-                                <a class="nav-link" href="coaching.php">Coaching</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="certifications.php">Certifications</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="contact.php">Contact US</a>
-                            </li>
-                        </ul>
-
-                    </div>
-                </div>
-            </nav> -->
-
-            <nav class="navbar navbar-expand-lg bg-white">
-                <div class="container-fluid">
-                    <a class="navbar-brand ps-5" href="/jdr-consultancy">
-                        <img src="assets/images/logo.jpg" alt="">
-                    </a>
+            <nav class="navbar navbar-expand-lg navbar-light bg-white" id="navbar">
+                <div class="container">
+                    <a class="navbar-brand" href="/"><img src="assets/images/logo.jpg" alt=""></a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
-                    <div class="collapse navbar-collapse" id="navbarTogglerDemo02 d-none d-md-block">
-                        <ul class="navbar-nav ms-auto me-auto mb-2 mb-lg-0">
+                    <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                             <li class="nav-item">
                                 <a class="nav-link" aria-current="page" href="/jdr-consultancy">Home</a>
                             </li>
@@ -220,65 +104,17 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="contact.php">Contact US</a>
                             </li>
-
                         </ul>
-
                     </div>
                 </div>
             </nav>
-
         </div>
-
     </div>
 
     <!-- /.header classic -->
 
     <div class="slider">
         <!-- slider -->
-        <!-- <div class="slider-carsoule owl-carousel owl-theme">
-            <div class="item">
-                <img src="assets/images/slider12.jpg" alt="Immigration Consulting Bootstrap Responsive Website Template">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-6 col-lg-6 col-sm-8 col-md-9 col-8">
-                            <div class="slider-captions">
-                                <h1 class="slider-title dotted-line">Want to study abroad ?</h1>
-                                <p class="slider-text hidden-xs">Are you curious to think more about and explore the reasons why to study abroad? Would it help to learn about why other students want to study abroad? Book a free consultation with us!</p>
-                                <a data-toggle="modal" data-target="#searchModal" class="btn btn-primary btn-lg text-white">BOOK A CONSULTATION</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <img src="assets/images/slider1.jpg" alt="Immigration Consulting Responsive Website Template">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-6 col-lg-6 col-sm-8 col-md-9 col-8">
-                            <div class="slider-captions">
-                                <h1 class="slider-title dotted-line">IELTS / PTE / TOFEL / English</h1>
-                                <p class="slider-text hidden-xs"> Does your English sound awkward to everyone? No problem, we provide exclusive guidance and help in the preparation!</p>
-                                <a data-toggle="modal" data-target="#searchModal" class="btn btn-primary btn-lg text-white">BOOK A CONSULTATION</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <img src="assets/images/slider11.jpg" alt="Immigration visa consultant HTML5 Template">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-6 col-lg-6 col-sm-8 col-md-9 col-8">
-                            <div class="slider-captions">
-                                <h1 class="slider-title dotted-line">Study Migration Consultants</h1>
-                                <p class="slider-text hidden-xs">We help people to migrate for study from one country to another country through legal and documentation processes to increase the chances of for study, Make the most of us!</p>
-                                <a data-toggle="modal" data-target="#searchModal" class="btn btn-primary btn-lg text-white">BOOK A CONSULTATION</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> -->
         <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-indicators">
                 <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -288,9 +124,9 @@
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <img src="assets/images/slider1.png" class="d-block w-100" alt="Immigration Consulting Bootstrap Responsive Website Template">
-                    <div class="carousel-caption d-none d-md-block text-center">
+                    <div class="carousel-caption d-none d-md-block text-center text-md-start justify-content-center" style="margin-left: 150px;">
                         <!-- <h1 class="slider-title dotted-line">Want to study abroad ?</h1>
-                        <p>Are you curious to think more about and explore the reasons why to study abroad? Would it help to learn about why other students want to study abroad? Book a free consultation with us!</p> -->
+                        <p>Are you curious to think more about and explore the reme-autoasons why to study abroad? Would it help to learn about why other students want to study abroad? Book a free consultation with us!</p> -->
                         <a data-toggle="modal" data-target="#searchModal" class="btn btn-primary btn-lg text-white">BOOK A CONSULTATION</a>
                     </div>
                 </div>
