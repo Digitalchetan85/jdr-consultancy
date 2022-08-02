@@ -107,6 +107,7 @@
             </nav>
         </div>
     </div>
+</div>
 
 
     <div>
@@ -211,53 +212,53 @@
                     <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
                         <div class="sidebar sticky-top">
                             <div class="widget widget-quote-form bg-light">
-                                <h3 class="form-title">Free Immigration Assessment</h3>
-                                <p class="form-text">Find out your options for visa by completing a free online assessment.</p>
-                                <form class="sidebar-quote-form">
-                                    <!-- Text input-->
-                                    <div class="form-group">
-                                        <label class="control-label sr-only" for="yourname">Your Name</label>
-                                        <div class="">
-                                            <input id="yourname" name="yourname" type="text" placeholder="Your Name" class="form-control" required="">
-                                        </div>
-                                    </div>
-                                    <!-- Text input-->
-                                    <div class="form-group">
-                                        <label class="control-label sr-only" for="email">Email</label>
-                                        <div class="">
-                                            <input id="email" name="email" type="email" placeholder="Email" class="form-control" required="">
-                                        </div>
-                                    </div>
-                                    <!-- Text input-->
-                                    <div class="form-group">
-                                        <label class="control-label sr-only" for="mobileno">Mobile No</label>
-                                        <div class="">
-                                            <input id="mobileno" name="mobileno" type="number" placeholder="Mobile No" class="form-control" required="">
-                                        </div>
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="selectvisa" class="sr-only">Select Visa</label>
-                                        <select class="form-control" id="selectvisa" name="selectvisa">
-                                            <option value="Select Visa">Select Visa</option>
-                                            <option value="Students Visa">Students Visa</option>
-                                            <option value="Business Visa">Business Visa</option>
-                                            <option value="Family Visa">Family Visa</option>
-                                            <option value="Travel Visa">Travel Visa </option>
-                                            <option value="Work Visa">Work Visa </option>
-                                            <option value="Visitor Visa">Visitor Visa </option>
-                                            <option value="Migrate Visa">Migrate Visa </option>
-                                            <option value="PR Visa">PR Visa</option>
-                                        </select>
-                                    </div>
-                                    <!-- Textarea -->
-                                    <div class="form-group">
-                                        <label class="control-label sr-only" for="message">Message</label>
-                                        <div class="">
-                                            <textarea class="form-control" id="message" name="message" rows="4" placeholder="Message"></textarea>
-                                        </div>
-                                    </div>
-                                    <button type="submit" class="btn btn-default btn-lg btn-block">Book My Free Assessment</button>
-                                </form>
+                                <h3 class="form-title pt-3">Free Immigration Assessment</h3>
+                                <!-- <p class="form-text">Find out your options for visa by completing a free online assessment.</p> -->
+                                <div>
+                            <!-- Text input-->
+                            <div class="form-group">
+                                <label class="control-label sr-only" for="yourname">Your Name</label>
+                                <div class="">
+                                    <input id="pop-name" name="pop-name" type="text" placeholder="Your Name" class="form-control input-md" required="">
+                                    <!-- <span id="pop-name-info" class="text-danger"></span> -->
+                                </div>
+                            </div>
+                            <!-- Text input-->
+                            <div class="form-group">
+                                <label class="control-label sr-only" for="email">Email</label>
+                                <div class="">
+                                    <input id="pop-email" name="pop-email" type="email" placeholder="Email" class="form-control input-md" required="">
+                                    <!-- <span id="pop-email-info" class="text-danger"></span> -->
+                                </div>
+                            </div>
+                            <!-- Text input-->
+                            <div class="form-group">
+                                <label class="control-label sr-only" for="mobile">Mobile No</label>
+                                <div class="">
+                                    <input id="pop-phone" name="pop-phone" type="tel" placeholder="Mobile No" class="form-control input-md" required="">
+                                    <!-- <span id="pop-phone-info" class="text-danger"></span> -->
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="selectvisa" class="sr-only">Select Visa</label>
+                                <select class="form-control" id="pop-selectvisa" name="pop-selectvisa">
+                                    <option>Select Visa</option>
+                                    <option value="Visa">Visa</option>
+                                </select>
+                                <!-- <span id="pop-selectvisa-info" class="text-danger"></span> -->
+                            </div>
+                            <!-- Textarea -->
+                            <div class="form-group">
+                                <label class="control-label sr-only" for="message">Message</label>
+                                <div class="">
+                                    <textarea class="form-control" id="pop-message" name="pop-message" rows="4" placeholder="Message"></textarea>
+                                    <!-- <span id="pop-message-info" class="text-danger"></span> -->
+                                </div>
+                            </div>
+                            <div id="pop-mail-status"></div>
+                            <button onClick="sendPopContact();" class="btn btn-default btn-lg btn-block mt-4">Book My Free Assessment</button>
+                        </div>
+                        <span class="help-block">We will not spam your email.</span>
                             </div>
                         </div>
                     </div>

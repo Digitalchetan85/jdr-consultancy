@@ -368,11 +368,11 @@
             </div>
         </div>
     </div>
-    <div class="space-medium pdb0">
+    <!-- <div class="space-medium pdb0"> -->
 
         <!-- /.Testimonial section -->
         <!-- <div class="space-medium pdb0">
-             Partner section
+            Partner section
             <div class="container">
                 <div class="row">
                     <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12">
@@ -407,87 +407,90 @@
                                     <img src="assets/images/3.png" alt="List of clients, supporters, partners or sponsors logos in your website." class="img-responsive grayscale">
                                 </div>
 
-                            </div> -->
-        <!-- <div class="item">
+                            </div>
+                            <div class="item">
                                 <div class="partner-logo">
                                     partner logo
                                     <img src="assets/images/partner-logo-4.jpg" alt="List of clients, supporters, partners or sponsors logos in your website." class="img-responsive grayscale">
                                 </div>
                                 /.partner logo
-                            </div> -->
-        <!-- <div class="item">
+                            </div>
+                            <div class="item">
                                 <div class="partner-logo">
                                     partner logo
                                     <img src="assets/images/partner-logo-5.jpg" alt="List of clients, supporters, partners or sponsors logos in your website." class="img-responsive grayscale">
                                 </div>
                                 /.partner logo
-                            </div> -->
-        <!-- <div class="item">
+                            </div>
+                            <div class="item">
                                 <div class="partner-logo">
                                     partner logo
                                     <img src="assets/images/partner-logo-6.jpg" alt="List of clients, supporters, partners or sponsors logos in your website." class="img-responsive grayscale">
                                 </div>
                                 /.partner logo
-                            </div> -->
-    </div>
-    </div>
-    </div>
-    </div>
-    </div>
-    <!-- /.Partner section  -->
-
-    <div class="Testimonial section">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        /.Partner section -->
+    <!-- </div> -->
+    <div id="testimonial" class="py-3 py-md-5">
         <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="owl-carousel owl-theme">
+                        <div class="custom">
+                            <div class="text-center">
+                                <img src="{{asset('assets/images/services/innovation.png')}}" alt="" class="img-fluid">
+                            </div>
+                            <div class="px-2 custom mt-3">
+                                <h2 class="text-center fs-5">Innovation Partners</h2>
+                                <p class="text-dark text-center">
+                                    We have a proven track record of digital innovation with our customers and are the preferred
+                                    partner for some of the best software product ﬁrms. Facilitate ﬂexible, scalable, and
+                                    cost-effective business operations by using Low code no-code platforms and ERP based
+                                    solutions.
+                                </p>
+                            </div>
+                        </div>
 
-            <div class="owl-carousel owl-theme">
-                <div class="">
-                    <div class="text-center">
-                        <img src="{{asset('assets/images/services/innovation.png')}}" alt="" class="img-fluid">
-                    </div>
-                    <div class="px-2 custom mt-3">
-                        <h2 class="text-center fs-5">Innovation Partners</h2>
-                        <p class="text-dark text-center">
-                            We have a proven track record of digital innovation with our customers and are the preferred
-                            partner for some of the best software product ﬁrms. Facilitate ﬂexible, scalable, and
-                            cost-effective business operations by using Low code no-code platforms and ERP based
-                            solutions.
-                        </p>
-                    </div>
-                </div>
+                        <div class="col-md-4">
+                            <div class="text-center">
+                                <img src="{{asset('assets/images/services/innovation.png')}}" alt="" class="img-fluid">
+                            </div>
+                            <div class="px-2 custom mt-3">
+                                <h2 class="text-center fs-5">Innovation Partners</h2>
+                                <p class="text-dark text-center">
+                                    We have a proven track record of digital innovation with our customers and are the preferred
+                                    partner for some of the best software product ﬁrms. Facilitate ﬂexible, scalable, and
+                                    cost-effective business operations by using Low code no-code platforms and ERP based
+                                    solutions.
+                                </p>
+                            </div>
+                        </div>
 
-                <div class="">
-                    <div class="text-center">
-                        <img src="{{asset('assets/images/services/innovation.png')}}" alt="" class="img-fluid">
-                    </div>
-                    <div class="px-2 custom mt-3">
-                        <h2 class="text-center fs-5">Innovation Partners</h2>
-                        <p class="text-dark text-center">
-                            We have a proven track record of digital innovation with our customers and are the preferred
-                            partner for some of the best software product ﬁrms. Facilitate ﬂexible, scalable, and
-                            cost-effective business operations by using Low code no-code platforms and ERP based
-                            solutions.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="">
-                    <div class="text-center">
-                        <img src="{{asset('assets/images/services/innovation.png')}}" alt="" class="img-fluid">
-                    </div>
-                    <div class="px-2 custom mt-3">
-                        <h2 class="text-center fs-5">Innovation Partners</h2>
-                        <p class="text-dark text-center">
-                            We have a proven track record of digital innovation with our customers and are the preferred
-                            partner for some of the best software product ﬁrms. Facilitate ﬂexible, scalable, and
-                            cost-effective business operations by using Low code no-code platforms and ERP based
-                            solutions.
-                        </p>
+                        <div class="col-md-4">
+                            <div class="text-center">
+                                <img src="{{asset('assets/images/services/innovation.png')}}" alt="" class="img-fluid">
+                            </div>
+                            <div class="px-2 custom mt-3">
+                                <h2 class="text-center fs-5">Innovation Partners</h2>
+                                <p class="text-dark text-center">
+                                    We have a proven track record of digital innovation with our customers and are the preferred
+                                    partner for some of the best software product ﬁrms. Facilitate ﬂexible, scalable, and
+                                    cost-effective business operations by using Low code no-code platforms and ERP based
+                                    solutions.
+                                </p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    </div>
+
 
 
     <div class="bg-default space-medium">
@@ -549,7 +552,7 @@
                                 </div>
                             </div>
                             <div id="pop-mail-status"></div>
-                            <button onClick="sendPopContact();" class="btn btn-default btn-lg btn-block">Book My Free Assessment</button>
+                            <button onClick="sendPopContact();" class="btn btn-default btn-lg btn-block mt-4">Book My Free Assessment</button>
                         </div>
                         <span class="help-block">We will not spam your email.</span>
                     </div>

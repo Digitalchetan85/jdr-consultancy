@@ -189,7 +189,7 @@
                                 <a href="#"><img src="assets/images/coaching-img-4.jpg" alt="" class="img-fluid"></a>
                             </div>
                             <div class="coaching-card-body">
-                                <h2 class="coaching-card-title"><a href="#" class="titl text-decoration-none">GMAT <small> (Graduate Management Test)</small></a></h2>
+                                <h2 class="coaching-card-title"><a href="#" class="title text-decoration-none">GMAT <small> (Graduate Management Test)</small></a></h2>
                                 <p>GMAT plays a key role in selection criteria for the business school application process across global universities. It is a multiple-choice, computer-based test.</p>
                                 <!--<a href="#" class="btn-link-primary">Read More</a>-->
                             </div>
