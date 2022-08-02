@@ -22,7 +22,7 @@
 
 <body>
 
-<div id="navbar" class="sticky-top">
+    <div id="navbar" class="sticky-top">
         <div class="topbar bg-primary">
             <!-- topbar -->
             <div class="container">
@@ -34,7 +34,7 @@
                         <div class="header-block">
                             <span class="header-link d-none d-xl-block"><a data-toggle="modal" data-target="#searchModal" class="anchor-link text-white text-decoration-none">Talk to Our Expert</a></span>
                             <span class="header-link">info@jdrmigration.com</span>
-                             <span class="header-link"><a href="https://www.facebook.com/jdrmigration" target="_blank"><i class="fa fa-facebook"></i></a></span>
+                            <span class="header-link"><a href="https://www.facebook.com/jdrmigration" target="_blank"><i class="fa fa-facebook"></i></a></span>
                             <span class="header-link"><a href="https://www.linkedin.com/company/jdrmigration/" target="_blank"><i class="fa fa-linkedin"></i></a></span>
                             <span class="header-link"><a href="#"><i class="fa fa-instagram"></i></a></span>
                             <span class="header-link"><a href="https://youtube.com/channel/UC__n4oHWi9HJ6HPHBa30vTw"><i class="fa fa-youtube"></i></a></span>
@@ -54,7 +54,7 @@
                         <span class="navbar-toggler-icon"></span>
                     </button>
                     <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                             <li class="nav-item">
                                 <a class="nav-link" aria-current="page" href="/jdr-consultancy">Home</a>
                             </li>
@@ -153,14 +153,14 @@
                     <p>When it comes to delivering value-added services, we have an advantage over our
                         rivals because of our vast expertise and deep understanding of the industry and
                         several immigration programs.</p>
-                    
+
                     <!-- <p class="text-default">Call: +91 7523999199</p> -->
                 </div>
                 <div class="col-xl-5 col-lg-5 col-md-12 col-sm-12 col-12 align-self-center">
                     <div class="image-block py-3"><img src="assets/images/about/About 3.png" alt="" class="img-fluid"></div>
                 </div>
                 <div class="">
-                <h2 class="text-primary">We make all of your dreams come true.</h2>
+                    <h2 class="text-primary">We make all of your dreams come true.</h2>
                     <p>There has been an exponential rise in the number of Indian visa applications due to
                         an increase in the overall number of Indians going overseas to study or to work.
                         The visa application procedure, on the other hand, is lengthy, time-consuming, and
@@ -183,6 +183,34 @@
 
             </div>
         </div>
+
+        <div class="container py-3 py-md-5">
+            <div class="row">
+                <div class="col-xl-5 col-lg-5 col-md-12 col-sm-12 col-12 align-self-start">
+                    <div class="image-block py-3"><img src="assets/images/director.jpg" alt="" class="img-fluid"></div>
+                </div>
+                <div class="col-xl-7 col-lg-7 col-md-12 col-sm-12 col-12">
+                    <h2 class="pb-3">Director Message</h2>
+                    <p>In today’s global economy, being armed with an overseas qualification is sure to guarantee a bright future. Studying abroad can provide an all-around edge to students who wish to work and live overseas. Not only do they have a diverse set of study programs to choose from, but they can also get specialized skills that will hold them in good stead in leading corporations across the world.</p>
+
+                    <p>At JDR Migration, we believe in the power of education to open doors and enhance lives. We have written the success stories of many of our students, matching them to the study programs of their choice in prestigious universities abroad. We support every student’s endeavor and try to make a genuine difference in their careers, helping them to hold their own in a challenging global market.</p>
+
+                    <p>What makes JDR stand apart is the personalized support and guidance that is given to each of our students. Our teams work in close alignment with our core values of Innovation, Caring, Excellence, Honesty, Openness, and Trust – ICEHOT. Our success is measured in the career growth of the thousands of students and professionals who have achieved their dreams with our support.</p>
+
+                    <p>JDR's primary focus is on Direct Registration programs for overseas qualified nurses who are looking to make their careers abroad. Through one-on-one support, we offer exam preparation support for qualifying exams, registration application guidance, English language preparation training, financial guidance, and career advice for hundreds of deserving professionals; helping them to get rewarding careers in countries like 8 countries names mainly.</p>
+
+                    <p>By following ethical processes in international student admissions to the best universities abroad, we are steadfast in our mission to hand-hold students to get admission in higher study programs in leading institutes abroad not just in the healthcare stream but in domains such as Engineering, Management Pure sciences, and Arts to name a few.</p>
+
+                    <p>Our migration and visa services are second to none. Our team of experienced consultants has the know-how and the expertise to handle migration and visa applications for different categories such as student/work/PR and more. Our visa success rates are among the highest in the country.</p>
+
+                    <p>And we don’t just stop there! Through our widespread partner network of institutes, healthcare facilities, and agencies across the world, we have succeeded in providing global job placement assistance for many healthcare professionals, helping them to reach the highest echelons of success in their career paths.</p>
+
+                    <p>We’re very thankful for your continuing support and the trust you have placed in us. Together, we can build a better future!</p>
+                </div>
+            </div>
+        </div>
+
+
         <div class="space-medium pdb0">
             <div class="container">
                 <div class="row">
@@ -384,11 +412,11 @@
                         </ul>
                         <div class="pt-1"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.4983961565113!2d77.58043127668125!3d13.067568784831922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae194edd460f63%3A0xfeaa6fea6ef67737!2sJDR%20Migration%20Pro!5e0!3m2!1sen!2sin!4v1655705588087!5m2!1sen!2sin" width="100%" height="150" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
                         <ul class="listnone mt-2">
-                                <a href="https://www.facebook.com/jdrmigration" target="_blank"><i class="fa fa-facebook m-1"></i></a>
-                                <a href="https://www.linkedin.com/company/jdrmigration/" target="_blank"><i class="fa fa-linkedin m-1"></i></a>
-                                <a href="#"><i class="fa fa-instagram m-1"></i></a>
-                                <a href="https://youtube.com/channel/UC__n4oHWi9HJ6HPHBa30vTw"><i class="fa fa-youtube m-1"></i></a>
-                            </ul>
+                            <a href="https://www.facebook.com/jdrmigration" target="_blank"><i class="fa fa-facebook m-1"></i></a>
+                            <a href="https://www.linkedin.com/company/jdrmigration/" target="_blank"><i class="fa fa-linkedin m-1"></i></a>
+                            <a href="#"><i class="fa fa-instagram m-1"></i></a>
+                            <a href="https://youtube.com/channel/UC__n4oHWi9HJ6HPHBa30vTw"><i class="fa fa-youtube m-1"></i></a>
+                        </ul>
                     </div>
                 </div>
             </div>

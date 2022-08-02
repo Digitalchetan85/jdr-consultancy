@@ -19,7 +19,7 @@
 </head>
 
 <body>
-    <div id="navbar" class="sticky-top">
+<div id="navbar" class="sticky-top">
         <div class="topbar bg-primary">
             <!-- topbar -->
             <div class="container">
@@ -31,15 +31,11 @@
                         <div class="header-block">
                             <span class="header-link d-none d-xl-block"><a data-toggle="modal" data-target="#searchModal" class="anchor-link text-white text-decoration-none">Talk to Our Expert</a></span>
                             <span class="header-link">info@jdrmigration.com</span>
-                            <span class="header-link"><a href="#" target="_blank"><i class="fa fa-facebook m-1"></i></a></span>
-                            <span class="header-link"><a href="#" target="_blank"><i class="fa fa-linkedin m-1"></i></a></span>
-                            <span class="header-link"><a href="#"><i class="fa fa-instagram m-1"></i></a></span>
-                            <span class="header-link"><a href="#"><i class="fa fa-youtube m-1"></i></a></span>
-                            <span class="header-link"><a href="#"><i class="fa fa-twitter m-1"></i></a></span>
-
-
-
-
+                            <span class="header-link"><a href="https://www.facebook.com/jdrmigration" target="_blank"><i class="fa fa-facebook"></i></a></span>
+                            <span class="header-link"><a href="https://www.linkedin.com/company/jdrmigration/" target="_blank"><i class="fa fa-linkedin"></i></a></span>
+                            <span class="header-link"><a href="#"><i class="fa fa-instagram"></i></a></span>
+                            <span class="header-link"><a href="https://youtube.com/channel/UC__n4oHWi9HJ6HPHBa30vTw"><i class="fa fa-youtube"></i></a></span>
+                            <span class="header-link"><a href="#"><i class="fa fa-twitter"></i></a></span>
                         </div>
                     </div>
                 </div>
@@ -48,51 +44,19 @@
 
 
         <div class="">
-
-            <!-- <div class="row justify-content-center">
-                <div class="col-xl-9 col-lg-12 col-md-12 col-sm-12 col-12">
-                    <div id="navigation-regular" class="">
-                        navigation
-                      <ul class="">
-                            <li><a href="#">Home</a></li>
-                            <li><a href="about.php">About Us</a></li>
-                            <li><a href="#">Services</a>
-                                <ul>
-                                    <li><a href="counselling.php">Counselling </a></li>
-                                    <li><a href="#">Visa Filling </a></li>
-                                    <li><a href="#">Flight Bookings </a></li>
-                                </ul>
-                            </li>
-                            <li><a href="study_abroad.html">Study Abroad</a>
-                                <ul>
-                                    <li><a href="study-in-usa.php">STUDY IN USA</a></li>
-                                    <li><a href="#">STUDY IN UK</a></li>
-                                    <li><a href="#">STUDY IN NEW ZEALAND</a></li>
-                                    <li><a href="#">STUDY IN AUSTRALIA </a></li>
-                                </ul>
-                            </li>
-                            <li><a href="coaching.php">Coaching</a></li>
-                            <li><a href="certifications.php">Certifications</a></li>
-                            <li><a href="contact.php">Contact Us</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div> -->
-            <nav class="navbar-expand-lg navbar-light bg-white">
-                <div class="container-fluid">
-                    <button class="navbar-toggler pb-2 ms-auto me-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+            <nav class="navbar navbar-expand-lg navbar-light bg-white">
+                <div class="container">
+                    <a class="navbar-brand" href="/"><img src="assets/images/logo.png" alt=""></a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
-                    <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-                        <a class="navbar-brand ps-5" href="/jdr-consultancy">
-                            <img src="assets/images/logo.png" alt="">
-                        </a>
-                        <ul class="navbar-nav ms-auto me-auto mb-2 mb-lg-0">
+                    <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+                        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                             <li class="nav-item">
-                                <a class="nav-link " aria-current="page" href="/">Home</a>
+                                <a class="nav-link" aria-current="page" href="/jdr-consultancy">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link " href="about.php">About Us</a>
+                                <a class="nav-link" href="about.php">About Us</a>
                             </li>
                             <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
                                 <ul class="navbar-nav">
@@ -108,13 +72,6 @@
                                     </li>
                                 </ul>
                             </div>
-                            <!-- <li><a href="#">Services</a>
-                                <ul>
-                                    <li><a href="counselling.php">Counselling </a></li>
-                                    <li><a href="#">Visa Filling </a></li>
-                                    <li><a href="#">Flight Bookings </a></li>
-                                </ul>
-                            </li> -->
                             <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
                                 <ul class="navbar-nav">
                                     <li class="nav-item dropdown">
@@ -134,15 +91,6 @@
                                     </li>
                                 </ul>
                             </div>
-
-                            <!-- <li><a href="study_abroad.html">Study Abroad</a>
-                            <ul>
-                                <li><a href="study-in-usa.php">STUDY IN USA</a></li>
-                                <li><a href="#">STUDY IN UK</a></li>
-                                <li><a href="#">STUDY IN NEW ZEALAND</a></li>
-                                <li><a href="#">STUDY IN AUSTRALIA </a></li>
-                            </ul>
-                        </li> -->
                             <li class="nav-item">
                                 <a class="nav-link" href="coaching.php">Coaching</a>
                             </li>
@@ -153,13 +101,10 @@
                                 <a class="nav-link" href="contact.php">Contact US</a>
                             </li>
                         </ul>
-
                     </div>
                 </div>
             </nav>
-
         </div>
-
     </div>
 
     <div>
