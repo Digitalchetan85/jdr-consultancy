@@ -212,7 +212,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
                         <div class="sidebar sticky-top">
                             <div class="widget widget-quote-form bg-light">
-                                <h3 class="form-title pt-3">Free Immigration Assessment</h3>
+                                <h3 class="form-title pt-3">Free Counselling Assessment</h3>
                                 <!-- <p class="form-text">Find out your options for visa by completing a free online assessment.</p> -->
                                 <div>
                             <!-- Text input-->

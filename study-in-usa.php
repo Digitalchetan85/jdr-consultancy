@@ -254,15 +254,15 @@
                     <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
                         <div class="sidebar sticky-top">
                             <div class="widget widget-quote-form bg-light">
-                                <h3 class="form-title">Free Immigration Assessment</h3>
-                                <p class="form-text">Find out your options for visa by completing a free online assessment.</p>
+                                <h3 class="form-title">Free USA Assessment</h3>
+                                <!-- <p class="form-text">Find out your options for visa by completing a free online assessment.</p> -->
                                 <div class="sidebar-quote-form">
                                     <!-- Text input-->
                                     <div class="form-group">
                                         <label class="control-label sr-only" for="yourname">Your Name</label>
                                         <div class="">
                                             <input id="study-usa-name" name="study-usa-name" type="text" placeholder="Your Name" class="form-control" required="">
-                                            <span id="study-usa-name-info" class="text-danger"></span>
+                                            <!-- <span id="study-usa-name-info" class="text-danger"></span> -->
                                         </div>
                                     </div>
                                     <!-- Text input-->
@@ -270,7 +270,7 @@
                                         <label class="control-label sr-only" for="email">Email</label>
                                         <div class="">
                                             <input id="study-usa-email" name="study-usa-email" type="email" placeholder="Email" class="form-control" required="">
-                                            <span id="study-usa-email-info" class="text-danger"></span>
+                                            <!-- <span id="study-usa-email-info" class="text-danger"></span> -->
                                         </div>
                                     </div>
                                     <!-- Text input-->
@@ -278,7 +278,7 @@
                                         <label class="control-label sr-only" for="mobileno">Mobile No</label>
                                         <div class="">
                                             <input id="study-usa-phone" name="study-usa-phone" type="tel" placeholder="Mobile No" class="form-control" required="">
-                                            <span id="study-usa-phone-info" class="text-danger"></span>
+                                            <!-- <span id="study-usa-phone-info" class="text-danger"></span> -->
                                         </div>
                                     </div>
                                     <div class="form-group">
@@ -300,11 +300,11 @@
                                         <label class="control-label sr-only" for="message">Message</label>
                                         <div class="">
                                             <textarea class="form-control" id="study-usa-message" name="study-usa-message" rows="4" placeholder="Message"></textarea>
-                                            <span id="study-usa-info" class="text-danger"></span>
+                                            <!-- <span id="study-usa-info" class="text-danger"></span> -->
                                         </div>
                                     </div>
                                     <div id="study-usa-mail-status"></div>
-                                    <button onClick="sendStudyUsaContact();" class="btn btn-default btn-lg btn-block">Book My Free Assessment</button>
+                                    <button onClick="sendStudyUsaContact();" class="btn btn-default btn-lg btn-block mt-3">Book My Free Assessment</button>
                                 </div>
                             </div>
                         </div>

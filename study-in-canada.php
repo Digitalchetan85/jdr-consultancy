@@ -19,7 +19,7 @@
 </head>
 
 <body>
-<div id="navbar" class="sticky-top">
+    <div id="navbar" class="sticky-top">
         <div class="topbar bg-primary">
             <!-- topbar -->
             <div class="container">
@@ -107,7 +107,7 @@
         </div>
     </div>
 
-    <div>
+    
         <!-- /.header classic -->
         <div id="canada" class="page1">
             <div class="container">
@@ -202,15 +202,15 @@
 
                         <div class="sidebar sticky-top">
                             <div class="widget widget-quote-form bg-light">
-                                <h3 class="form-title">Free Immigration Assessment</h3>
-                                <p class="form-text">Find out your options for visa by completing a free online assessment.</p>
+                                <h3 class="form-title">Free Canada Assessment</h3>
+                                <!-- <p class="form-text">Find out your options for visa by completing a free online assessment.</p> -->
                                 <div class="sidebar-quote-form">
                                     <!-- Text input-->
                                     <div class="form-group">
                                         <label class="control-label sr-only" for="yourname">Your Name</label>
                                         <div class="">
                                             <input id="study-usa-name" name="study-usa-name" type="text" placeholder="Your Name" class="form-control" required="">
-                                            <span id="study-usa-name-info" class="text-danger"></span>
+                                            <!-- <span id="study-usa-name-info" class="text-danger"></span> -->
                                         </div>
                                     </div>
                                     <!-- Text input-->
@@ -218,7 +218,7 @@
                                         <label class="control-label sr-only" for="email">Email</label>
                                         <div class="">
                                             <input id="study-usa-email" name="study-usa-email" type="email" placeholder="Email" class="form-control" required="">
-                                            <span id="study-usa-email-info" class="text-danger"></span>
+                                            <!-- <span id="study-usa-email-info" class="text-danger"></span> -->
                                         </div>
                                     </div>
                                     <!-- Text input-->
@@ -226,7 +226,7 @@
                                         <label class="control-label sr-only" for="mobileno">Mobile No</label>
                                         <div class="">
                                             <input id="study-usa-phone" name="study-usa-phone" type="tel" placeholder="Mobile No" class="form-control" required="">
-                                            <span id="study-usa-phone-info" class="text-danger"></span>
+                                            <!-- <span id="study-usa-phone-info" class="text-danger"></span> -->
                                         </div>
                                     </div>
                                     <div class="form-group">
@@ -248,11 +248,11 @@
                                         <label class="control-label sr-only" for="message">Message</label>
                                         <div class="">
                                             <textarea class="form-control" id="study-usa-message" name="study-usa-message" rows="4" placeholder="Message"></textarea>
-                                            <span id="study-usa-info" class="text-danger"></span>
+                                            <!-- <span id="study-usa-info" class="text-danger"></span> -->
                                         </div>
                                     </div>
                                     <div id="study-usa-mail-status"></div>
-                                    <button onClick="sendStudyUsaContact();" class="btn btn-default btn-lg btn-block">Book My Free Assessment</button>
+                                    <button onClick="sendStudyUsaContact();" class="btn btn-default btn-lg btn-block mt-3">Book My Free Assessment</button>
                                 </div>
                             </div>
                         </div>
@@ -395,11 +395,11 @@
                         </ul>
                         <div class="pt-1"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.4983961565113!2d77.58043127668125!3d13.067568784831922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae194edd460f63%3A0xfeaa6fea6ef67737!2sJDR%20Migration%20Pro!5e0!3m2!1sen!2sin!4v1655705588087!5m2!1sen!2sin" width="100%" height="150" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
                         <ul class="listnone mt-2">
-                                <a href="https://www.facebook.com/jdrmigration" target="_blank"><i class="fa fa-facebook m-1"></i></a>
-                                <a href="https://www.linkedin.com/company/jdrmigration/" target="_blank"><i class="fa fa-linkedin m-1"></i></a>
-                                <a href="#"><i class="fa fa-instagram m-1"></i></a>
-                                <a href="https://youtube.com/channel/UC__n4oHWi9HJ6HPHBa30vTw"><i class="fa fa-youtube m-1"></i></a>
-                            </ul>
+                            <a href="https://www.facebook.com/jdrmigration" target="_blank"><i class="fa fa-facebook m-1"></i></a>
+                            <a href="https://www.linkedin.com/company/jdrmigration/" target="_blank"><i class="fa fa-linkedin m-1"></i></a>
+                            <a href="#"><i class="fa fa-instagram m-1"></i></a>
+                            <a href="https://youtube.com/channel/UC__n4oHWi9HJ6HPHBa30vTw"><i class="fa fa-youtube m-1"></i></a>
+                        </ul>
                     </div>
                 </div>
             </div>

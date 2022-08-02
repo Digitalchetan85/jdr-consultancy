@@ -231,8 +231,8 @@
                     <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
                         <div class="sidebar sticky-top">
                             <div class="widget widget-quote-form bg-light">
-                                <h3 class="form-title">Free Immigration Assessment</h3>
-                                <p class="form-text">Find out your options for visa by completing a free online assessment.</p>
+                                <h3 class="form-title">Free Visa Filling Assessment</h3>
+                                <!-- <p class="form-text">Find out your options for visa by completing a free online assessment.</p> -->
                                 <form class="sidebar-quote-form">
                                     <!-- Text input-->
                                     <div class="form-group">
@@ -276,7 +276,7 @@
                                             <textarea class="form-control" id="message" name="message" rows="4" placeholder="Message"></textarea>
                                         </div>
                                     </div>
-                                    <button type="submit" class="btn btn-default btn-lg btn-block">Book My Free Assessment</button>
+                                    <button type="submit" class="btn btn-default btn-lg btn-block mt-4">Book My Free Assessment</button>
                                 </form>
                             </div>
                         </div>

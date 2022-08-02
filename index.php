@@ -36,7 +36,7 @@
                             <span class="header-link">info@jdrmigration.com</span>
                             <span class="header-link"><a href="https://www.facebook.com/jdrmigration" target="_blank"><i class="fa fa-facebook"></i></a></span>
                             <span class="header-link"><a href="https://www.linkedin.com/company/jdrmigration/" target="_blank"><i class="fa fa-linkedin"></i></a></span>
-                            <span class="header-link"><a href="#"><i class="fa fa-instagram"></i></a></span>
+                            <span class="header-link"><a href="https://www.instagram.com/jdrmigration/"><i class="fa fa-instagram"></i></a></span>
                             <span class="header-link"><a href="https://youtube.com/channel/UC__n4oHWi9HJ6HPHBa30vTw"><i class="fa fa-youtube"></i></a></span>
                             <span class="header-link"><a href="#"><i class="fa fa-twitter"></i></a></span>
                         </div>
