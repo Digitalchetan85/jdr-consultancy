@@ -610,7 +610,7 @@
                         <ul class="listnone mt-2">
                             <a href="https://www.facebook.com/jdrmigration" target="_blank"><i class="fa fa-facebook m-1"></i></a>
                             <a href="https://www.linkedin.com/company/jdrmigration/" target="_blank"><i class="fa fa-linkedin m-1"></i></a>
-                            <a href="#"><i class="fa fa-instagram m-1"></i></a>
+                            <a href="https://www.instagram.com/jdrmigration/"><i class="fa fa-instagram m-1"></i></a>
                             <a href="https://youtube.com/channel/UC__n4oHWi9HJ6HPHBa30vTw"><i class="fa fa-youtube m-1"></i></a>
                         </ul>
                     </div>

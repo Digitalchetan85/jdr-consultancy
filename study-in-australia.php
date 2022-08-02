@@ -33,7 +33,7 @@
                             <span class="header-link">info@jdrmigration.com</span>
                             <span class="header-link"><a href="https://www.facebook.com/jdrmigration" target="_blank"><i class="fa fa-facebook"></i></a></span>
                             <span class="header-link"><a href="https://www.linkedin.com/company/jdrmigration/" target="_blank"><i class="fa fa-linkedin"></i></a></span>
-                            <span class="header-link"><a href="#"><i class="fa fa-instagram"></i></a></span>
+                            <span class="header-link"><a href="https://www.instagram.com/jdrmigration/"><i class="fa fa-instagram"></i></a></span>
                             <span class="header-link"><a href="https://youtube.com/channel/UC__n4oHWi9HJ6HPHBa30vTw"><i class="fa fa-youtube"></i></a></span>
                             <span class="header-link"><a href="#"><i class="fa fa-twitter"></i></a></span>
                         </div>
@@ -111,7 +111,7 @@
         <div class="page6">
             <div class="container">
                 <div class="row justify-content-start">
-                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
                         <h1 class="page-title shadow">Study in Australia</h1>
                         <p class="page-description shadow">The Australia is a country that needs no introduction. If you desire to achieve your goals, the world is your oyster. </p>
                     </div>
@@ -300,13 +300,79 @@
                                 <div class="row">
                                     <div class="col-md-4">
                                         <ul class="listnone check-circle">
-                                            <li>Find out the kind of work visa you are qualified for before you apply.</li>
-                                            <li>You must meet the criteria for the points-based evaluation (Skillselect).</li>
-                                            <li>Before you can apply for a visa, your employer needs to fill out an online
-                                                nomination or sponsorship form.</li>
-                                            <li>Complete the appropriate visa application form online.</li>
-                                            <li>Submit all the necessary papers and information with your application.</li>
-                                            <li>Pay the money for your visa application to be processed.</li>
+                                            <li> Dentistry</li>
+                                            <li> Medicine</li>
+                                            <li> Nursing,</li>
+                                            <li> Physiotherapy,</li>
+                                            <li> Midwifery</li>
+                                            <li> Medical Sciences</li>
+                                            <li> English Philology</li>
+                                            <li> Beauty Science</li>
+                                            <li>Management</li>
+                                            <li> Strategic Human Resources</li>
+                                            <li> MBA</li>
+                                            <li>Business Management</li>
+                                            <li> Aviation Management</li>
+                                            <li> Marketing and Sales</li>
+                                            <li>Business Psychology</li>
+                                            <li> Business Administration</li>
+                                            <li> International Business</li>
+                                            <li> Business and Diplomatic</li>
+                                            <li> International Trade and Sales</li>
+                                            <li> Global Business and Modern Marketing</li>
+                                            <li> Communication and Digital Marketing</li>
+
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <ul class="listnone check-circle">
+                                            <li>Computer Engineering</li>
+                                            <li> Mechatronics</li>
+                                            <li> Computer Science</li>
+                                            <li> Informatics and Digital Contents</li>
+                                            <li> Information Technology</li>
+                                            <li> Programming</li>
+                                            <li> Game Design and Development</li>
+                                            <li> Animation</li>
+                                            <li> Information Technology In Business</li>
+                                            <li> Motion Pictures, Cameraman</li>
+                                            <li> Film and Media</li>
+                                            <li> Cybersecurity Management</li>
+                                            <li> Economics</li>
+                                            <li> Digital Economy</li>
+                                            <li> Financial Industry</li>
+                                            <li> Finance and Accounting</li>
+                                            <li> Sociology</li>
+                                            <li> International Relations</li>
+                                            <li> Criminal Justice</li>
+
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <ul class="listnone check-circle">
+                                           <li> Chemistry</li>
+                                           <li> Journalism and Social Communication</li>
+                                           <li> Logistics</li>
+                                          <li>  Logistics Management</li>
+                                           <li> Transport</li>
+                                           <li> Electrical Engineering</li>
+                                           <li> Engineering Management</li>
+                                           <li> Architecture</li>
+                                           <li> Interior Design</li>
+                                           <li> International Tourism</li>
+                                           <li> Tourism and Hospitality</li>
+                                            <li>Tourism and Recreation</li>
+                                            <li>Civil Engineering</li>
+
+                                        </ul>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
 
                                         </ul>
                                     </div>
@@ -480,6 +546,141 @@
                         <div class="col-md-12 col-sm-12 col-12">
 
 
+
+
+
+    <!-- {{-- footer --}} -->
+    <div id="footer" class="footer">
+        <!-- Footer -->
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
+                    <div class="widget-footer">
+                        <h3 class="widget-title">About us</h3>
+                        <p>JDR Migration, one of the top Study Abroad & Migration , understand the challenges arising during study migration. Our primary goal is to assist you in scaling through these processes, such as assessment, documentation, and filing.</p>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
+                    <div class="widget-footer">
+                        <h3 class="widget-title">Study Abroad</h3>
+                        <ul class="listnone arrow-footer">
+
+                            <li><a href="study-in-australia.php">Study In Australia</a></li> </a></li>
+                            <li><a href="study-in-canada.php">Study In Canada</a></li>
+                            <li><a href="study-in-dubai.php">Study In Dubai</a></li>
+                            <li><a href="study-in-malta.php">Study In Malta</a></li>
+                            <li><a href="study-in-singapore.php">Study In Singapore</a></li>
+                            <li><a href="study-in-uk.php">Study In UK</a></li>
+                            <li><a href="study-in-usa.php">Study In USA</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
+                    <div class="widget-footer">
+                        <h3 class="widget-title">Services</h3>
+                        <ul class="listnone arrow-footer">
+                            <li><a href="counselling.php">Counselling </a></li>
+                            <li><a href="#">Visa Filling </a></li>
+                            <li><a href="#">Flight Bookings </a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
+                    <div class="widget-footer">
+                        <h3 class="widget-title">Contact Us</h3>
+                        <ul class="listnone">
+                            <li><a href="#"><i class="fa fa-envelope pr-2"></i> info@jdrmigration.com</a></li>
+                            <li><a href="#"><i class="fa fa-envelope pr-2"></i> jdrmigration@gmail.com</a></li>
+                            <li><a href="#"><i class="fa fa-phone pr-2"></i> +91 7523999199</a></li>
+                            <!-- <li><a href="#"><i class="fa fa-map-marker pr-2"></i>3RD FLOOR, 707, NTI LAYOUT, 10 CROSS, 10TH MAIN, II PHASE, Sahakara Nagar Bengaluru Urban, Karnataka, 560092</a></li> -->
+                        </ul>
+                        <div class="pt-1"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.4983961565113!2d77.58043127668125!3d13.067568784831922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae194edd460f63%3A0xfeaa6fea6ef67737!2sJDR%20Migration%20Pro!5e0!3m2!1sen!2sin!4v1655705588087!5m2!1sen!2sin" width="100%" height="150" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+                        <ul class="listnone mt-2">
+                            <a href="https://www.facebook.com/jdrmigration" target="_blank"><i class="fa fa-facebook m-1"></i></a>
+                            <a href="https://www.linkedin.com/company/jdrmigration/" target="_blank"><i class="fa fa-linkedin m-1"></i></a>
+                            <a href="https://www.instagram.com/jdrmigration/"><i class="fa fa-instagram m-1"></i></a>
+                            <a href="https://youtube.com/channel/UC__n4oHWi9HJ6HPHBa30vTw"><i class="fa fa-youtube m-1"></i></a>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /.footer -->
+    <div class="tiny-footer">
+        <!-- tiny footer -->
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 text-center">
+                    <p><b>Copyright © 2022 JDR Migration. All Rights Reserved. Developed by ShanthasWebz</b></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /.tiny footer -->
+    <a href="https://api.whatsapp.com/send?phone=917523999199" class="float" target="_blank">
+        <i class="fa fa-whatsapp my-float"></i>
+    </a>
+    <!-- Search Modal -->
+    <div class="searchModal">
+        <div class="modal fade" id="searchModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-md" role="document">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <div class="enquiry-short-form">
+                            <h2>Enter Your Information</h2>
+                            <div>
+                                <!-- Text input-->
+                                <div class="form-group">
+                                    <label class="control-label sr-only" for="yourname">Your Name</label>
+                                    <div class="">
+                                        <input id="name" name="name" type="text" placeholder="Your Name" class="form-control input-md" required="">
+                                        <!-- <span id="name-info" class="text-danger"></span> -->
+                                    </div>
+                                </div>
+                                <!-- Text input-->
+                                <div class="form-group">
+                                    <label class="control-label sr-only" for="email">Email</label>
+                                    <div class="">
+                                        <input id="email" name="email" type="email" placeholder="Email" class="form-control input-md" required="">
+                                        <!-- <span id="email-info" class="text-danger"></span> -->
+                                    </div>
+                                </div>
+                                <!-- Text input-->
+                                <div class="form-group">
+                                    <label class="control-label sr-only" for="mobile">Mobile No</label>
+                                    <div class="">
+                                        <input id="phone" name="phone" type="tel" placeholder="Mobile No" class="form-control input-md" required="">
+                                        <!-- <span id="phone-info" class="text-danger"></span> -->
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label for="selectvisa" class="sr-only">Select Visa</label>
+                                    <select class="form-control" id="selectvisa" name="selectvisa">
+                                        <option value="Select Visa">Select Visa</option>
+                                        <option value="Students Visa">Students Visa</option>
+                                        <option value="Business Visa">Business Visa</option>
+                                        <option value="Family Visa">Family Visa</option>
+                                        <option value="Travel Visa">Travel Visa </option>
+                                        <option value="Work Visa">Work Visa </option>
+                                        <option value="Visitor Visa">Visitor Visa </option>
+                                        <option value="Migrate Visa">Migrate Visa </option>
+                                        <option value="PR Visa">PR Visa</option>
+                                    </select>
+                                    <!-- <span id="selectvisa-info" class="text-danger"></span> -->
+                                </div>
+                                <!-- Textarea -->
+                                <div class="form-group">
+                                    <label class="control-label sr-only" for="message">Message</label>
+                                    <div class="">
+                                        <textarea class="form-control" id="message" name="message" rows="4" placeholder="Message"></textarea>
+                                        <!-- <span id="message-info" class="text-center"> </span> -->
+                                    </div>
+                                </div>
+                                <div id="mail-status"></div>
+                                <button class="btn btn-default btn-lg btn-block" onClick="sendContact();">Book My Free Assessment</button>
+                            </div>
+                            <!-- <span class="help-block">We will not spam your email.</span> -->
                         </div>
                     </div>
                 </div>
